@@ -1,0 +1,6643 @@
+Cream,Eggs,81
+Cream,Leavening agent,26
+Cream,Pasta,14
+Cream,Salt,32
+Cream,Sugar,25
+Cream,Water,16
+Eggs,Leavening agent,153
+Eggs,Pasta,3
+Eggs,Salt,230
+Eggs,Sugar,166
+Eggs,Water,93
+Leavening agent,Pasta,1
+Leavening agent,Salt,106
+Leavening agent,Sugar,121
+Leavening agent,Water,51
+Pasta,Salt,9
+Pasta,Sugar,1
+Pasta,Water,5
+Salt,Sugar,181
+Salt,Water,160
+Sugar,Water,92
+Allium,Chicken,39
+Allium,Coriander,12
+Allium,Cumin,9
+Allium,Garden tomato,35
+Allium,Garden tomato (var.),99
+Allium,Ginger,3
+Allium,Pepper,34
+Allium,Pepper (Spice),130
+Allium,Rapeseed oil,1
+Allium,Salt,199
+Allium,Soft-necked garlic,146
+Allium,Yogurt,10
+Chicken,Coriander,1
+Chicken,Cumin,2
+Chicken,Garden tomato,5
+Chicken,Garden tomato (var.),11
+Chicken,Ginger,1
+Chicken,Pepper,4
+Chicken,Pepper (Spice),25
+Chicken,Rapeseed oil,1
+Chicken,Salt,25
+Chicken,Soft-necked garlic,22
+Chicken,Yogurt,1
+Coriander,Cumin,2
+Coriander,Garden tomato,1
+Coriander,Garden tomato (var.),3
+Coriander,Ginger,1
+Coriander,Pepper,3
+Coriander,Pepper (Spice),6
+Coriander,Rapeseed oil,1
+Coriander,Salt,12
+Coriander,Soft-necked garlic,10
+Coriander,Yogurt,1
+Cumin,Garden tomato,2
+Cumin,Garden tomato (var.),6
+Cumin,Ginger,2
+Cumin,Pepper,4
+Cumin,Pepper (Spice),6
+Cumin,Rapeseed oil,1
+Cumin,Salt,6
+Cumin,Soft-necked garlic,8
+Cumin,Yogurt,4
+Garden tomato,Garden tomato (var.),7
+Garden tomato,Ginger,1
+Garden tomato,Pepper,15
+Garden tomato,Pepper (Spice),18
+Garden tomato,Rapeseed oil,1
+Garden tomato,Salt,33
+Garden tomato,Soft-necked garlic,21
+Garden tomato,Yogurt,2
+Garden tomato (var.),Ginger,1
+Garden tomato (var.),Pepper,10
+Garden tomato (var.),Pepper (Spice),36
+Garden tomato (var.),Rapeseed oil,1
+Garden tomato (var.),Salt,33
+Garden tomato (var.),Soft-necked garlic,61
+Garden tomato (var.),Yogurt,2
+Ginger,Pepper,2
+Ginger,Pepper (Spice),3
+Ginger,Rapeseed oil,1
+Ginger,Salt,6
+Ginger,Soft-necked garlic,3
+Ginger,Yogurt,2
+Pepper,Pepper (Spice),11
+Pepper,Rapeseed oil,1
+Pepper,Salt,42
+Pepper,Soft-necked garlic,30
+Pepper,Yogurt,4
+Pepper (Spice),Rapeseed oil,1
+Pepper (Spice),Salt,87
+Pepper (Spice),Soft-necked garlic,76
+Pepper (Spice),Yogurt,6
+Rapeseed oil,Salt,1
+Rapeseed oil,Soft-necked garlic,1
+Rapeseed oil,Yogurt,1
+Salt,Soft-necked garlic,91
+Salt,Yogurt,10
+Soft-necked garlic,Yogurt,7
+Allium,Cabbage,101
+Allium,Dill,135
+Allium,Domestic pig,88
+Allium,Dumpling,6
+Allium,Olive,88
+Allium,Water,106
+Cabbage,Dill,58
+Cabbage,Domestic pig,28
+Cabbage,Dumpling,2
+Cabbage,Olive,12
+Cabbage,Salt,74
+Cabbage,Soft-necked garlic,40
+Cabbage,Water,46
+Dill,Domestic pig,32
+Dill,Dumpling,2
+Dill,Olive,31
+Dill,Salt,103
+Dill,Soft-necked garlic,70
+Dill,Water,54
+Domestic pig,Dumpling,3
+Domestic pig,Olive,26
+Domestic pig,Salt,49
+Domestic pig,Soft-necked garlic,40
+Domestic pig,Water,35
+Dumpling,Olive,1
+Dumpling,Salt,1
+Dumpling,Soft-necked garlic,2
+Dumpling,Water,6
+Olive,Salt,56
+Olive,Soft-necked garlic,58
+Olive,Water,25
+Soft-necked garlic,Water,54
+Cucumber,Pepper,6
+Cucumber,Salt,40
+Cucumber,Soft-necked garlic,11
+Cucumber,Tarragon,1
+Cucumber,Vinegar,19
+Cucumber,Water,15
+Pepper,Tarragon,1
+Pepper,Vinegar,9
+Pepper,Water,23
+Salt,Tarragon,4
+Salt,Vinegar,51
+Soft-necked garlic,Tarragon,1
+Soft-necked garlic,Vinegar,44
+Tarragon,Vinegar,1
+Tarragon,Water,1
+Vinegar,Water,33
+Chocolate,Chocolate spread,1
+Chocolate,Egg yolk,2
+Chocolate,Eggs,10
+Chocolate,Hazelnut,1
+Chocolate,Milk (Cow),2
+Chocolate,Salted butter,8
+Chocolate,Sugar,11
+Chocolate spread,Egg yolk,1
+Chocolate spread,Eggs,1
+Chocolate spread,Hazelnut,1
+Chocolate spread,Milk (Cow),1
+Chocolate spread,Salted butter,1
+Chocolate spread,Sugar,1
+Egg yolk,Eggs,19
+Egg yolk,Hazelnut,3
+Egg yolk,Milk (Cow),15
+Egg yolk,Salted butter,22
+Egg yolk,Sugar,31
+Eggs,Hazelnut,13
+Eggs,Milk (Cow),170
+Eggs,Salted butter,283
+Hazelnut,Milk (Cow),3
+Hazelnut,Salted butter,16
+Hazelnut,Sugar,8
+Milk (Cow),Salted butter,142
+Milk (Cow),Sugar,85
+Salted butter,Sugar,136
+Common grape,Leavening agent,45
+Common grape,Rye,3
+Common grape,Sugar,41
+Common grape,Water,15
+Leavening agent,Rye,12
+Rye,Sugar,6
+Rye,Water,8
+Cardamom,Cinnamon,1
+Cardamom,Cloves,1
+Cardamom,Ginger,2
+Cardamom,Honey,4
+Cardamom,Lemon,6
+Cardamom,Mentha,1
+Cardamom,Sugar,7
+Cinnamon,Cloves,1
+Cinnamon,Ginger,2
+Cinnamon,Honey,3
+Cinnamon,Lemon,1
+Cinnamon,Mentha,1
+Cinnamon,Sugar,3
+Cloves,Ginger,3
+Cloves,Honey,4
+Cloves,Lemon,6
+Cloves,Mentha,1
+Cloves,Sugar,11
+Ginger,Honey,5
+Ginger,Lemon,5
+Ginger,Mentha,1
+Ginger,Sugar,6
+Honey,Lemon,8
+Honey,Mentha,1
+Honey,Sugar,16
+Lemon,Mentha,3
+Lemon,Sugar,51
+Mentha,Sugar,4
+Canola oil,Cheese,8
+Canola oil,Eggs,13
+Canola oil,Semolina,3
+Canola oil,Sugar,17
+Canola oil,Wheat,9
+Cheese,Eggs,96
+Cheese,Semolina,5
+Cheese,Sugar,47
+Cheese,Wheat,38
+Eggs,Semolina,5
+Eggs,Wheat,154
+Semolina,Sugar,3
+Semolina,Wheat,3
+Sugar,Wheat,127
+Allium,Eggs,139
+Allium,Parsley,87
+Allium,Potato,158
+Allium,Salted butter,148
+Allium,Sour cream,100
+Allium,Wheat,52
+Domestic pig,Eggs,36
+Domestic pig,Parsley,19
+Domestic pig,Potato,31
+Domestic pig,Salted butter,32
+Domestic pig,Sour cream,24
+Domestic pig,Wheat,10
+Eggs,Olive,35
+Eggs,Parsley,44
+Eggs,Potato,99
+Eggs,Sour cream,75
+Olive,Parsley,39
+Olive,Potato,38
+Olive,Salted butter,29
+Olive,Sour cream,28
+Olive,Wheat,15
+Parsley,Potato,40
+Parsley,Salt,49
+Parsley,Salted butter,47
+Parsley,Sour cream,27
+Parsley,Wheat,13
+Potato,Salt,111
+Potato,Salted butter,71
+Potato,Sour cream,60
+Potato,Wheat,22
+Salt,Salted butter,184
+Salt,Sour cream,126
+Salt,Wheat,169
+Salted butter,Sour cream,74
+Salted butter,Wheat,133
+Sour cream,Wheat,57
+American cranberry,Apple,1
+American cranberry,Apricot,2
+American cranberry,Butter,1
+American cranberry,Ceylon cinnamon,4
+American cranberry,Common buckwheat,1
+American cranberry,Common grape,1
+American cranberry,Eggs,4
+American cranberry,Ginger,1
+American cranberry,Milk (Cow),1
+American cranberry,Nutmeg,1
+American cranberry,Salt,2
+American cranberry,Sugar,4
+Apple,Apricot,1
+Apple,Butter,2
+Apple,Ceylon cinnamon,13
+Apple,Common buckwheat,1
+Apple,Common grape,9
+Apple,Eggs,31
+Apple,Ginger,4
+Apple,Milk (Cow),7
+Apple,Nutmeg,6
+Apple,Salt,27
+Apple,Sugar,24
+Apricot,Butter,1
+Apricot,Ceylon cinnamon,14
+Apricot,Common buckwheat,1
+Apricot,Common grape,7
+Apricot,Eggs,23
+Apricot,Ginger,1
+Apricot,Milk (Cow),11
+Apricot,Nutmeg,2
+Apricot,Salt,10
+Apricot,Sugar,12
+Butter,Ceylon cinnamon,1
+Butter,Common buckwheat,4
+Butter,Common grape,2
+Butter,Eggs,13
+Butter,Ginger,1
+Butter,Milk (Cow),11
+Butter,Nutmeg,1
+Butter,Salt,13
+Butter,Sugar,11
+Ceylon cinnamon,Common buckwheat,1
+Ceylon cinnamon,Common grape,16
+Ceylon cinnamon,Eggs,53
+Ceylon cinnamon,Ginger,8
+Ceylon cinnamon,Milk (Cow),16
+Ceylon cinnamon,Nutmeg,8
+Ceylon cinnamon,Salt,25
+Ceylon cinnamon,Sugar,30
+Common buckwheat,Common grape,1
+Common buckwheat,Eggs,22
+Common buckwheat,Ginger,1
+Common buckwheat,Milk (Cow),18
+Common buckwheat,Nutmeg,1
+Common buckwheat,Salt,16
+Common buckwheat,Sugar,11
+Common grape,Eggs,52
+Common grape,Ginger,2
+Common grape,Milk (Cow),39
+Common grape,Nutmeg,6
+Common grape,Salt,33
+Eggs,Ginger,9
+Eggs,Nutmeg,24
+Ginger,Milk (Cow),4
+Ginger,Nutmeg,5
+Milk (Cow),Nutmeg,11
+Milk (Cow),Salt,92
+Nutmeg,Salt,7
+Nutmeg,Sugar,5
+Capers,Chicken,3
+Capers,Cooking oil,1
+Capers,Eggs,2
+Capers,Other bread product,1
+Capers,Parsley,2
+Capers,Pepper (Spice),3
+Capers,Salt,8
+Capers,Salted butter,6
+Capers,Wheat,4
+Chicken,Cooking oil,21
+Chicken,Eggs,33
+Chicken,Other bread product,8
+Chicken,Parsley,16
+Chicken,Salted butter,24
+Chicken,Wheat,9
+Cooking oil,Eggs,122
+Cooking oil,Other bread product,11
+Cooking oil,Parsley,26
+Cooking oil,Pepper (Spice),49
+Cooking oil,Salt,89
+Cooking oil,Salted butter,65
+Cooking oil,Wheat,53
+Eggs,Other bread product,24
+Eggs,Pepper (Spice),73
+Other bread product,Parsley,8
+Other bread product,Pepper (Spice),9
+Other bread product,Salt,21
+Other bread product,Salted butter,18
+Other bread product,Wheat,9
+Parsley,Pepper (Spice),40
+Pepper (Spice),Salted butter,75
+Pepper (Spice),Wheat,25
+Common mushroom,Dill,37
+Common mushroom,Eggs,27
+Common mushroom,Flour,7
+Common mushroom,Milk (Cow),13
+Common mushroom,Other bread product,4
+Common mushroom,Potato,21
+Common mushroom,Salt,51
+Common mushroom,Salted butter,57
+Common mushroom,Water,25
+Dill,Eggs,76
+Dill,Flour,3
+Dill,Milk (Cow),25
+Dill,Other bread product,5
+Dill,Potato,92
+Dill,Salted butter,83
+Eggs,Flour,52
+Flour,Milk (Cow),26
+Flour,Other bread product,3
+Flour,Potato,9
+Flour,Salt,46
+Flour,Salted butter,35
+Flour,Water,18
+Milk (Cow),Other bread product,7
+Milk (Cow),Potato,20
+Milk (Cow),Water,31
+Other bread product,Potato,7
+Other bread product,Water,10
+Potato,Water,58
+Salted butter,Water,86
+Allium,Cheese,52
+Allium,Semolina,1
+Cheese,Salt,55
+Cheese,Salted butter,86
+Salt,Semolina,1
+Salted butter,Semolina,2
+Allium,Carrot,104
+Allium,Common oregano,3
+Allium,Common pea,17
+Allium,Horseradish,6
+Allium,Salad dressing,30
+Allium,Sauce,16
+Allium,Sausage,37
+Carrot,Common oregano,1
+Carrot,Common pea,23
+Carrot,Coriander,4
+Carrot,Dill,69
+Carrot,Eggs,28
+Carrot,Horseradish,3
+Carrot,Pepper,11
+Carrot,Pepper (Spice),45
+Carrot,Potato,91
+Carrot,Salad dressing,27
+Carrot,Sauce,4
+Carrot,Sausage,12
+Carrot,Sour cream,38
+Common oregano,Common pea,1
+Common oregano,Coriander,1
+Common oregano,Dill,1
+Common oregano,Eggs,2
+Common oregano,Horseradish,1
+Common oregano,Pepper,1
+Common oregano,Pepper (Spice),4
+Common oregano,Potato,1
+Common oregano,Salad dressing,2
+Common oregano,Sauce,1
+Common oregano,Sausage,2
+Common oregano,Sour cream,1
+Common pea,Coriander,1
+Common pea,Dill,15
+Common pea,Eggs,22
+Common pea,Horseradish,1
+Common pea,Pepper,1
+Common pea,Pepper (Spice),6
+Common pea,Potato,28
+Common pea,Salad dressing,23
+Common pea,Sauce,2
+Common pea,Sausage,4
+Common pea,Sour cream,3
+Coriander,Dill,6
+Coriander,Eggs,4
+Coriander,Horseradish,2
+Coriander,Potato,3
+Coriander,Salad dressing,1
+Coriander,Sauce,1
+Coriander,Sausage,2
+Coriander,Sour cream,3
+Dill,Horseradish,6
+Dill,Pepper,15
+Dill,Pepper (Spice),63
+Dill,Salad dressing,19
+Dill,Sauce,2
+Dill,Sausage,17
+Dill,Sour cream,58
+Eggs,Horseradish,5
+Eggs,Pepper,10
+Eggs,Salad dressing,41
+Eggs,Sauce,6
+Eggs,Sausage,8
+Horseradish,Pepper,4
+Horseradish,Pepper (Spice),6
+Horseradish,Potato,5
+Horseradish,Salad dressing,3
+Horseradish,Sauce,3
+Horseradish,Sausage,2
+Horseradish,Sour cream,7
+Pepper,Potato,14
+Pepper,Salad dressing,3
+Pepper,Sauce,7
+Pepper,Sausage,6
+Pepper,Sour cream,18
+Pepper (Spice),Potato,64
+Pepper (Spice),Salad dressing,8
+Pepper (Spice),Sauce,5
+Pepper (Spice),Sausage,14
+Pepper (Spice),Sour cream,31
+Potato,Salad dressing,39
+Potato,Sauce,7
+Potato,Sausage,13
+Salad dressing,Sauce,5
+Salad dressing,Sausage,4
+Salad dressing,Sour cream,9
+Sauce,Sausage,1
+Sauce,Sour cream,13
+Sausage,Sour cream,6
+Cheese,Sweet orange,4
+Cheese,Vanilla,32
+Salted butter,Sweet orange,24
+Salted butter,Vanilla,93
+Sugar,Sweet orange,13
+Sugar,Vanilla,67
+Sweet orange,Vanilla,12
+Allium,Caraway,25
+Allium,"Cattle (Beef, Veal)",133
+Allium,Parsnip,10
+Allium,Red bell pepper,167
+Allium,Soup,100
+Allium,Wild celery,62
+Caraway,Carrot,10
+Caraway,"Cattle (Beef, Veal)",13
+Caraway,Garden tomato,5
+Caraway,Olive,11
+Caraway,Parsley,4
+Caraway,Parsnip,3
+Caraway,Pepper,5
+Caraway,Potato,12
+Caraway,Red bell pepper,16
+Caraway,Soft-necked garlic,16
+Caraway,Soup,17
+Caraway,Sour cream,7
+Caraway,Wild celery,8
+Carrot,"Cattle (Beef, Veal)",37
+Carrot,Garden tomato,21
+Carrot,Olive,23
+Carrot,Parsley,33
+Carrot,Parsnip,11
+Carrot,Red bell pepper,51
+Carrot,Soft-necked garlic,50
+Carrot,Soup,47
+Carrot,Wild celery,49
+"Cattle (Beef, Veal)",Garden tomato,14
+"Cattle (Beef, Veal)",Olive,37
+"Cattle (Beef, Veal)",Parsley,39
+"Cattle (Beef, Veal)",Parsnip,6
+"Cattle (Beef, Veal)",Pepper,21
+"Cattle (Beef, Veal)",Potato,39
+"Cattle (Beef, Veal)",Red bell pepper,70
+"Cattle (Beef, Veal)",Soft-necked garlic,80
+"Cattle (Beef, Veal)",Soup,52
+"Cattle (Beef, Veal)",Sour cream,45
+"Cattle (Beef, Veal)",Wild celery,25
+Garden tomato,Olive,14
+Garden tomato,Parsley,10
+Garden tomato,Parsnip,1
+Garden tomato,Potato,24
+Garden tomato,Red bell pepper,18
+Garden tomato,Soup,19
+Garden tomato,Sour cream,23
+Garden tomato,Wild celery,11
+Olive,Parsnip,4
+Olive,Pepper,15
+Olive,Red bell pepper,45
+Olive,Soup,33
+Olive,Wild celery,18
+Parsley,Parsnip,7
+Parsley,Pepper,10
+Parsley,Red bell pepper,42
+Parsley,Soft-necked garlic,57
+Parsley,Soup,24
+Parsley,Wild celery,19
+Parsnip,Pepper,1
+Parsnip,Potato,9
+Parsnip,Red bell pepper,3
+Parsnip,Soft-necked garlic,9
+Parsnip,Soup,7
+Parsnip,Sour cream,9
+Parsnip,Wild celery,9
+Pepper,Red bell pepper,17
+Pepper,Soup,16
+Pepper,Wild celery,8
+Potato,Red bell pepper,74
+Potato,Soft-necked garlic,51
+Potato,Soup,44
+Potato,Wild celery,39
+Red bell pepper,Soft-necked garlic,91
+Red bell pepper,Soup,53
+Red bell pepper,Sour cream,50
+Red bell pepper,Wild celery,33
+Soft-necked garlic,Soup,57
+Soft-necked garlic,Sour cream,42
+Soft-necked garlic,Wild celery,33
+Soup,Sour cream,46
+Soup,Wild celery,31
+Sour cream,Wild celery,26
+Chives,Cooking oil,16
+Chives,Endive,1
+Chives,Grape wine,3
+Chives,Mustard,3
+Chives,Walnut,1
+Cooking oil,Endive,1
+Cooking oil,Grape wine,12
+Cooking oil,Mustard,8
+Cooking oil,Walnut,2
+Endive,Grape wine,1
+Endive,Mustard,1
+Endive,Walnut,1
+Grape wine,Mustard,7
+Grape wine,Walnut,1
+Mustard,Walnut,1
+"Cattle (Beef, Veal)",Common mushroom,36
+"Cattle (Beef, Veal)",Cooking oil,42
+"Cattle (Beef, Veal)",Dill,57
+"Cattle (Beef, Veal)",Liquor,3
+"Cattle (Beef, Veal)",Mustard,11
+"Cattle (Beef, Veal)",Pasta,18
+"Cattle (Beef, Veal)",Salted butter,54
+"Cattle (Beef, Veal)",Shallot,7
+Common mushroom,Cooking oil,19
+Common mushroom,Liquor,2
+Common mushroom,Mustard,8
+Common mushroom,Pasta,20
+Common mushroom,Pepper,10
+Common mushroom,Shallot,5
+Common mushroom,Soup,33
+Common mushroom,Sour cream,31
+Cooking oil,Dill,40
+Cooking oil,Liquor,6
+Cooking oil,Pasta,10
+Cooking oil,Pepper,6
+Cooking oil,Shallot,2
+Cooking oil,Soup,24
+Cooking oil,Sour cream,30
+Dill,Liquor,2
+Dill,Mustard,10
+Dill,Pasta,7
+Dill,Shallot,9
+Dill,Soup,67
+Liquor,Mustard,2
+Liquor,Pasta,2
+Liquor,Pepper,2
+Liquor,Salted butter,18
+Liquor,Shallot,1
+Liquor,Soup,3
+Liquor,Sour cream,2
+Mustard,Pasta,5
+Mustard,Pepper,3
+Mustard,Salted butter,14
+Mustard,Shallot,4
+Mustard,Soup,9
+Mustard,Sour cream,10
+Pasta,Pepper,1
+Pasta,Salted butter,32
+Pasta,Shallot,1
+Pasta,Soup,13
+Pasta,Sour cream,13
+Pepper,Salted butter,16
+Pepper,Shallot,5
+Salted butter,Shallot,10
+Salted butter,Soup,55
+Shallot,Soup,6
+Shallot,Sour cream,7
+Allium,Cloves,3
+Allium,Common beet,40
+Allium,Green vegetables,1
+Allium,Ketchup,19
+Allium,Mallard duck,2
+Caraway,Cloves,1
+Caraway,Common beet,3
+Caraway,Dill,29
+Caraway,Green vegetables,1
+Caraway,Ketchup,2
+Caraway,Mallard duck,1
+Caraway,Pepper (Spice),10
+Caraway,Salt,12
+Cloves,Common beet,1
+Cloves,Dill,2
+Cloves,Green vegetables,1
+Cloves,Ketchup,1
+Cloves,Mallard duck,1
+Cloves,Pepper (Spice),3
+Cloves,Salt,13
+Cloves,Soup,2
+Common beet,Dill,34
+Common beet,Green vegetables,1
+Common beet,Ketchup,2
+Common beet,Mallard duck,2
+Common beet,Pepper (Spice),21
+Common beet,Salt,47
+Common beet,Soup,24
+Dill,Green vegetables,1
+Dill,Ketchup,4
+Dill,Mallard duck,1
+Green vegetables,Ketchup,1
+Green vegetables,Mallard duck,1
+Green vegetables,Pepper (Spice),1
+Green vegetables,Salt,1
+Green vegetables,Soup,1
+Ketchup,Mallard duck,1
+Ketchup,Pepper (Spice),9
+Ketchup,Salt,14
+Ketchup,Soup,6
+Mallard duck,Pepper (Spice),2
+Mallard duck,Salt,3
+Mallard duck,Soup,2
+Pepper (Spice),Soup,48
+Salt,Soup,60
+Apple,Canola oil,3
+Apple,Carrot,8
+Apple,Garden tomato,2
+Apple,Pepper,2
+Apple,Red bell pepper,6
+Apple,Soft-necked garlic,4
+Canola oil,Carrot,6
+Canola oil,Garden tomato,5
+Canola oil,Pepper,3
+Canola oil,Red bell pepper,8
+Canola oil,Salt,24
+Canola oil,Soft-necked garlic,8
+Carrot,Salt,77
+Red bell pepper,Salt,102
+Allium,Cream,67
+Cabbage,Carrot,55
+Cabbage,Common beet,33
+Cabbage,Cream,14
+Cabbage,Garden tomato,22
+Cabbage,Garden tomato (var.),35
+Cabbage,Pepper,11
+Cabbage,Potato,48
+Cabbage,Salted butter,57
+Cabbage,Wild celery,26
+Carrot,Common beet,36
+Carrot,Cream,20
+Carrot,Garden tomato (var.),30
+Carrot,Salted butter,34
+Carrot,Water,37
+Common beet,Cream,4
+Common beet,Garden tomato,16
+Common beet,Garden tomato (var.),6
+Common beet,Pepper,8
+Common beet,Potato,37
+Common beet,Salted butter,14
+Common beet,Soft-necked garlic,20
+Common beet,Water,27
+Common beet,Wild celery,18
+Cream,Dill,35
+Cream,Garden tomato,3
+Cream,Garden tomato (var.),22
+Cream,Pepper,4
+Cream,Potato,39
+Cream,Salted butter,94
+Cream,Soft-necked garlic,22
+Cream,Wild celery,19
+Dill,Garden tomato,22
+Dill,Garden tomato (var.),36
+Dill,Wild celery,38
+Garden tomato,Salted butter,14
+Garden tomato,Water,17
+Garden tomato (var.),Potato,25
+Garden tomato (var.),Salted butter,33
+Garden tomato (var.),Water,27
+Garden tomato (var.),Wild celery,26
+Salt,Wild celery,35
+Salted butter,Soft-necked garlic,59
+Salted butter,Wild celery,30
+Water,Wild celery,26
+Apple,Flour,4
+Apple,Leavening agent,15
+Apple,Water,9
+Apple,Wheat,16
+Canola oil,Flour,7
+Canola oil,Leavening agent,8
+Canola oil,Water,7
+Flour,Leavening agent,30
+Flour,Sugar,47
+Flour,Wheat,3
+Leavening agent,Wheat,98
+Water,Wheat,83
+Cinnamon,Fruit salad,1
+Cinnamon,Potato,1
+Cinnamon,Water,2
+Fruit salad,Honey,2
+Fruit salad,Potato,1
+Fruit salad,Water,3
+Honey,Potato,6
+Honey,Water,11
+Allium,Common mushroom,68
+Allium,Lemon,52
+Allium,Pastry,3
+Allium,Pink salmon,9
+Allium,Rice,33
+Common mushroom,Lemon,12
+Common mushroom,Parsley,15
+Common mushroom,Pastry,4
+Common mushroom,Pepper (Spice),24
+Common mushroom,Pink salmon,3
+Common mushroom,Rice,9
+Dill,Lemon,34
+Dill,Parsley,29
+Dill,Pastry,6
+Dill,Pink salmon,10
+Dill,Rice,17
+Eggs,Lemon,78
+Eggs,Pastry,9
+Eggs,Pink salmon,19
+Eggs,Rice,31
+Lemon,Parsley,33
+Lemon,Pastry,5
+Lemon,Pepper (Spice),30
+Lemon,Pink salmon,5
+Lemon,Rice,10
+Lemon,Salt,70
+Lemon,Salted butter,87
+Parsley,Pastry,1
+Parsley,Pink salmon,4
+Parsley,Rice,14
+Pastry,Pepper (Spice),3
+Pastry,Pink salmon,3
+Pastry,Rice,5
+Pastry,Salt,6
+Pastry,Salted butter,8
+Pepper (Spice),Pink salmon,5
+Pepper (Spice),Rice,14
+Pink salmon,Rice,3
+Pink salmon,Salt,13
+Pink salmon,Salted butter,14
+Rice,Salt,24
+Rice,Salted butter,31
+Allium,Atlantic herring,4
+Allium,Common bean,7
+Allium,European plum,5
+Allium,Grape wine,47
+Allium,Green plum,1
+Allium,Pepper (Capsicum),21
+Allium,Sugar,40
+Atlantic herring,Cheese,1
+Atlantic herring,Common bean,1
+Atlantic herring,Common mushroom,1
+Atlantic herring,Coriander,1
+Atlantic herring,Dill,1
+Atlantic herring,Eggs,2
+Atlantic herring,European plum,1
+Atlantic herring,Grape wine,2
+Atlantic herring,Green plum,1
+Atlantic herring,Horseradish,2
+Atlantic herring,Lemon,2
+Atlantic herring,Olive,1
+Atlantic herring,Pepper (Capsicum),2
+Atlantic herring,Red bell pepper,2
+Atlantic herring,Salt,1
+Atlantic herring,Salted butter,2
+Atlantic herring,Soft-necked garlic,2
+Atlantic herring,Sour cream,1
+Atlantic herring,Sugar,2
+Cheese,Common bean,1
+Cheese,Common mushroom,12
+Cheese,Coriander,2
+Cheese,Dill,15
+Cheese,European plum,2
+Cheese,Grape wine,3
+Cheese,Green plum,1
+Cheese,Horseradish,1
+Cheese,Lemon,16
+Cheese,Olive,13
+Cheese,Pepper (Capsicum),3
+Cheese,Red bell pepper,25
+Cheese,Soft-necked garlic,27
+Cheese,Sour cream,30
+Common bean,Common mushroom,3
+Common bean,Coriander,1
+Common bean,Dill,6
+Common bean,Eggs,1
+Common bean,European plum,1
+Common bean,Grape wine,1
+Common bean,Green plum,1
+Common bean,Horseradish,2
+Common bean,Lemon,5
+Common bean,Olive,2
+Common bean,Pepper (Capsicum),1
+Common bean,Red bell pepper,5
+Common bean,Salt,5
+Common bean,Salted butter,3
+Common bean,Soft-necked garlic,3
+Common bean,Sour cream,4
+Common bean,Sugar,4
+Common mushroom,Coriander,1
+Common mushroom,European plum,2
+Common mushroom,Grape wine,11
+Common mushroom,Green plum,1
+Common mushroom,Horseradish,1
+Common mushroom,Olive,18
+Common mushroom,Pepper (Capsicum),4
+Common mushroom,Red bell pepper,33
+Common mushroom,Soft-necked garlic,30
+Common mushroom,Sugar,10
+Coriander,European plum,1
+Coriander,Grape wine,4
+Coriander,Green plum,2
+Coriander,Lemon,5
+Coriander,Olive,5
+Coriander,Pepper (Capsicum),6
+Coriander,Red bell pepper,4
+Coriander,Salted butter,4
+Coriander,Sugar,4
+Dill,European plum,1
+Dill,Grape wine,29
+Dill,Green plum,1
+Dill,Pepper (Capsicum),5
+Dill,Red bell pepper,72
+Dill,Sugar,25
+Eggs,European plum,5
+Eggs,Grape wine,7
+Eggs,Green plum,2
+Eggs,Pepper (Capsicum),7
+Eggs,Red bell pepper,63
+Eggs,Soft-necked garlic,45
+European plum,Grape wine,2
+European plum,Green plum,1
+European plum,Horseradish,1
+European plum,Lemon,3
+European plum,Olive,1
+European plum,Pepper (Capsicum),1
+European plum,Red bell pepper,5
+European plum,Salt,4
+European plum,Salted butter,5
+European plum,Soft-necked garlic,7
+European plum,Sour cream,2
+European plum,Sugar,2
+Grape wine,Green plum,1
+Grape wine,Horseradish,5
+Grape wine,Lemon,13
+Grape wine,Olive,11
+Grape wine,Pepper (Capsicum),5
+Grape wine,Red bell pepper,27
+Grape wine,Salt,31
+Grape wine,Salted butter,23
+Grape wine,Soft-necked garlic,22
+Grape wine,Sour cream,18
+Grape wine,Sugar,10
+Green plum,Horseradish,1
+Green plum,Lemon,1
+Green plum,Olive,1
+Green plum,Pepper (Capsicum),1
+Green plum,Red bell pepper,1
+Green plum,Salt,3
+Green plum,Salted butter,2
+Green plum,Soft-necked garlic,1
+Green plum,Sour cream,1
+Green plum,Sugar,3
+Horseradish,Lemon,4
+Horseradish,Olive,3
+Horseradish,Pepper (Capsicum),3
+Horseradish,Red bell pepper,2
+Horseradish,Salt,5
+Horseradish,Salted butter,3
+Horseradish,Soft-necked garlic,8
+Horseradish,Sugar,6
+Lemon,Olive,27
+Lemon,Pepper (Capsicum),8
+Lemon,Red bell pepper,32
+Lemon,Soft-necked garlic,36
+Lemon,Sour cream,37
+Olive,Pepper (Capsicum),9
+Olive,Sugar,8
+Pepper (Capsicum),Red bell pepper,9
+Pepper (Capsicum),Salt,10
+Pepper (Capsicum),Salted butter,10
+Pepper (Capsicum),Soft-necked garlic,20
+Pepper (Capsicum),Sour cream,3
+Pepper (Capsicum),Sugar,3
+Red bell pepper,Salted butter,69
+Red bell pepper,Sugar,19
+Soft-necked garlic,Sugar,23
+Sour cream,Sugar,57
+American cranberry,Potato,2
+American cranberry,Water,2
+Potato,Sugar,20
+Ceylon cinnamon,Cream,13
+Ceylon cinnamon,Leavening agent,21
+Ceylon cinnamon,Salted butter,47
+Ceylon cinnamon,Wheat,20
+Cream,Milk (Cow),34
+Cream,Wheat,21
+Leavening agent,Milk (Cow),106
+Leavening agent,Salted butter,127
+Milk (Cow),Wheat,67
+Allium,Lard,8
+"Cattle (Beef, Veal)",Eggs,50
+"Cattle (Beef, Veal)",Lard,5
+"Cattle (Beef, Veal)",Pepper (Spice),64
+"Cattle (Beef, Veal)",Salt,80
+"Cattle (Beef, Veal)",Water,41
+"Cattle (Beef, Veal)",Wheat,29
+Dill,Lard,2
+Dill,Wheat,32
+Eggs,Lard,18
+Lard,Pepper (Spice),4
+Lard,Salt,1
+Lard,Salted butter,15
+Lard,Water,1
+Lard,Wheat,1
+Pepper (Spice),Water,36
+Common buckwheat,Cream,7
+Common buckwheat,Leavening agent,17
+Common buckwheat,Salted butter,18
+Common buckwheat,Sour cream,9
+Common buckwheat,Sturgeon,6
+Common buckwheat,Wheat,12
+Cream,Sour cream,12
+Cream,Sturgeon,4
+Eggs,Sturgeon,8
+Leavening agent,Sour cream,32
+Leavening agent,Sturgeon,5
+Milk (Cow),Sour cream,23
+Milk (Cow),Sturgeon,6
+Salt,Sturgeon,5
+Salted butter,Sturgeon,7
+Sour cream,Sturgeon,8
+Sturgeon,Sugar,5
+Sturgeon,Wheat,4
+Almond,Common grape,16
+Almond,Eggs,28
+Almond,Leavening agent,17
+Almond,Lemon,24
+Almond,Liquor,5
+Almond,Milk (Cow),13
+Almond,Salt,17
+Almond,Salted butter,32
+Almond,Sugar,25
+Almond,Sweet orange,8
+Almond,Vanilla,23
+Almond,Water,9
+Almond,Wheat,12
+Common grape,Lemon,27
+Common grape,Liquor,4
+Common grape,Salted butter,45
+Common grape,Sweet orange,13
+Common grape,Vanilla,29
+Common grape,Wheat,22
+Eggs,Liquor,16
+Eggs,Sweet orange,22
+Eggs,Vanilla,100
+Leavening agent,Lemon,33
+Leavening agent,Liquor,5
+Leavening agent,Sweet orange,13
+Leavening agent,Vanilla,47
+Lemon,Liquor,5
+Lemon,Milk (Cow),35
+Lemon,Sweet orange,11
+Lemon,Vanilla,32
+Lemon,Water,49
+Lemon,Wheat,35
+Liquor,Milk (Cow),8
+Liquor,Salt,10
+Liquor,Sugar,11
+Liquor,Sweet orange,3
+Liquor,Vanilla,14
+Liquor,Water,2
+Liquor,Wheat,7
+Milk (Cow),Sweet orange,13
+Milk (Cow),Vanilla,52
+Salt,Sweet orange,10
+Salt,Vanilla,41
+Sweet orange,Water,6
+Sweet orange,Wheat,8
+Vanilla,Water,20
+Vanilla,Wheat,40
+Allspice,Caraway,1
+Allspice,Carrot,3
+Allspice,Common cabbage,1
+Allspice,Common mushroom,1
+Allspice,Cooking oil,1
+Allspice,Dill,3
+Allspice,Grape wine,2
+Allspice,Leek,1
+Allspice,Parsnip,3
+Allspice,Pepper (Spice),5
+Allspice,Salt,7
+Allspice,Soft-necked garlic,4
+Allspice,Soup,3
+Allspice,Sour cream,4
+Allspice,Sweet bay,3
+Allspice,Sweet marjoram,1
+Allspice,Wild celery,4
+Caraway,Common cabbage,4
+Caraway,Common mushroom,2
+Caraway,Cooking oil,10
+Caraway,Grape wine,4
+Caraway,Leek,2
+Caraway,Sweet bay,6
+Caraway,Sweet marjoram,5
+Carrot,Common cabbage,9
+Carrot,Common mushroom,13
+Carrot,Cooking oil,23
+Carrot,Grape wine,19
+Carrot,Leek,11
+Carrot,Sweet bay,30
+Carrot,Sweet marjoram,10
+Common cabbage,Common mushroom,14
+Common cabbage,Cooking oil,12
+Common cabbage,Dill,12
+Common cabbage,Grape wine,4
+Common cabbage,Leek,2
+Common cabbage,Parsnip,1
+Common cabbage,Pepper (Spice),17
+Common cabbage,Salt,14
+Common cabbage,Soft-necked garlic,11
+Common cabbage,Soup,8
+Common cabbage,Sour cream,12
+Common cabbage,Sweet bay,9
+Common cabbage,Sweet marjoram,3
+Common cabbage,Wild celery,4
+Common mushroom,Leek,4
+Common mushroom,Parsnip,2
+Common mushroom,Sweet bay,13
+Common mushroom,Sweet marjoram,9
+Common mushroom,Wild celery,9
+Cooking oil,Leek,3
+Cooking oil,Parsnip,4
+Cooking oil,Soft-necked garlic,47
+Cooking oil,Sweet bay,14
+Cooking oil,Sweet marjoram,3
+Cooking oil,Wild celery,14
+Dill,Leek,12
+Dill,Parsnip,8
+Dill,Sweet bay,32
+Dill,Sweet marjoram,15
+Grape wine,Leek,8
+Grape wine,Parsnip,3
+Grape wine,Pepper (Spice),23
+Grape wine,Soup,25
+Grape wine,Sweet bay,13
+Grape wine,Sweet marjoram,7
+Grape wine,Wild celery,7
+Leek,Parsnip,2
+Leek,Pepper (Spice),10
+Leek,Salt,8
+Leek,Soft-necked garlic,6
+Leek,Soup,7
+Leek,Sour cream,5
+Leek,Sweet bay,7
+Leek,Sweet marjoram,5
+Leek,Wild celery,3
+Parsnip,Pepper (Spice),10
+Parsnip,Salt,9
+Parsnip,Sweet bay,4
+Parsnip,Sweet marjoram,2
+Pepper (Spice),Sweet bay,34
+Pepper (Spice),Sweet marjoram,13
+Pepper (Spice),Wild celery,31
+Salt,Sweet bay,34
+Salt,Sweet marjoram,10
+Soft-necked garlic,Sweet bay,31
+Soft-necked garlic,Sweet marjoram,14
+Soup,Sweet bay,33
+Soup,Sweet marjoram,6
+Sour cream,Sweet bay,24
+Sour cream,Sweet marjoram,4
+Sweet bay,Sweet marjoram,7
+Sweet bay,Wild celery,16
+Sweet marjoram,Wild celery,7
+Allium,Cucumber,38
+Allium,Mustard,25
+Cucumber,Dill,31
+Cucumber,Eggs,31
+Cucumber,Mustard,10
+Cucumber,Potato,35
+Cucumber,Sausage,8
+Cucumber,Sour cream,16
+Eggs,Mustard,9
+Mustard,Potato,13
+Mustard,Sausage,6
+Mustard,Water,4
+Sausage,Water,13
+Sour cream,Water,55
+Common cabbage,Domestic pig,17
+Common cabbage,Garden tomato,3
+Common cabbage,Olive,9
+Common cabbage,Potato,20
+Common cabbage,Water,10
+Domestic pig,Garden tomato,6
+Domestic pig,Pepper (Spice),42
+Domestic pig,Sweet bay,17
+Garden tomato,Sweet bay,13
+Olive,Pepper (Spice),33
+Olive,Sweet bay,18
+Potato,Sweet bay,23
+Sweet bay,Water,20
+Ceylon cinnamon,Cooking oil,7
+Ceylon cinnamon,Flour,6
+Ceylon cinnamon,Liquor,2
+Cooking oil,Flour,11
+Cooking oil,Leavening agent,30
+Cooking oil,Sugar,45
+Flour,Liquor,1
+Allium,Apple,15
+Allium,Fruit juice,1
+Allium,Herbs and Spices,8
+Allium,Sweet bay,49
+Allium,Turnip,10
+Allium,White bread,20
+Apple,Cabbage,9
+Apple,Dill,8
+Apple,Fruit juice,1
+Apple,Herbs and Spices,1
+Apple,Pepper (Spice),14
+Apple,Salted butter,26
+Apple,Soup,6
+Apple,Sour cream,8
+Apple,Sweet bay,5
+Apple,Turnip,2
+Apple,White bread,3
+Apple,Wild celery,5
+Cabbage,Fruit juice,1
+Cabbage,Herbs and Spices,5
+Cabbage,Pepper (Spice),41
+Cabbage,Soup,35
+Cabbage,Sour cream,30
+Cabbage,Sweet bay,21
+Cabbage,Turnip,7
+Cabbage,White bread,6
+Carrot,Fruit juice,1
+Carrot,Herbs and Spices,4
+Carrot,Turnip,10
+Carrot,White bread,5
+Dill,Fruit juice,1
+Dill,Herbs and Spices,4
+Dill,Turnip,3
+Dill,White bread,8
+Fruit juice,Herbs and Spices,1
+Fruit juice,Pepper (Spice),1
+Fruit juice,Salt,1
+Fruit juice,Salted butter,1
+Fruit juice,Soup,1
+Fruit juice,Sour cream,1
+Fruit juice,Sweet bay,1
+Fruit juice,Turnip,1
+Fruit juice,White bread,1
+Fruit juice,Wild celery,1
+Herbs and Spices,Pepper (Spice),6
+Herbs and Spices,Salt,11
+Herbs and Spices,Salted butter,3
+Herbs and Spices,Soup,4
+Herbs and Spices,Sour cream,3
+Herbs and Spices,Sweet bay,4
+Herbs and Spices,Turnip,1
+Herbs and Spices,White bread,1
+Herbs and Spices,Wild celery,3
+Pepper (Spice),Turnip,7
+Pepper (Spice),White bread,12
+Salt,Turnip,7
+Salt,White bread,10
+Salted butter,Sweet bay,21
+Salted butter,Turnip,7
+Salted butter,White bread,25
+Soup,Turnip,6
+Soup,White bread,5
+Sour cream,Turnip,6
+Sour cream,White bread,2
+Sweet bay,Turnip,5
+Sweet bay,White bread,2
+Turnip,White bread,2
+Turnip,Wild celery,6
+White bread,Wild celery,5
+Cheese,Leavening agent,19
+Cheese,"Prunus (Cherry, Plum)",2
+Cheese,Walnut,1
+Eggs,"Prunus (Cherry, Plum)",9
+Eggs,Walnut,11
+Leavening agent,"Prunus (Cherry, Plum)",3
+Leavening agent,Walnut,9
+"Prunus (Cherry, Plum)",Salted butter,8
+"Prunus (Cherry, Plum)",Sugar,5
+"Prunus (Cherry, Plum)",Vanilla,7
+"Prunus (Cherry, Plum)",Walnut,1
+"Prunus (Cherry, Plum)",Wheat,2
+Salted butter,Walnut,11
+Sugar,Walnut,13
+Vanilla,Walnut,4
+Walnut,Wheat,4
+Apple,Olive,6
+Apple,Sausage,3
+Olive,Sausage,11
+Salt,Sausage,13
+Salted butter,Sausage,11
+Sausage,Soup,13
+Cabbage,Cooking oil,23
+Cabbage,Garden onion,5
+Cabbage,Grape wine,19
+Cabbage,Red bell pepper,47
+Cabbage,Rye bread,1
+Cabbage,Stew,1
+Carrot,Garden onion,8
+Carrot,Rye bread,1
+Carrot,Stew,1
+Common beet,Cooking oil,6
+Common beet,Garden onion,3
+Common beet,Grape wine,12
+Common beet,Red bell pepper,13
+Common beet,Rye bread,1
+Common beet,Sour cream,28
+Common beet,Stew,1
+Cooking oil,Garden onion,5
+Cooking oil,Garden tomato,6
+Cooking oil,Potato,49
+Cooking oil,Red bell pepper,45
+Cooking oil,Rye bread,1
+Cooking oil,Stew,1
+Dill,Garden onion,12
+Dill,Rye bread,1
+Dill,Stew,1
+Garden onion,Garden tomato,4
+Garden onion,Grape wine,3
+Garden onion,Potato,14
+Garden onion,Red bell pepper,9
+Garden onion,Rye bread,1
+Garden onion,Salt,17
+Garden onion,Soft-necked garlic,6
+Garden onion,Soup,5
+Garden onion,Sour cream,5
+Garden onion,Stew,1
+Garden tomato,Grape wine,4
+Garden tomato,Rye bread,1
+Garden tomato,Stew,1
+Grape wine,Potato,13
+Grape wine,Rye bread,1
+Grape wine,Stew,1
+Potato,Rye bread,1
+Potato,Stew,1
+Red bell pepper,Rye bread,1
+Red bell pepper,Stew,1
+Rye bread,Salt,1
+Rye bread,Soft-necked garlic,1
+Rye bread,Soup,1
+Rye bread,Sour cream,2
+Rye bread,Stew,1
+Salt,Stew,1
+Soft-necked garlic,Stew,1
+Soup,Stew,1
+Sour cream,Stew,1
+Caraway,Eggs,6
+Caraway,Pasta,4
+Caraway,Salted butter,19
+Cocoa powder,Common walnut,1
+Cocoa powder,Eggs,24
+Cocoa powder,Salt,9
+Cocoa powder,Sugar,10
+Cocoa powder,Vanilla,11
+Common walnut,Eggs,3
+Common walnut,Salt,2
+Common walnut,Sugar,3
+Common walnut,Vanilla,2
+Allium,Sweet basil,8
+"Cattle (Beef, Veal)",Coriander,2
+"Cattle (Beef, Veal)",Grape wine,24
+"Cattle (Beef, Veal)",Lemon,21
+"Cattle (Beef, Veal)",Sweet basil,2
+Coriander,Sweet basil,3
+Grape wine,Sweet basil,4
+Lemon,Sweet basil,3
+Pepper (Spice),Sweet basil,3
+Salt,Sweet basil,6
+Allium,Common thyme,18
+Allium,Pasta,35
+"Cattle (Beef, Veal)",Common thyme,8
+"Cattle (Beef, Veal)",Pepper (Capsicum),10
+Common mushroom,Common thyme,5
+Common mushroom,Garden tomato,4
+Common mushroom,Wheat,29
+Common thyme,Garden tomato,3
+Common thyme,Olive,12
+Common thyme,Parsley,6
+Common thyme,Pasta,3
+Common thyme,Pepper (Capsicum),3
+Common thyme,Soft-necked garlic,9
+Common thyme,Soup,11
+Common thyme,Wheat,2
+Garden tomato,Pasta,1
+Garden tomato,Pepper (Capsicum),3
+Garden tomato,Wheat,3
+Olive,Pasta,7
+Parsley,Pasta,10
+Parsley,Pepper (Capsicum),8
+Pasta,Pepper (Capsicum),5
+Pasta,Soft-necked garlic,22
+Pasta,Wheat,5
+Pepper (Capsicum),Soup,4
+Pepper (Capsicum),Wheat,3
+Soft-necked garlic,Wheat,30
+Soup,Wheat,19
+Cabbage,Common mushroom,10
+Cabbage,Lemon,21
+Cabbage,Rice,18
+Cabbage,Wheat,11
+Common mushroom,Cream,21
+Common mushroom,Domestic pig,14
+Cream,Domestic pig,16
+Cream,Grape wine,14
+Cream,Lemon,28
+Cream,Rice,8
+Cream,Soup,22
+Domestic pig,Grape wine,17
+Domestic pig,Lemon,5
+Domestic pig,Pepper,4
+Domestic pig,Rice,11
+Domestic pig,Soup,22
+Grape wine,Pepper,6
+Grape wine,Rice,6
+Grape wine,Water,13
+Grape wine,Wheat,5
+Lemon,Pepper,12
+Lemon,Soup,23
+Pepper,Rice,6
+Pepper,Wheat,11
+Rice,Soup,13
+Rice,Water,18
+Rice,Wheat,7
+Soup,Water,28
+Cream,Pepper (Spice),34
+Cream,Red bell pepper,35
+Pepper (Spice),Red bell pepper,35
+Red bell pepper,Water,49
+Allium,Common buckwheat,6
+Allium,Walnut,1
+Common buckwheat,Common thyme,2
+Common buckwheat,Olive,3
+Common buckwheat,Parsley,2
+Common buckwheat,Pepper (Spice),4
+Common buckwheat,Walnut,1
+Common buckwheat,Water,7
+Common thyme,Eggs,10
+Common thyme,Pepper (Spice),15
+Common thyme,Salt,9
+Common thyme,Salted butter,13
+Common thyme,Walnut,1
+Common thyme,Water,2
+Olive,Walnut,1
+Parsley,Walnut,1
+Parsley,Water,31
+Pepper (Spice),Walnut,1
+Salt,Walnut,9
+Walnut,Water,4
+Ceylon cinnamon,Cheese,13
+Ceylon cinnamon,Lemon,17
+Ceylon cinnamon,Sour cream,5
+Cheese,Flour,10
+Flour,Lemon,9
+Flour,Sour cream,20
+Common grape,Cream,11
+Common grape,Egg yolk,6
+Common grape,Opium poppy,6
+Cream,Egg yolk,9
+Cream,Opium poppy,4
+Cream,Vanilla,38
+Egg yolk,Leavening agent,12
+Egg yolk,Lemon,11
+Egg yolk,Opium poppy,2
+Egg yolk,Salt,28
+Egg yolk,Vanilla,16
+Egg yolk,Water,8
+Egg yolk,Wheat,17
+Leavening agent,Opium poppy,9
+Lemon,Opium poppy,3
+Milk (Cow),Opium poppy,5
+Opium poppy,Salt,8
+Opium poppy,Salted butter,10
+Opium poppy,Sugar,12
+Opium poppy,Vanilla,5
+Opium poppy,Water,5
+Opium poppy,Wheat,6
+Common grape,Flour,9
+Common grape,Other bread,1
+Common grape,Sour cream,6
+Eggs,Other bread,1
+Flour,Other bread,1
+Flour,Vanilla,15
+Leavening agent,Other bread,1
+Lemon,Other bread,1
+Milk (Cow),Other bread,1
+Other bread,Salt,1
+Other bread,Salted butter,1
+Other bread,Sour cream,1
+Other bread,Sugar,1
+Other bread,Vanilla,1
+Sour cream,Vanilla,16
+Olive,Other bread product,5
+Other bread product,Pepper,5
+Other bread product,Soft-necked garlic,10
+Carrot,Common thyme,7
+Carrot,Rice,6
+Carrot,Sorrel,2
+Common thyme,Cream,6
+Common thyme,Garden onion,1
+Common thyme,Potato,6
+Common thyme,Red bell pepper,8
+Common thyme,Rice,1
+Common thyme,Sorrel,1
+Common thyme,Wild celery,6
+Cream,Garden onion,2
+Cream,Sorrel,1
+Garden onion,Rice,5
+Garden onion,Salted butter,5
+Garden onion,Sorrel,1
+Garden onion,Wild celery,1
+Potato,Rice,3
+Potato,Sorrel,4
+Red bell pepper,Rice,18
+Red bell pepper,Sorrel,1
+Rice,Sorrel,1
+Rice,Wild celery,2
+Salt,Sorrel,4
+Salted butter,Sorrel,2
+Sorrel,Soup,2
+Sorrel,Wild celery,2
+Apricot,Cheese,5
+Apricot,Honey,8
+Apricot,Salted butter,26
+Apricot,Sweet orange,4
+Apricot,Water,3
+Apricot,Wheat,9
+Ceylon cinnamon,Honey,12
+Ceylon cinnamon,Sweet orange,6
+Ceylon cinnamon,Water,11
+Cheese,Common grape,14
+Cheese,Honey,5
+Cheese,Water,18
+Common grape,Honey,13
+Eggs,Honey,22
+Honey,Salt,16
+Honey,Salted butter,23
+Honey,Sweet orange,5
+Honey,Wheat,9
+Common buckwheat,Egg yolk,2
+Common buckwheat,Flour,1
+Egg yolk,Flour,8
+Egg yolk,Sour cream,8
+Egg yolk,Sturgeon,1
+Flour,Sturgeon,1
+Sturgeon,Water,3
+Allium,"Clupeinae (Herring, Sardine, Sprat)",1
+Allium,Other bread product,13
+Allium,"Pleuronectidae (Dab, Halibut, Plaice)",1
+"Clupeinae (Herring, Sardine, Sprat)",Eggs,1
+"Clupeinae (Herring, Sardine, Sprat)",Lemon,1
+"Clupeinae (Herring, Sardine, Sprat)",Olive,1
+"Clupeinae (Herring, Sardine, Sprat)",Other bread product,1
+"Clupeinae (Herring, Sardine, Sprat)",Parsley,1
+"Clupeinae (Herring, Sardine, Sprat)","Pleuronectidae (Dab, Halibut, Plaice)",1
+"Clupeinae (Herring, Sardine, Sprat)",Sauce,1
+"Clupeinae (Herring, Sardine, Sprat)",Soft-necked garlic,1
+"Clupeinae (Herring, Sardine, Sprat)",Wheat,1
+Eggs,"Pleuronectidae (Dab, Halibut, Plaice)",1
+Lemon,Other bread product,6
+Lemon,"Pleuronectidae (Dab, Halibut, Plaice)",1
+Lemon,Sauce,4
+Olive,"Pleuronectidae (Dab, Halibut, Plaice)",1
+Olive,Sauce,7
+Other bread product,"Pleuronectidae (Dab, Halibut, Plaice)",1
+Other bread product,Sauce,3
+Parsley,"Pleuronectidae (Dab, Halibut, Plaice)",1
+Parsley,Sauce,6
+"Pleuronectidae (Dab, Halibut, Plaice)",Sauce,1
+"Pleuronectidae (Dab, Halibut, Plaice)",Soft-necked garlic,1
+"Pleuronectidae (Dab, Halibut, Plaice)",Wheat,1
+Sauce,Soft-necked garlic,10
+Sauce,Wheat,6
+Chicken,Milk (Cow),5
+Chicken,White bread,7
+Eggs,White bread,28
+Milk (Cow),Pepper,2
+Milk (Cow),White bread,10
+Other bread product,White bread,4
+Pepper,White bread,1
+Caraway,Garden tomato (var.),11
+Caraway,Vinegar,13
+"Cattle (Beef, Veal)",Garden tomato (var.),47
+"Cattle (Beef, Veal)",Vinegar,27
+Garden tomato (var.),Olive,29
+Garden tomato (var.),Red bell pepper,58
+Garden tomato (var.),Soup,30
+Garden tomato (var.),Vinegar,22
+Olive,Vinegar,14
+Red bell pepper,Vinegar,31
+Soup,Vinegar,20
+Allium,Milk (Cow),38
+Allium,Tortilla,1
+"Cattle (Beef, Veal)",Domestic pig,38
+"Cattle (Beef, Veal)",Milk (Cow),17
+"Cattle (Beef, Veal)",Tortilla,1
+Coriander,Domestic pig,4
+Coriander,Milk (Cow),2
+Coriander,Parsley,1
+Coriander,Tortilla,1
+Domestic pig,Milk (Cow),11
+Domestic pig,Tortilla,1
+Milk (Cow),Parsley,7
+Milk (Cow),Pepper (Spice),20
+Milk (Cow),Tortilla,1
+Parsley,Tortilla,1
+Pepper (Spice),Tortilla,1
+Salt,Tortilla,1
+Chives,Olive,5
+Chives,Potato,7
+Chives,Sour cream,5
+Chives,Sturgeon,2
+Olive,Sturgeon,3
+Potato,Sturgeon,3
+Apple cider,Beer,1
+Apple cider,Cloves,1
+Apple cider,Domestic pig,1
+Apple cider,Mustard,2
+Apple cider,Pepper (Spice),4
+Apple cider,Salt,1
+Apple cider,Sugar,1
+Apple cider,Sweet bay,1
+Beer,Cloves,1
+Beer,Domestic pig,2
+Beer,Mustard,2
+Beer,Pepper (Spice),3
+Beer,Salt,6
+Beer,Sugar,3
+Beer,Sweet bay,1
+Cloves,Domestic pig,2
+Cloves,Mustard,2
+Cloves,Sweet bay,4
+Domestic pig,Mustard,6
+Domestic pig,Sugar,8
+Mustard,Pepper (Spice),7
+Mustard,Salt,16
+Mustard,Sugar,2
+Mustard,Sweet bay,3
+Pepper (Spice),Sugar,15
+Sugar,Sweet bay,10
+Cheese,Pepper (Spice),18
+Cheese,Potato,39
+Cheese,Yogurt,3
+Eggs,Yogurt,8
+Potato,Yogurt,9
+Salted butter,Yogurt,5
+Almond,Cheese,6
+Almond,Sour cream,3
+Corn,Leavening agent,9
+Corn,Rye,6
+Corn,Salt,16
+Corn,Water,13
+Rye,Salt,6
+Cabbage,"Cattle (Beef, Veal)",38
+"Cattle (Beef, Veal)",Common beet,12
+Almond,Corn,2
+Almond,Grape wine,2
+Almond,Sour cherry,2
+Almond,Syrup,1
+Corn,Grape wine,3
+Corn,Sour cherry,1
+Corn,Sugar,12
+Corn,Syrup,1
+Grape wine,Sour cherry,2
+Grape wine,Syrup,1
+Sour cherry,Sugar,4
+Sour cherry,Syrup,1
+Sugar,Syrup,2
+Allium,Canola oil,14
+Canola oil,"Cattle (Beef, Veal)",6
+Canola oil,Dill,9
+Canola oil,Other bread product,2
+Canola oil,Pepper (Spice),8
+Canola oil,Salad dressing,3
+Canola oil,Salted butter,5
+Canola oil,White bread,1
+"Cattle (Beef, Veal)",Other bread product,6
+"Cattle (Beef, Veal)",Salad dressing,3
+"Cattle (Beef, Veal)",White bread,14
+Other bread product,Salad dressing,3
+Salad dressing,Salt,36
+Salad dressing,Salted butter,5
+Salad dressing,Soft-necked garlic,13
+Salad dressing,White bread,2
+Soft-necked garlic,White bread,14
+Cabbage,Parsley,25
+Carrot,Lemon,20
+Common beet,Lemon,16
+Common beet,Olive,7
+Common beet,Parsley,11
+Garden tomato (var.),Grape wine,11
+Garden tomato (var.),Lemon,19
+Garden tomato (var.),Parsley,30
+Grape wine,Parsley,8
+Lemon,Wild celery,15
+Carrot,Cucumber,26
+Carrot,Shrimp,3
+Common pea,Cucumber,19
+Common pea,Garden onion,3
+Common pea,Salt,17
+Common pea,Shrimp,2
+Cucumber,Garden onion,4
+Cucumber,Salad dressing,25
+Cucumber,Shrimp,2
+Dill,Shrimp,2
+Eggs,Garden onion,12
+Eggs,Shrimp,3
+Garden onion,Salad dressing,7
+Garden onion,Shrimp,2
+Potato,Shrimp,3
+Salad dressing,Shrimp,3
+Salt,Shrimp,4
+Biscuit,Egg yolk,2
+Biscuit,Eggs,4
+Biscuit,Flour,2
+Biscuit,Fruit salad,1
+Biscuit,Meringue,1
+Biscuit,Salted butter,4
+Biscuit,Sour cream,4
+Biscuit,Sugar,5
+Biscuit,Walnut,3
+Egg yolk,Fruit salad,1
+Egg yolk,Meringue,1
+Egg yolk,Walnut,3
+Eggs,Fruit salad,8
+Eggs,Meringue,1
+Flour,Fruit salad,2
+Flour,Meringue,1
+Flour,Walnut,6
+Fruit salad,Meringue,1
+Fruit salad,Salted butter,6
+Fruit salad,Sour cream,2
+Fruit salad,Sugar,4
+Fruit salad,Walnut,1
+Meringue,Salted butter,1
+Meringue,Sour cream,1
+Meringue,Sugar,1
+Meringue,Walnut,1
+Sour cream,Walnut,3
+Apple,Other frozen dessert,1
+Apple,Pastry,1
+Apple,Walnut,2
+Common grape,Other frozen dessert,1
+Common grape,Pastry,2
+Common grape,Walnut,4
+Other frozen dessert,Pastry,1
+Other frozen dessert,Salt,1
+Other frozen dessert,Salted butter,1
+Other frozen dessert,Sugar,1
+Other frozen dessert,Walnut,1
+Pastry,Sugar,3
+Pastry,Walnut,1
+Allium,Buttermilk,7
+Allium,Vinegar,70
+Buttermilk,Common beet,3
+Buttermilk,Cucumber,6
+Buttermilk,Dill,7
+Buttermilk,Salt,12
+Buttermilk,Vinegar,6
+Common beet,Cucumber,6
+Common beet,Vinegar,14
+Dill,Vinegar,43
+Chocolate,Condensed milk,2
+Chocolate,Cream,4
+Chocolate,Flour,3
+Chocolate,Leavening agent,3
+Chocolate,Opium poppy,1
+Chocolate,Vanilla,5
+Chocolate,Walnut,3
+Chocolate,Water,5
+Condensed milk,Cream,3
+Condensed milk,Eggs,7
+Condensed milk,Flour,4
+Condensed milk,Leavening agent,4
+Condensed milk,Opium poppy,4
+Condensed milk,Sugar,7
+Condensed milk,Vanilla,3
+Condensed milk,Walnut,2
+Condensed milk,Water,3
+Cream,Flour,5
+Cream,Walnut,2
+Eggs,Opium poppy,8
+Flour,Opium poppy,5
+Opium poppy,Walnut,3
+Allium,Fishes,4
+Allium,Shrimp,1
+Carrot,Fishes,1
+Fishes,Herbs and Spices,1
+Fishes,Olive,3
+Fishes,Parsley,4
+Fishes,Potato,2
+Fishes,Red bell pepper,4
+Fishes,Salt,2
+Fishes,Shrimp,1
+Fishes,Soup,2
+Fishes,Sweet bay,2
+Fishes,Water,2
+Fishes,Wild celery,1
+Herbs and Spices,Olive,5
+Herbs and Spices,Parsley,3
+Herbs and Spices,Potato,4
+Herbs and Spices,Red bell pepper,2
+Herbs and Spices,Shrimp,1
+Herbs and Spices,Water,8
+Olive,Shrimp,1
+Parsley,Shrimp,2
+Parsley,Sweet bay,14
+Red bell pepper,Shrimp,2
+Red bell pepper,Sweet bay,24
+Shrimp,Soup,1
+Shrimp,Sweet bay,1
+Shrimp,Water,1
+Shrimp,Wild celery,1
+Allium,Cooking oil,98
+Caraway,Dumpling,1
+Caraway,Sugar,6
+Cooking oil,Dumpling,1
+Dumpling,Garden tomato,1
+Dumpling,Soup,1
+Dumpling,Sugar,3
+Dumpling,Sweet bay,1
+Garden tomato,Sugar,8
+Soup,Sugar,9
+Allium,Gelatin,3
+Allium,Turkey,8
+Carrot,Domestic pig,23
+Carrot,Gelatin,1
+Carrot,Turkey,1
+"Cattle (Beef, Veal)",Gelatin,3
+"Cattle (Beef, Veal)",Sweet bay,26
+"Cattle (Beef, Veal)",Turkey,4
+Domestic pig,Gelatin,1
+Domestic pig,Turkey,4
+Domestic pig,Wild celery,13
+Gelatin,Pepper (Spice),1
+Gelatin,Salt,3
+Gelatin,Soft-necked garlic,2
+Gelatin,Soup,2
+Gelatin,Sweet bay,2
+Gelatin,Turkey,1
+Gelatin,Wild celery,1
+Pepper (Spice),Turkey,3
+Salt,Turkey,5
+Soft-necked garlic,Turkey,5
+Soup,Turkey,3
+Sweet bay,Turkey,2
+Turkey,Wild celery,1
+Agar,Eggs,2
+Agar,Gelatin,1
+Agar,Lemon,2
+Agar,Pastry,1
+Agar,Sugar,2
+Agar,Water,2
+Eggs,Gelatin,8
+Gelatin,Lemon,4
+Gelatin,Pastry,1
+Gelatin,Sugar,5
+Gelatin,Water,5
+Pastry,Water,5
+Apple,Cloves,3
+Apple,Grape wine,6
+Cabbage,Cloves,1
+Cabbage,Sugar,26
+Cloves,Grape wine,1
+Cloves,Salted butter,8
+Almond,Ceylon cinnamon,12
+Almond,Cloves,4
+Almond,Cocoa powder,3
+Almond,Ginger,4
+Almond,Hazelnut,2
+Almond,Honey,7
+Almond,Other fruit product,4
+Ceylon cinnamon,Cloves,6
+Ceylon cinnamon,Cocoa powder,7
+Ceylon cinnamon,Hazelnut,6
+Ceylon cinnamon,Other fruit product,1
+Cloves,Cocoa powder,2
+Cloves,Eggs,7
+Cloves,Hazelnut,2
+Cloves,Leavening agent,6
+Cloves,Other fruit product,1
+Cloves,Water,5
+Cloves,Wheat,6
+Cocoa powder,Ginger,3
+Cocoa powder,Hazelnut,4
+Cocoa powder,Honey,3
+Cocoa powder,Leavening agent,12
+Cocoa powder,Other fruit product,1
+Cocoa powder,Salted butter,23
+Cocoa powder,Water,7
+Cocoa powder,Wheat,7
+Eggs,Other fruit product,1
+Ginger,Hazelnut,2
+Ginger,Leavening agent,5
+Ginger,Other fruit product,1
+Ginger,Salted butter,9
+Ginger,Water,6
+Ginger,Wheat,2
+Hazelnut,Honey,2
+Hazelnut,Leavening agent,3
+Hazelnut,Other fruit product,1
+Hazelnut,Salt,7
+Hazelnut,Water,1
+Hazelnut,Wheat,6
+Honey,Leavening agent,17
+Honey,Other fruit product,1
+Leavening agent,Other fruit product,2
+Other fruit product,Salt,3
+Other fruit product,Salted butter,3
+Other fruit product,Sugar,4
+Other fruit product,Water,2
+Other fruit product,Wheat,1
+Apricot,Cloves,2
+Apricot,Cocoa powder,5
+Apricot,Cream,6
+Apricot,Egg yolk,3
+Apricot,Hazelnut,5
+Apricot,Yogurt,2
+Ceylon cinnamon,Egg yolk,6
+Ceylon cinnamon,Yogurt,2
+Cloves,Cream,2
+Cloves,Egg yolk,4
+Cloves,Sweet orange,3
+Cloves,Yogurt,2
+Cocoa powder,Cream,10
+Cocoa powder,Egg yolk,1
+Cocoa powder,Sweet orange,2
+Cocoa powder,Yogurt,1
+Cream,Hazelnut,2
+Cream,Sweet orange,3
+Cream,Yogurt,1
+Egg yolk,Sweet orange,3
+Egg yolk,Yogurt,2
+Hazelnut,Sweet orange,3
+Hazelnut,Yogurt,1
+Sugar,Yogurt,5
+Sweet orange,Yogurt,1
+Wheat,Yogurt,2
+Allium,Flour,13
+Allium,Shortening,1
+"Cattle (Beef, Veal)",Flour,7
+"Cattle (Beef, Veal)",Shortening,1
+Eggs,Garden tomato,5
+Eggs,Garden tomato (var.),16
+Eggs,Shortening,5
+Flour,Garden tomato,2
+Flour,Garden tomato (var.),4
+Flour,Pepper,2
+Flour,Red bell pepper,8
+Flour,Shortening,2
+Garden tomato,Other bread product,3
+Garden tomato,Shortening,1
+Garden tomato (var.),Other bread product,1
+Garden tomato (var.),Shortening,1
+Garden tomato (var.),Sour cream,21
+Other bread product,Red bell pepper,8
+Other bread product,Shortening,1
+Other bread product,Sour cream,4
+Pepper,Shortening,2
+Red bell pepper,Shortening,2
+Salt,Shortening,4
+Shortening,Sour cream,1
+Flour,"Prunus (Cherry, Plum)",2
+Milk (Cow),"Prunus (Cherry, Plum)",5
+"Prunus (Cherry, Plum)",Water,2
+Caraway,Cream,8
+Caraway,Egg yolk,2
+Caraway,European plum,1
+Caraway,Liquor,1
+Caraway,Vanilla,1
+Cream,European plum,4
+Cream,Liquor,5
+Egg yolk,European plum,1
+Egg yolk,Liquor,2
+European plum,Liquor,1
+European plum,Vanilla,1
+Apple,Lemon,11
+Apple,Soft drink,2
+Ceylon cinnamon,Soft drink,2
+Common grape,Soft drink,2
+Eggs,Soft drink,3
+Leavening agent,Soft drink,2
+Lemon,Soft drink,2
+Salt,Soft drink,2
+Salted butter,Soft drink,2
+Soft drink,Sugar,3
+Soft drink,Wheat,2
+Allium,Capers,7
+Apple,Capers,1
+Apple,Chicken,1
+Apple,Common pea,3
+Apple,Common thyme,5
+Apple,Cucumber,4
+Apple,Domestic pig,5
+Apple,Mustard,2
+Apple,Potato,7
+Apple,Salad dressing,4
+Capers,Carrot,3
+Capers,Cloves,1
+Capers,Common pea,1
+Capers,Common thyme,1
+Capers,Cucumber,5
+Capers,Dill,4
+Capers,Domestic pig,5
+Capers,Garden tomato,5
+Capers,Lemon,6
+Capers,Mustard,1
+Capers,Olive,7
+Capers,Potato,2
+Capers,Red bell pepper,3
+Capers,Salad dressing,2
+Capers,Sour cream,5
+Capers,Sweet bay,6
+Capers,Water,6
+Capers,Wild celery,3
+Carrot,Chicken,12
+Carrot,Cloves,1
+Carrot,Mustard,5
+Chicken,Cloves,1
+Chicken,Common pea,7
+Chicken,Common thyme,3
+Chicken,Cucumber,7
+Chicken,Dill,16
+Chicken,Domestic pig,7
+Chicken,Lemon,12
+Chicken,Mustard,5
+Chicken,Olive,9
+Chicken,Potato,20
+Chicken,Red bell pepper,24
+Chicken,Salad dressing,13
+Chicken,Sour cream,7
+Chicken,Sweet bay,3
+Chicken,Water,12
+Chicken,Wild celery,10
+Cloves,Common pea,1
+Cloves,Common thyme,1
+Cloves,Cucumber,2
+Cloves,Garden tomato,1
+Cloves,Olive,1
+Cloves,Potato,1
+Cloves,Red bell pepper,1
+Cloves,Salad dressing,1
+Cloves,Sour cream,2
+Cloves,Wild celery,1
+Common pea,Common thyme,2
+Common pea,Domestic pig,5
+Common pea,Garden tomato,2
+Common pea,Lemon,4
+Common pea,Mustard,4
+Common pea,Olive,5
+Common pea,Red bell pepper,11
+Common pea,Sweet bay,2
+Common pea,Water,2
+Common pea,Wild celery,3
+Common thyme,Cucumber,1
+Common thyme,Dill,7
+Common thyme,Domestic pig,5
+Common thyme,Lemon,4
+Common thyme,Mustard,1
+Common thyme,Salad dressing,1
+Common thyme,Sour cream,4
+Common thyme,Sweet bay,5
+Cucumber,Domestic pig,9
+Cucumber,Garden tomato,5
+Cucumber,Lemon,11
+Cucumber,Olive,13
+Cucumber,Red bell pepper,16
+Cucumber,Sweet bay,5
+Cucumber,Wild celery,5
+Domestic pig,Red bell pepper,40
+Domestic pig,Salad dressing,8
+Eggs,Sweet bay,7
+Eggs,Wild celery,13
+Garden tomato,Lemon,13
+Garden tomato,Mustard,1
+Garden tomato,Salad dressing,3
+Lemon,Mustard,5
+Lemon,Potato,28
+Lemon,Salad dressing,5
+Lemon,Sweet bay,17
+Mustard,Olive,9
+Mustard,Red bell pepper,12
+Mustard,Salad dressing,7
+Mustard,Wild celery,6
+Olive,Salad dressing,8
+Red bell pepper,Salad dressing,14
+Salad dressing,Sweet bay,1
+Salad dressing,Water,4
+Salad dressing,Wild celery,3
+Cabbage,Common oregano,1
+Cabbage,Lettuce,2
+Cabbage,Salad dressing,2
+Common oregano,Lettuce,1
+Common oregano,Red bell pepper,3
+Common oregano,Salt,1
+Common oregano,Salted butter,2
+Common oregano,White bread,1
+Lettuce,Red bell pepper,4
+Lettuce,Salad dressing,1
+Lettuce,Salt,2
+Lettuce,Salted butter,2
+Lettuce,White bread,2
+Red bell pepper,White bread,14
+Cardamom,Cheese,1
+Cardamom,Cooking oil,1
+Cardamom,Egg yolk,2
+Cardamom,Eggs,7
+Cardamom,Garden rhubarb,1
+Cardamom,Milk (Cow),5
+Cardamom,Salt,5
+Cardamom,Salted butter,7
+Cardamom,Strawberry,2
+Cardamom,Sweet orange,2
+Cardamom,Vanilla,6
+Cardamom,Wheat,4
+Cheese,Cooking oil,32
+Cheese,Egg yolk,7
+Cheese,Garden rhubarb,1
+Cheese,Milk (Cow),27
+Cheese,Strawberry,3
+Cooking oil,Egg yolk,4
+Cooking oil,Garden rhubarb,1
+Cooking oil,Honey,4
+Cooking oil,Milk (Cow),39
+Cooking oil,Strawberry,3
+Cooking oil,Sweet orange,4
+Cooking oil,Vanilla,18
+Egg yolk,Garden rhubarb,1
+Egg yolk,Honey,1
+Egg yolk,Strawberry,1
+Eggs,Garden rhubarb,1
+Eggs,Strawberry,5
+Garden rhubarb,Honey,1
+Garden rhubarb,Milk (Cow),1
+Garden rhubarb,Salt,1
+Garden rhubarb,Salted butter,1
+Garden rhubarb,Strawberry,1
+Garden rhubarb,Sugar,1
+Garden rhubarb,Sweet orange,1
+Garden rhubarb,Vanilla,1
+Garden rhubarb,Wheat,1
+Honey,Milk (Cow),11
+Honey,Strawberry,1
+Honey,Vanilla,7
+Milk (Cow),Strawberry,3
+Salt,Strawberry,2
+Salted butter,Strawberry,4
+Strawberry,Sugar,4
+Strawberry,Sweet orange,2
+Strawberry,Vanilla,5
+Strawberry,Wheat,2
+Allium,Common cabbage,37
+Allium,Common wheat,63
+Allium,Fats and oils,2
+Allium,Leek,8
+Allium,Meat bouillon,4
+Carrot,Common wheat,7
+Carrot,Fats and oils,2
+Carrot,Meat bouillon,3
+Carrot,Sugar,15
+Carrot,Vinegar,32
+"Cattle (Beef, Veal)",Common cabbage,14
+"Cattle (Beef, Veal)",Common wheat,21
+"Cattle (Beef, Veal)",Fats and oils,1
+"Cattle (Beef, Veal)",Leek,6
+"Cattle (Beef, Veal)",Meat bouillon,3
+"Cattle (Beef, Veal)",Sugar,18
+Common beet,Common cabbage,2
+Common beet,Common thyme,2
+Common beet,Common wheat,1
+Common beet,Eggs,7
+Common beet,Fats and oils,1
+Common beet,Leek,3
+Common beet,Meat bouillon,2
+Common beet,Sugar,13
+Common beet,Sweet bay,9
+Common cabbage,Common thyme,3
+Common cabbage,Common wheat,14
+Common cabbage,Eggs,9
+Common cabbage,Fats and oils,1
+Common cabbage,Meat bouillon,2
+Common cabbage,Parsley,5
+Common cabbage,Pepper,2
+Common cabbage,Salted butter,13
+Common cabbage,Sugar,1
+Common cabbage,Vinegar,2
+Common thyme,Common wheat,8
+Common thyme,Fats and oils,1
+Common thyme,Leek,2
+Common thyme,Meat bouillon,1
+Common thyme,Pepper,1
+Common thyme,Sugar,2
+Common thyme,Vinegar,2
+Common wheat,Dill,33
+Common wheat,Eggs,154
+Common wheat,Fats and oils,1
+Common wheat,Garden tomato,1
+Common wheat,Leek,4
+Common wheat,Meat bouillon,1
+Common wheat,Parsley,16
+Common wheat,Pepper,1
+Common wheat,Pepper (Spice),31
+Common wheat,Potato,30
+Common wheat,Salt,11
+Common wheat,Salted butter,142
+Common wheat,Soft-necked garlic,20
+Common wheat,Sour cream,5
+Common wheat,Sugar,6
+Common wheat,Sweet bay,9
+Common wheat,Vinegar,13
+Common wheat,Wild celery,8
+Dill,Fats and oils,1
+Dill,Meat bouillon,2
+Eggs,Fats and oils,2
+Eggs,Leek,5
+Eggs,Meat bouillon,2
+Eggs,Vinegar,27
+Fats and oils,Garden tomato,1
+Fats and oils,Leek,1
+Fats and oils,Meat bouillon,1
+Fats and oils,Parsley,1
+Fats and oils,Pepper,1
+Fats and oils,Pepper (Spice),1
+Fats and oils,Potato,3
+Fats and oils,Salt,3
+Fats and oils,Salted butter,1
+Fats and oils,Soft-necked garlic,1
+Fats and oils,Sour cream,1
+Fats and oils,Sugar,1
+Fats and oils,Sweet bay,1
+Fats and oils,Vinegar,1
+Fats and oils,Wild celery,1
+Garden tomato,Leek,2
+Garden tomato,Meat bouillon,3
+Garden tomato,Vinegar,11
+Leek,Meat bouillon,1
+Leek,Parsley,5
+Leek,Pepper,1
+Leek,Potato,6
+Leek,Salted butter,9
+Leek,Sugar,3
+Leek,Vinegar,2
+Meat bouillon,Parsley,2
+Meat bouillon,Pepper,2
+Meat bouillon,Pepper (Spice),3
+Meat bouillon,Potato,3
+Meat bouillon,Salt,6
+Meat bouillon,Salted butter,5
+Meat bouillon,Soft-necked garlic,2
+Meat bouillon,Sour cream,4
+Meat bouillon,Sugar,2
+Meat bouillon,Sweet bay,1
+Meat bouillon,Vinegar,2
+Meat bouillon,Wild celery,2
+Parsley,Sugar,10
+Parsley,Vinegar,16
+Pepper,Sugar,8
+Pepper,Sweet bay,7
+Pepper (Spice),Vinegar,31
+Potato,Vinegar,32
+Salted butter,Vinegar,26
+Sour cream,Vinegar,22
+Sugar,Vinegar,31
+Sugar,Wild celery,5
+Sweet bay,Vinegar,16
+Vinegar,Wild celery,23
+Butter,Coriander,1
+Butter,Cumin,1
+Butter,Flour,5
+Butter,Green plum,1
+Butter,Leavening agent,9
+Butter,Mallard duck,1
+Butter,Soup,1
+Butter,Sweet orange,1
+Butter,Walnut,1
+Coriander,Flour,2
+Coriander,Leavening agent,2
+Coriander,Mallard duck,1
+Coriander,Soup,2
+Coriander,Sweet orange,1
+Coriander,Walnut,1
+Cumin,Eggs,2
+Cumin,Flour,1
+Cumin,Green plum,1
+Cumin,Leavening agent,1
+Cumin,Mallard duck,1
+Cumin,Milk (Cow),1
+Cumin,Soup,2
+Cumin,Sugar,2
+Cumin,Sweet orange,1
+Cumin,Walnut,1
+Eggs,Mallard duck,2
+Eggs,Soup,17
+Flour,Green plum,1
+Flour,Mallard duck,1
+Flour,Soup,4
+Flour,Sweet orange,1
+Green plum,Leavening agent,1
+Green plum,Mallard duck,1
+Green plum,Milk (Cow),1
+Green plum,Soup,1
+Green plum,Sweet orange,1
+Green plum,Walnut,2
+Leavening agent,Mallard duck,1
+Leavening agent,Soup,2
+Mallard duck,Milk (Cow),1
+Mallard duck,Sugar,1
+Mallard duck,Sweet orange,1
+Mallard duck,Walnut,1
+Milk (Cow),Soup,8
+Milk (Cow),Walnut,2
+Soup,Sweet orange,1
+Soup,Walnut,1
+Sweet orange,Walnut,2
+Cheese,Condensed milk,2
+Cheese,Cream,26
+Condensed milk,Salted butter,7
+Allium,Chives,12
+Cabbage,Chives,2
+Cabbage,Eggs,24
+Cabbage,Mallard duck,1
+Cabbage,Other bread product,1
+Cabbage,Vinegar,33
+Chives,Common beet,1
+Chives,Eggs,24
+Chives,Mallard duck,1
+Chives,Other bread product,3
+Chives,Pepper (Spice),10
+Chives,Salt,11
+Chives,Vinegar,4
+Common beet,Other bread product,1
+Cooking oil,Mallard duck,1
+Cooking oil,Vinegar,25
+Mallard duck,Other bread product,1
+Mallard duck,Potato,1
+Mallard duck,Vinegar,1
+Other bread product,Vinegar,2
+Allium,Nutmeg,8
+"Cattle (Beef, Veal)",Cream,22
+"Cattle (Beef, Veal)",Nutmeg,3
+Common thyme,Nutmeg,3
+Cream,Nutmeg,5
+Lemon,Nutmeg,7
+Nutmeg,Red bell pepper,4
+Nutmeg,Salted butter,18
+Nutmeg,Soup,3
+Domestic pig,Garden onion,3
+Domestic pig,Green zucchini,1
+Domestic pig,Herbs and Spices,2
+Garden onion,Green zucchini,2
+Garden onion,Herbs and Spices,1
+Green zucchini,Herbs and Spices,1
+Green zucchini,Salt,3
+Apple,Common beet,3
+Cabbage,Ginger,2
+Common beet,Ginger,2
+Allium,Apricot,3
+Apricot,Chicken,1
+Apricot,Salad dressing,1
+Butter,Cheese,3
+Butter,Dill,1
+Butter,Lemon,2
+Butter,Pink salmon,1
+Butter,Salted butter,4
+Butter,Sturgeon,1
+Butter,Water,7
+Cheese,Common buckwheat,1
+Cheese,Pink salmon,2
+Cheese,Sturgeon,2
+Common buckwheat,Dill,6
+Common buckwheat,Lemon,1
+Common buckwheat,Pink salmon,9
+Dill,Leavening agent,16
+Dill,Sturgeon,3
+Leavening agent,Pink salmon,9
+Lemon,Sturgeon,2
+Milk (Cow),Pink salmon,9
+Pink salmon,Sturgeon,3
+Pink salmon,Sugar,6
+Pink salmon,Water,5
+Cabbage,Ketchup,6
+Cabbage,Meat bouillon,3
+Carrot,Ketchup,4
+"Cattle (Beef, Veal)",Ketchup,8
+Garden tomato,Ketchup,4
+Ketchup,Meat bouillon,1
+Ketchup,Soft-necked garlic,14
+Ketchup,Sugar,3
+Ketchup,Vinegar,6
+Ketchup,Water,9
+Meat bouillon,Water,3
+Domestic pig,Flour,7
+Flour,Pepper (Spice),5
+Allium,Sweet marjoram,22
+Caraway,Pepper (Capsicum),3
+Caraway,Sauce,1
+Caraway,Water,10
+Caraway,Wheat,5
+"Cattle (Beef, Veal)",Sauce,11
+"Cattle (Beef, Veal)",Sweet marjoram,18
+Garden tomato (var.),Ketchup,3
+Garden tomato (var.),Pepper (Capsicum),9
+Garden tomato (var.),Sauce,1
+Garden tomato (var.),Sweet marjoram,10
+Garden tomato (var.),Wheat,7
+Ketchup,Olive,8
+Ketchup,Pepper,7
+Ketchup,Pepper (Capsicum),4
+Ketchup,Sauce,7
+Ketchup,Sweet marjoram,1
+Ketchup,Wheat,5
+Olive,Sweet marjoram,8
+Pepper,Pepper (Capsicum),4
+Pepper,Sweet marjoram,4
+Pepper (Capsicum),Sauce,2
+Pepper (Capsicum),Sweet marjoram,3
+Pepper (Capsicum),Water,7
+Salt,Sauce,15
+Sauce,Sweet marjoram,1
+Sauce,Water,7
+Sweet marjoram,Water,6
+Sweet marjoram,Wheat,5
+Common mushroom,Garden onion,6
+Common mushroom,"Salmonidae (Salmon, Trout)",4
+Common mushroom,Shortening,1
+Dill,"Salmonidae (Salmon, Trout)",4
+Dill,Shortening,1
+Eggs,"Salmonidae (Salmon, Trout)",6
+Garden onion,Lemon,3
+Garden onion,Milk (Cow),1
+Garden onion,Pepper,4
+Garden onion,"Salmonidae (Salmon, Trout)",2
+Garden onion,Shortening,1
+Garden onion,Water,5
+Garden onion,Wheat,4
+Grape wine,Milk (Cow),7
+Grape wine,"Salmonidae (Salmon, Trout)",2
+Grape wine,Shortening,1
+Lemon,"Salmonidae (Salmon, Trout)",5
+Lemon,Shortening,1
+Milk (Cow),Red bell pepper,22
+Milk (Cow),Rice,12
+Milk (Cow),"Salmonidae (Salmon, Trout)",3
+Milk (Cow),Shortening,1
+Pepper,"Salmonidae (Salmon, Trout)",2
+Red bell pepper,"Salmonidae (Salmon, Trout)",4
+Red bell pepper,Wheat,27
+Rice,"Salmonidae (Salmon, Trout)",6
+Rice,Shortening,2
+"Salmonidae (Salmon, Trout)",Salt,5
+"Salmonidae (Salmon, Trout)",Salted butter,8
+"Salmonidae (Salmon, Trout)",Shortening,1
+"Salmonidae (Salmon, Trout)",Water,4
+"Salmonidae (Salmon, Trout)",Wheat,4
+Salted butter,Shortening,4
+Shortening,Water,2
+Shortening,Wheat,3
+"Cattle (Beef, Veal)",Chicken,7
+"Cattle (Beef, Veal)",Garden onion,9
+Chicken,Garden onion,1
+Garden onion,Pepper (Spice),6
+Pink salmon,Sour cream,8
+Pink salmon,Wheat,9
+"Cattle (Beef, Veal)",Herbs and Spices,5
+"Cattle (Beef, Veal)",Soy sauce,1
+Cream,Herbs and Spices,2
+Cream,Olive,11
+Cream,Soy sauce,2
+Herbs and Spices,Pepper,4
+Herbs and Spices,Soft-necked garlic,7
+Herbs and Spices,Soy sauce,2
+Herbs and Spices,Wheat,1
+Olive,Soy sauce,1
+Pepper,Soy sauce,2
+Red bell pepper,Soy sauce,4
+Salt,Soy sauce,2
+Salted butter,Soy sauce,2
+Soft-necked garlic,Soy sauce,4
+Soy sauce,Water,2
+Soy sauce,Wheat,1
+Common beet,Turnip,5
+Garden tomato,Turnip,2
+Potato,Turnip,7
+Red bell pepper,Turnip,5
+Turnip,Vinegar,5
+Allium,Corn,16
+"Cattle (Beef, Veal)",Corn,7
+Common mushroom,Corn,4
+Common mushroom,Sauce,6
+Cooking oil,Corn,8
+Cooking oil,Domestic pig,12
+Cooking oil,Sauce,3
+Cooking oil,Water,41
+Corn,Domestic pig,5
+Corn,Pasta,2
+Corn,Salted butter,11
+Corn,Sauce,3
+Corn,Soup,4
+Corn,Sour cream,5
+Corn,Wild celery,9
+Domestic pig,Pasta,15
+Domestic pig,Sauce,4
+Pasta,Sauce,4
+Pasta,Wild celery,3
+Salted butter,Sauce,8
+Sauce,Soup,5
+Sauce,Wild celery,2
+Apricot,Lemon,4
+Apricot,White bread,3
+Ceylon cinnamon,White bread,5
+Egg yolk,White bread,1
+Lemon,White bread,10
+Sugar,White bread,3
+Wheat,White bread,3
+Buttermilk,Canola oil,2
+Buttermilk,Cheese,2
+Buttermilk,Eggs,11
+Buttermilk,Leavening agent,7
+Buttermilk,Sugar,6
+Buttermilk,Vanilla,3
+Buttermilk,Wheat,10
+Canola oil,Vanilla,6
+Canola oil,Vinegar,4
+Cheese,Vinegar,6
+Leavening agent,Vinegar,12
+Vanilla,Vinegar,3
+Vinegar,Wheat,10
+Allium,Biscuit,2
+Biscuit,Common mushroom,1
+Biscuit,Dumpling,2
+Biscuit,Parsley,1
+Biscuit,Soft-necked garlic,1
+Biscuit,Water,2
+Common mushroom,Dumpling,2
+Dumpling,Parsley,2
+Dumpling,Salted butter,4
+Domestic pig,Vinegar,17
+Ceylon cinnamon,Chocolate,2
+Ceylon cinnamon,Corn,2
+Ceylon cinnamon,Molasses,8
+Ceylon cinnamon,Vanilla,15
+Chocolate,Cloves,2
+Chocolate,Corn,1
+Chocolate,Ginger,1
+Chocolate,Molasses,1
+Chocolate,Salt,5
+Chocolate,Wheat,4
+Cloves,Corn,1
+Cloves,Molasses,1
+Cloves,Vanilla,3
+Corn,Cream,7
+Corn,Eggs,12
+Corn,Ginger,2
+Corn,Molasses,9
+Corn,Vanilla,6
+Corn,Wheat,6
+Cream,Ginger,2
+Cream,Molasses,7
+Eggs,Molasses,15
+Ginger,Molasses,4
+Ginger,Vanilla,4
+Leavening agent,Molasses,8
+Molasses,Salt,5
+Molasses,Salted butter,16
+Molasses,Sugar,4
+Molasses,Vanilla,7
+Molasses,Water,6
+Molasses,Wheat,3
+Apple,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Ceylon cinnamon,Potato,5
+Ceylon cinnamon,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Ginger,Potato,2
+Ginger,Sour cream,1
+Ginger,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Lemon,"Vaccinium (Blueberry, Cranberry, Huckleberry)",2
+Potato,"Vaccinium (Blueberry, Cranberry, Huckleberry)",2
+Sour cream,"Vaccinium (Blueberry, Cranberry, Huckleberry)",3
+Sugar,"Vaccinium (Blueberry, Cranberry, Huckleberry)",3
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Water,3
+Common pea,Turkey,3
+Dill,Turkey,4
+Eggs,Turkey,6
+Potato,Turkey,6
+Salad dressing,Turkey,3
+Cabbage,Flour,5
+Allium,Butter,4
+Allium,"Prunus (Cherry, Plum)",1
+Allium,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Butter,Domestic pig,2
+Butter,Dumpling,1
+Butter,Potato,1
+Butter,"Prunus (Cherry, Plum)",1
+Butter,Sour cream,4
+Butter,Turkey,2
+Butter,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Butter,Vinegar,2
+Butter,Wheat,8
+Domestic pig,"Prunus (Cherry, Plum)",1
+Domestic pig,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Dumpling,Eggs,1
+Dumpling,Milk (Cow),1
+Dumpling,Potato,1
+Dumpling,"Prunus (Cherry, Plum)",1
+Dumpling,Sour cream,2
+Dumpling,Turkey,1
+Dumpling,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Dumpling,Vinegar,2
+Dumpling,Wheat,2
+Eggs,"Vaccinium (Blueberry, Cranberry, Huckleberry)",2
+Milk (Cow),Turkey,1
+Milk (Cow),"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Milk (Cow),Vinegar,5
+Potato,"Prunus (Cherry, Plum)",1
+"Prunus (Cherry, Plum)",Sour cream,1
+"Prunus (Cherry, Plum)",Turkey,1
+"Prunus (Cherry, Plum)","Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+"Prunus (Cherry, Plum)",Vinegar,1
+Sour cream,Turkey,2
+Sugar,Turkey,1
+Turkey,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Turkey,Vinegar,3
+Turkey,Water,3
+Turkey,Wheat,2
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Vinegar,1
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Wheat,2
+Carrot,Flour,4
+Common beet,Domestic pig,4
+Common beet,Flour,1
+Flour,Soft-necked garlic,2
+Flour,Wild celery,4
+Almond,Blackcurrant,6
+Almond,Cardamom,5
+Almond,Citrus,3
+Almond,Cream,9
+Almond,Nutmeg,4
+Almond,Saffron,2
+Blackcurrant,Cardamom,1
+Blackcurrant,Citrus,1
+Blackcurrant,Common grape,3
+Blackcurrant,Cream,2
+Blackcurrant,Eggs,6
+Blackcurrant,Leavening agent,2
+Blackcurrant,Lemon,7
+Blackcurrant,Milk (Cow),4
+Blackcurrant,Nutmeg,2
+Blackcurrant,Saffron,1
+Blackcurrant,Salt,1
+Blackcurrant,Salted butter,8
+Blackcurrant,Sugar,4
+Blackcurrant,Vanilla,8
+Blackcurrant,Wheat,1
+Cardamom,Citrus,1
+Cardamom,Common grape,3
+Cardamom,Cream,1
+Cardamom,Leavening agent,5
+Cardamom,Nutmeg,2
+Cardamom,Saffron,2
+Citrus,Common grape,2
+Citrus,Cream,1
+Citrus,Eggs,4
+Citrus,Leavening agent,3
+Citrus,Lemon,3
+Citrus,Milk (Cow),3
+Citrus,Nutmeg,1
+Citrus,Saffron,1
+Citrus,Salt,3
+Citrus,Salted butter,4
+Citrus,Sugar,3
+Citrus,Vanilla,2
+Citrus,Wheat,3
+Common grape,Saffron,2
+Cream,Saffron,1
+Eggs,Saffron,6
+Leavening agent,Nutmeg,9
+Leavening agent,Saffron,6
+Lemon,Saffron,3
+Milk (Cow),Saffron,6
+Nutmeg,Saffron,1
+Nutmeg,Vanilla,8
+Nutmeg,Wheat,3
+Saffron,Salt,5
+Saffron,Salted butter,6
+Saffron,Sugar,5
+Saffron,Vanilla,3
+Saffron,Wheat,5
+Allium,Green bean,2
+Allium,Root vegetables,11
+Common cabbage,Green bean,2
+Common cabbage,Red bell pepper,16
+Common cabbage,Root vegetables,2
+Common wheat,Cooking oil,46
+Common wheat,Green bean,2
+Common wheat,Red bell pepper,37
+Common wheat,Root vegetables,5
+Cooking oil,Green bean,2
+Cooking oil,Root vegetables,3
+Dill,Green bean,2
+Dill,Root vegetables,5
+Green bean,Potato,2
+Green bean,Red bell pepper,2
+Green bean,Root vegetables,1
+Green bean,Salt,1
+Green bean,Sour cream,2
+Potato,Root vegetables,8
+Red bell pepper,Root vegetables,5
+Root vegetables,Salt,8
+Root vegetables,Sour cream,3
+Carrot,Pepper (Capsicum),6
+Chicken,Ketchup,4
+Chicken,Pepper (Capsicum),2
+Chicken,Rice,2
+Ketchup,Rice,5
+Ketchup,Salted butter,3
+Pepper (Capsicum),Pepper (Spice),7
+Pepper (Capsicum),Rice,1
+Allium,Crab,2
+Common pea,Corn,5
+Common pea,Crab,1
+Common pea,Cream,1
+Corn,Crab,2
+Corn,Salad dressing,4
+Crab,Cream,1
+Crab,Eggs,2
+Crab,Salad dressing,2
+Cream,Salad dressing,2
+Apple,Vanilla,13
+Butter,Buttermilk,1
+Butter,Ketchup,1
+Butter,Olive,1
+Butter,Red bell pepper,2
+Butter,Sauce,1
+Butter,Soft-necked garlic,1
+Buttermilk,Domestic pig,2
+Buttermilk,Ketchup,2
+Buttermilk,Olive,1
+Buttermilk,Red bell pepper,1
+Buttermilk,Sauce,1
+Buttermilk,Soft-necked garlic,3
+Buttermilk,Sour cream,4
+Buttermilk,Turkey,1
+Buttermilk,Water,6
+Domestic pig,Ketchup,4
+Eggs,Ketchup,4
+Ketchup,Red bell pepper,7
+Ketchup,Sour cream,7
+Ketchup,Turkey,1
+Olive,Turkey,3
+Red bell pepper,Sauce,5
+Red bell pepper,Turkey,3
+Sauce,Turkey,2
+Sauce,Vinegar,3
+Canola oil,Ceylon cinnamon,1
+Canola oil,Sour cream,11
+Common beet,Corn,1
+Common beet,Horseradish,5
+Common beet,Watercress,1
+Corn,Cucumber,6
+Corn,Horseradish,3
+Corn,Vinegar,11
+Corn,Watercress,3
+Cucumber,Horseradish,5
+Cucumber,Sugar,8
+Cucumber,Watercress,2
+Horseradish,Vinegar,8
+Horseradish,Watercress,2
+Sour cream,Watercress,2
+Sugar,Watercress,1
+Vinegar,Watercress,2
+Allium,Beer,6
+Beer,"Cattle (Beef, Veal)",1
+Beer,Common bean,1
+Beer,Cumin,1
+Beer,Garden tomato (var.),2
+Beer,Olive,2
+Beer,Parsley,1
+Beer,Pepper,1
+Beer,Red bell pepper,1
+Beer,Sour cream,2
+Beer,Water,4
+Beer,Wild celery,2
+"Cattle (Beef, Veal)",Common bean,1
+"Cattle (Beef, Veal)",Cumin,3
+Common bean,Cumin,2
+Common bean,Garden tomato (var.),1
+Common bean,Parsley,1
+Common bean,Pepper,2
+Common bean,Water,5
+Common bean,Wild celery,5
+Cumin,Olive,5
+Cumin,Parsley,3
+Cumin,Red bell pepper,4
+Cumin,Sour cream,1
+Cumin,Water,2
+Cumin,Wild celery,1
+Olive,Pink salmon,4
+Parsley,Salad dressing,9
+Pink salmon,Potato,5
+Pink salmon,Salad dressing,4
+Allium,Honey,9
+Cabbage,Caraway,9
+Cabbage,Honey,5
+Caraway,Honey,6
+Carrot,Honey,5
+Common beet,Honey,3
+Dill,Honey,7
+Garden tomato,Honey,2
+Honey,Pepper (Spice),7
+Honey,Soup,4
+Honey,Sour cream,7
+Honey,Vinegar,7
+Honey,Wild celery,4
+Allium,Soy sauce,3
+Carrot,Common bean,8
+Carrot,Soy sauce,2
+Common bean,Common beet,5
+Common bean,Pepper (Spice),3
+Common bean,Potato,9
+Common bean,Soup,3
+Common bean,Soy sauce,2
+Common bean,Vinegar,3
+Common beet,Soy sauce,1
+Dill,Soy sauce,3
+Pepper (Spice),Soy sauce,4
+Potato,Soy sauce,3
+Soup,Soy sauce,3
+Soy sauce,Sugar,1
+Soy sauce,Vinegar,3
+Soy sauce,Wild celery,2
+Ceylon cinnamon,Highbush blueberry,1
+Egg yolk,Highbush blueberry,1
+Eggs,Highbush blueberry,1
+Highbush blueberry,Salt,1
+Highbush blueberry,Sour cream,1
+Highbush blueberry,Sugar,1
+Highbush blueberry,Water,1
+Highbush blueberry,Wheat,1
+Allium,Pomegranate,2
+Domestic pig,Pomegranate,1
+Grape wine,Pomegranate,1
+Grape wine,Salad dressing,1
+Pepper (Spice),Pomegranate,1
+Pomegranate,Salad dressing,2
+Pomegranate,Salt,2
+Carrot,Walnut,1
+Salad dressing,Walnut,2
+Soft-necked garlic,Walnut,2
+Cabbage,Leek,5
+Cabbage,Sausage,12
+Cabbage,Sweet marjoram,9
+"Cattle (Beef, Veal)",Sausage,12
+Common beet,Sausage,1
+Common beet,Sweet marjoram,2
+Domestic pig,Leek,3
+Domestic pig,Sausage,14
+Domestic pig,Sweet marjoram,10
+Grape wine,Sausage,6
+Leek,Sausage,3
+Leek,Water,4
+Parsley,Sausage,6
+Parsley,Sweet marjoram,6
+Sausage,Sugar,3
+Sausage,Sweet marjoram,7
+Sugar,Sweet marjoram,4
+Barley,Leavening agent,1
+Barley,Oat,1
+Leavening agent,Oat,2
+Caraway,Cocoa powder,6
+Caraway,Flaxseed,1
+Caraway,Flour,1
+Caraway,Leavening agent,10
+Caraway,Molasses,6
+Caraway,Rice,2
+Caraway,Robusta coffee,6
+Caraway,Shortening,1
+Caraway,Sorghum,1
+Cocoa powder,Cooking oil,4
+Cocoa powder,Flaxseed,1
+Cocoa powder,Flour,2
+Cocoa powder,Molasses,6
+Cocoa powder,Rice,2
+Cocoa powder,Robusta coffee,8
+Cocoa powder,Shortening,1
+Cocoa powder,Sorghum,1
+Cocoa powder,Vinegar,6
+Cooking oil,Flaxseed,1
+Cooking oil,Molasses,6
+Cooking oil,Rice,8
+Cooking oil,Robusta coffee,5
+Cooking oil,Shortening,1
+Cooking oil,Sorghum,1
+Eggs,Flaxseed,1
+Eggs,Robusta coffee,6
+Eggs,Sorghum,1
+Flaxseed,Flour,1
+Flaxseed,Leavening agent,1
+Flaxseed,Molasses,1
+Flaxseed,Rice,1
+Flaxseed,Robusta coffee,1
+Flaxseed,Salt,1
+Flaxseed,Salted butter,1
+Flaxseed,Shortening,1
+Flaxseed,Sorghum,1
+Flaxseed,Sugar,1
+Flaxseed,Vinegar,1
+Flaxseed,Water,1
+Flour,Molasses,2
+Flour,Rice,2
+Flour,Robusta coffee,3
+Flour,Sorghum,1
+Flour,Vinegar,4
+Leavening agent,Rice,4
+Leavening agent,Robusta coffee,8
+Leavening agent,Shortening,3
+Leavening agent,Sorghum,1
+Molasses,Rice,3
+Molasses,Robusta coffee,4
+Molasses,Shortening,1
+Molasses,Sorghum,1
+Molasses,Vinegar,14
+Rice,Robusta coffee,2
+Rice,Sorghum,1
+Rice,Sugar,9
+Rice,Vinegar,7
+Robusta coffee,Salt,6
+Robusta coffee,Salted butter,6
+Robusta coffee,Shortening,1
+Robusta coffee,Sorghum,1
+Robusta coffee,Sugar,6
+Robusta coffee,Vinegar,6
+Robusta coffee,Water,6
+Salt,Sorghum,1
+Salted butter,Sorghum,1
+Shortening,Sorghum,1
+Shortening,Sugar,2
+Shortening,Vinegar,1
+Sorghum,Sugar,1
+Sorghum,Vinegar,1
+Sorghum,Water,1
+Canola oil,Common thyme,1
+Canola oil,Domestic pig,1
+Canola oil,Milk (Cow),7
+Canola oil,Rosemary,2
+Canola oil,Sweet bay,6
+Common thyme,Milk (Cow),5
+Common thyme,Rosemary,3
+Domestic pig,Rosemary,1
+Milk (Cow),Rosemary,3
+Milk (Cow),Soft-necked garlic,13
+Milk (Cow),Sweet bay,5
+Pepper (Spice),Rosemary,3
+Red bell pepper,Rosemary,3
+Rosemary,Salt,2
+Rosemary,Soft-necked garlic,2
+Rosemary,Sweet bay,1
+Canola oil,Cream,2
+Canola oil,Egg yolk,2
+Canola oil,Lemon,6
+Canola oil,Opium poppy,2
+Allium,Allspice,4
+Allspice,Cabbage,3
+Allspice,"Cattle (Beef, Veal)",4
+Allspice,Common beet,2
+Allspice,Garden tomato (var.),3
+Allspice,Lemon,5
+Allspice,Parsley,3
+Allspice,Potato,2
+Allspice,Salted butter,5
+Allspice,Turnip,2
+Allspice,Water,5
+Cabbage,Parsnip,6
+"Cattle (Beef, Veal)",Turnip,5
+Common beet,Parsnip,5
+Garden tomato (var.),Parsnip,5
+Garden tomato (var.),Sweet bay,15
+Garden tomato (var.),Turnip,5
+Lemon,Parsnip,5
+Lemon,Turnip,4
+Parsley,Turnip,5
+Parsnip,Salted butter,4
+Parsnip,Turnip,4
+Parsnip,Water,4
+Soft-necked garlic,Turnip,7
+Turnip,Water,4
+Atlantic herring,Cooking oil,2
+Atlantic herring,Sweet bay,2
+Atlantic herring,Vinegar,2
+Atlantic herring,Water,1
+Chives,Common buckwheat,4
+Chives,Common wheat,9
+Chives,Leavening agent,6
+Chives,Milk (Cow),10
+Chives,Pink salmon,4
+Chives,Salted butter,20
+Chives,Sugar,4
+Chives,Water,5
+Chives,Wheat,7
+Common buckwheat,Common wheat,6
+Common buckwheat,Cooking oil,3
+Common wheat,Leavening agent,52
+Common wheat,Milk (Cow),78
+Common wheat,Pink salmon,4
+Common wheat,Water,8
+Common wheat,Wheat,5
+Cooking oil,Pink salmon,3
+Cabbage,Sauce,3
+"Cattle (Beef, Veal)",Rice,19
+Garden onion,Parsley,7
+Garden onion,Sauce,2
+Garden onion,Sugar,4
+Garden onion,Sweet bay,2
+Garden onion,Vinegar,4
+Garden tomato,Rice,2
+Garden tomato,Sauce,2
+Rice,Sauce,2
+Rice,Soft-necked garlic,17
+Rice,Sweet bay,1
+Sauce,Sugar,4
+Sauce,Sweet bay,2
+Chives,Parsley,8
+Chives,"Sheep (Mutton, Lamb)",2
+Chives,Soft-necked garlic,7
+Olive,"Sheep (Mutton, Lamb)",3
+Parsley,"Sheep (Mutton, Lamb)",7
+Pepper (Spice),"Sheep (Mutton, Lamb)",6
+Salt,"Sheep (Mutton, Lamb)",4
+"Sheep (Mutton, Lamb)",Soft-necked garlic,9
+Common beet,Sweet orange,1
+Grape wine,Sweet orange,2
+Common grape,Mentha,2
+Leavening agent,Mentha,3
+Mentha,Rye,1
+Common pea,Parsley,6
+Common pea,Vinegar,4
+Cucumber,Parsley,11
+Salad dressing,Vinegar,3
+Cheese,Domestic pig,11
+Cheese,Evaporated milk,3
+Cheese,Lasagna,1
+Domestic pig,Evaporated milk,2
+Domestic pig,Lasagna,1
+Eggs,Evaporated milk,2
+Eggs,Lasagna,1
+Evaporated milk,Lasagna,1
+Evaporated milk,Pepper (Spice),1
+Evaporated milk,Salt,3
+Evaporated milk,Sour cream,2
+Lasagna,Pepper (Spice),1
+Lasagna,Salt,1
+Lasagna,Sour cream,1
+Apricot,Corn,2
+Apricot,Leavening agent,9
+Apricot,Vanilla,8
+Corn,Egg yolk,3
+Corn,Hazelnut,1
+Corn,Milk (Cow),5
+Hazelnut,Vanilla,5
+Saffron,Water,3
+Garden onion,Ketchup,1
+Ketchup,Parsley,6
+Allium,Daikon radish,6
+Cabbage,Daikon radish,2
+Caraway,Daikon radish,2
+Carrot,Daikon radish,1
+Daikon radish,Dill,5
+Daikon radish,Garden tomato,1
+Daikon radish,Leek,1
+Daikon radish,Parsley,2
+Daikon radish,Pepper (Spice),2
+Daikon radish,Potato,4
+Daikon radish,Salted butter,2
+Daikon radish,Soft-necked garlic,1
+Daikon radish,Soup,1
+Daikon radish,Sour cream,4
+Daikon radish,Sweet bay,2
+Ceylon cinnamon,Margarine-like spread,1
+Ceylon cinnamon,Rice,4
+Common grape,Margarine-like spread,1
+Common grape,Rice,5
+Common grape,White bread,2
+Eggs,Margarine-like spread,3
+Margarine-like spread,Milk (Cow),1
+Margarine-like spread,Rice,1
+Margarine-like spread,Salt,3
+Margarine-like spread,Salted butter,2
+Margarine-like spread,Sugar,5
+Margarine-like spread,Vanilla,1
+Margarine-like spread,Water,4
+Margarine-like spread,Wheat,5
+Margarine-like spread,White bread,1
+Rice,Vanilla,7
+Rice,White bread,3
+Vanilla,White bread,2
+Water,White bread,1
+Almond,Apricot,3
+Almond,Buttermilk,1
+Almond,Cake,1
+Almond,Cooking oil,4
+Almond,Other alcoholic beverage,4
+Almond,Other candy,1
+Apricot,Buttermilk,1
+Apricot,Cake,1
+Apricot,Cooking oil,2
+Apricot,Other alcoholic beverage,3
+Apricot,Other candy,1
+Buttermilk,Cake,1
+Buttermilk,Common grape,1
+Buttermilk,Cooking oil,4
+Buttermilk,Other alcoholic beverage,1
+Buttermilk,Other candy,1
+Buttermilk,Salted butter,6
+Cake,Common grape,1
+Cake,Cooking oil,1
+Cake,Eggs,1
+Cake,Leavening agent,1
+Cake,Other alcoholic beverage,1
+Cake,Other candy,1
+Cake,Salt,1
+Cake,Salted butter,1
+Cake,Sugar,1
+Cake,Vanilla,1
+Cake,Wheat,1
+Common grape,Cooking oil,13
+Common grape,Other alcoholic beverage,5
+Common grape,Other candy,1
+Cooking oil,Other alcoholic beverage,3
+Cooking oil,Other candy,1
+Eggs,Other alcoholic beverage,11
+Eggs,Other candy,1
+Leavening agent,Other alcoholic beverage,6
+Leavening agent,Other candy,1
+Other alcoholic beverage,Other candy,1
+Other alcoholic beverage,Salt,6
+Other alcoholic beverage,Salted butter,10
+Other alcoholic beverage,Sugar,6
+Other alcoholic beverage,Vanilla,8
+Other alcoholic beverage,Wheat,5
+Other candy,Salt,1
+Other candy,Salted butter,1
+Other candy,Sugar,1
+Other candy,Vanilla,1
+Other candy,Wheat,1
+Canola oil,Common grape,2
+Common beet,Salad dressing,4
+Leavening agent,White bread,2
+Carrot,Wheat,4
+Cream,Leek,5
+Cream,Sweet bay,12
+Leek,Wheat,2
+Sweet bay,Wheat,6
+Canola oil,Condensed milk,1
+Canola oil,Rye bread,1
+Cheese,Rye bread,3
+Condensed milk,Milk (Cow),1
+Condensed milk,Rye bread,1
+Condensed milk,Sour cream,4
+Cream,Rye bread,1
+Milk (Cow),Rye bread,1
+Rye bread,Vanilla,1
+Cinnamon,Common beet,1
+Cinnamon,Herbs and Spices,1
+Cinnamon,Pepper (Capsicum),1
+Cinnamon,"Rubus (Blackberry, Raspberry)",1
+Cinnamon,Sugar substitute,1
+Cinnamon,Whey,1
+Common beet,Herbs and Spices,2
+Common beet,Pepper (Capsicum),3
+Common beet,"Rubus (Blackberry, Raspberry)",1
+Common beet,Sugar substitute,1
+Common beet,Whey,2
+Ginger,Herbs and Spices,3
+Ginger,Pepper (Capsicum),2
+Ginger,"Rubus (Blackberry, Raspberry)",2
+Ginger,Sugar substitute,1
+Ginger,Whey,1
+Herbs and Spices,Pepper (Capsicum),3
+Herbs and Spices,"Rubus (Blackberry, Raspberry)",1
+Herbs and Spices,Sugar substitute,1
+Herbs and Spices,Whey,1
+Pepper (Capsicum),"Rubus (Blackberry, Raspberry)",1
+Pepper (Capsicum),Sugar substitute,1
+Pepper (Capsicum),Whey,1
+"Rubus (Blackberry, Raspberry)",Sugar substitute,1
+"Rubus (Blackberry, Raspberry)",Water,3
+"Rubus (Blackberry, Raspberry)",Whey,1
+Sugar substitute,Water,1
+Sugar substitute,Whey,1
+Water,Whey,2
+Fruit preserve,Leavening agent,4
+Fruit preserve,Milk (Cow),1
+Fruit preserve,Salted butter,6
+Fruit preserve,Wheat,4
+Cabbage,Canola oil,8
+Cabbage,Common bean,4
+Cabbage,Cumin,1
+Canola oil,Common bean,1
+Canola oil,Common beet,6
+Canola oil,Cumin,2
+Canola oil,Herbs and Spices,3
+Canola oil,Potato,9
+Canola oil,Sauce,2
+Carrot,Cumin,2
+Common bean,Herbs and Spices,1
+Common bean,Sauce,1
+Common bean,Sweet bay,2
+Common beet,Cumin,1
+Common beet,Sauce,1
+Cumin,Herbs and Spices,3
+Cumin,Lemon,4
+Cumin,Potato,4
+Cumin,Sauce,2
+Cumin,Sweet bay,1
+Herbs and Spices,Lemon,3
+Herbs and Spices,Sauce,3
+Herbs and Spices,Sugar,2
+Common beet,European plum,1
+Common beet,Walnut,1
+European plum,Salad dressing,2
+European plum,Walnut,1
+Biscuit,Honey,1
+Biscuit,Leavening agent,2
+Biscuit,Margarine-like spread,1
+Flour,Honey,3
+Flour,Margarine-like spread,1
+Honey,Margarine-like spread,1
+Honey,Walnut,5
+Leavening agent,Margarine-like spread,4
+Margarine-like spread,Sour cream,2
+Margarine-like spread,Walnut,1
+Bamboo shoots,"Cattle (Beef, Veal)",1
+Bamboo shoots,Dill,1
+Bamboo shoots,Lemon,1
+Bamboo shoots,Olive,1
+Bamboo shoots,Pepper (Spice),2
+Bamboo shoots,Red bell pepper,1
+Bamboo shoots,Salt,2
+Bamboo shoots,Shallot,1
+Bamboo shoots,Soft-necked garlic,2
+Bamboo shoots,Sweet bay,1
+Lemon,Shallot,5
+Olive,Shallot,7
+Pepper (Spice),Shallot,8
+Red bell pepper,Shallot,8
+Salt,Shallot,12
+Shallot,Soft-necked garlic,7
+Shallot,Sweet bay,2
+Carrot,Shallot,4
+Common pea,Shallot,2
+Domestic pig,Shallot,4
+Eggs,Shallot,5
+Potato,Shallot,5
+Salad dressing,Shallot,2
+Shallot,Vinegar,5
+Apricot,Chocolate,1
+Apricot,Gelatin,2
+Chocolate,Cocoa powder,1
+Chocolate,Gelatin,2
+Cocoa powder,Gelatin,2
+Cream,Gelatin,4
+Gelatin,Leavening agent,1
+Gelatin,Salted butter,4
+Gelatin,Vanilla,6
+Gelatin,Wheat,2
+Flour,Saffron,1
+Eggs,Shiitake,3
+Leek,Pastry,2
+Leek,Rice,3
+Leek,"Salmonidae (Salmon, Trout)",2
+Leek,Shiitake,3
+Pastry,"Salmonidae (Salmon, Trout)",3
+Pastry,Shiitake,2
+Rice,Shiitake,3
+"Salmonidae (Salmon, Trout)",Shiitake,2
+Salted butter,Shiitake,3
+Shiitake,Water,2
+Allium,Egg yolk,6
+Allium,"Salmonidae (Salmon, Trout)",3
+Allium,Spinach,4
+Cheese,Rice,2
+Cheese,"Salmonidae (Salmon, Trout)",2
+Cheese,Spinach,1
+Common mushroom,Egg yolk,2
+Common mushroom,Spinach,2
+Cooking oil,Lemon,24
+Cooking oil,"Salmonidae (Salmon, Trout)",1
+Cooking oil,Spinach,2
+Dill,Egg yolk,4
+Dill,Spinach,5
+Egg yolk,Red bell pepper,2
+Egg yolk,Rice,1
+Egg yolk,"Salmonidae (Salmon, Trout)",1
+Egg yolk,Soft-necked garlic,3
+Egg yolk,Spinach,2
+Lemon,Spinach,1
+Milk (Cow),Spinach,2
+Red bell pepper,Spinach,1
+Rice,Sour cream,6
+Rice,Spinach,2
+"Salmonidae (Salmon, Trout)",Soft-necked garlic,1
+"Salmonidae (Salmon, Trout)",Sour cream,5
+"Salmonidae (Salmon, Trout)",Spinach,1
+"Salmonidae (Salmon, Trout)",Sugar,2
+Salt,Spinach,5
+Salted butter,Spinach,2
+Soft-necked garlic,Spinach,1
+Sour cream,Spinach,3
+Spinach,Sugar,2
+Spinach,Wheat,2
+Cream,Pistachio,2
+Cream,Sauce,2
+Egg yolk,Pistachio,1
+Egg yolk,Sauce,1
+Pistachio,Sauce,1
+Pistachio,Sugar,1
+Ketchup,Lemon,2
+Ketchup,Mustard,2
+Ketchup,Salad dressing,3
+Mustard,Sauce,4
+Mustard,Soft-necked garlic,12
+Allspice,American cranberry,1
+Allspice,Black walnut,1
+Allspice,Ceylon cinnamon,2
+Allspice,Cheese,1
+Allspice,Eggs,4
+Allspice,Sugar,4
+Allspice,Wheat,1
+American cranberry,Black walnut,2
+American cranberry,Cheese,2
+American cranberry,Salted butter,3
+American cranberry,Wheat,1
+Black walnut,Ceylon cinnamon,10
+Black walnut,Cheese,11
+Black walnut,Eggs,25
+Black walnut,Salt,8
+Black walnut,Salted butter,23
+Black walnut,Sugar,7
+Black walnut,Wheat,8
+Buttermilk,Daikon radish,1
+Common beet,Daikon radish,1
+Cucumber,Daikon radish,5
+Daikon radish,Salt,6
+Daikon radish,Water,2
+Common cabbage,Wheat,4
+Dill,Other vegetable product,1
+Eggs,Other vegetable product,1
+Garden onion,Other vegetable product,1
+Other vegetable product,Potato,1
+Other vegetable product,Red bell pepper,1
+Other vegetable product,Salad dressing,1
+Other vegetable product,Salt,1
+Allium,Fennel,1
+Apple,Fennel,2
+Apple,Parsley,4
+Apple,Vinegar,5
+Cabbage,Fennel,1
+Domestic pig,Fennel,1
+Fennel,Olive,3
+Fennel,Parsley,1
+Fennel,Pepper (Spice),1
+Fennel,Salt,5
+Fennel,Salted butter,3
+Fennel,Vinegar,4
+Allium,"Sheep (Mutton, Lamb)",8
+Cabbage,"Sheep (Mutton, Lamb)",3
+Canola oil,Grape wine,5
+Canola oil,"Sheep (Mutton, Lamb)",2
+Canola oil,Soup,4
+Common beet,"Sheep (Mutton, Lamb)",1
+Dill,"Sheep (Mutton, Lamb)",4
+Garden tomato,"Sheep (Mutton, Lamb)",1
+Grape wine,"Sheep (Mutton, Lamb)",5
+Lemon,"Sheep (Mutton, Lamb)",3
+"Sheep (Mutton, Lamb)",Soup,5
+"Sheep (Mutton, Lamb)",Sour cream,2
+"Sheep (Mutton, Lamb)",Sweet bay,3
+Allium,Eggplant,7
+Eggplant,Garden tomato,2
+Eggplant,Lemon,2
+Eggplant,Pepper,3
+Eggplant,Pepper (Spice),1
+Eggplant,Salt,5
+Eggplant,Soft-necked garlic,3
+Eggplant,Sour cream,2
+Eggplant,Water,4
+Eggplant,Wheat,2
+Cabbage,Horseradish,2
+Cabbage,Mustard,3
+Cabbage,Oat,1
+Cabbage,Turkey,1
+"Cattle (Beef, Veal)",Ginger,3
+"Cattle (Beef, Veal)",Horseradish,6
+"Cattle (Beef, Veal)",Oat,1
+Dill,Ginger,1
+Dill,Oat,1
+Ginger,Horseradish,1
+Ginger,Mustard,1
+Ginger,Oat,1
+Ginger,Parsley,1
+Ginger,Sauce,1
+Ginger,Soup,1
+Ginger,Turkey,1
+Herbs and Spices,Horseradish,1
+Herbs and Spices,Mustard,1
+Herbs and Spices,Oat,1
+Herbs and Spices,Turkey,1
+Horseradish,Mustard,1
+Horseradish,Oat,1
+Horseradish,Parsley,4
+Horseradish,Soup,3
+Horseradish,Turkey,1
+Horseradish,Water,3
+Mustard,Oat,1
+Mustard,Parsley,8
+Mustard,Turkey,1
+Oat,Parsley,1
+Oat,Pepper (Spice),1
+Oat,Potato,1
+Oat,Sauce,1
+Oat,Soft-necked garlic,1
+Oat,Soup,1
+Oat,Turkey,1
+Oat,Water,1
+Parsley,Turkey,2
+Liquor,Saffron,2
+Saffron,Sweet orange,1
+Fishes,Lemon,4
+Common mushroom,Meat bouillon,3
+Domestic pig,Meat bouillon,1
+Flour,Garden onion,2
+Flour,Grape wine,1
+Flour,Meat bouillon,2
+Flour,Parsley,4
+Flour,Pasta,1
+Flour,Sauce,2
+Garden onion,Meat bouillon,1
+Garden onion,Pasta,2
+Grape wine,Meat bouillon,1
+Grape wine,Pasta,4
+Grape wine,Sauce,2
+Meat bouillon,Pasta,1
+Meat bouillon,Sauce,2
+Pasta,Pepper (Spice),8
+Allium,Asparagus,2
+Asparagus,"Cattle (Beef, Veal)",1
+Asparagus,Cheese,1
+Asparagus,Cooking oil,1
+Asparagus,Eggs,1
+Asparagus,Leek,1
+Asparagus,Milk (Cow),1
+Asparagus,Pepper (Spice),1
+Asparagus,Salt,1
+Asparagus,Soft-necked garlic,2
+Asparagus,Soup,1
+Asparagus,White bread,1
+"Cattle (Beef, Veal)",Cheese,11
+Cheese,Leek,1
+Cheese,Soup,7
+Cheese,White bread,8
+Cooking oil,White bread,12
+Leek,Milk (Cow),3
+Leek,White bread,1
+Buttermilk,Common buckwheat,1
+Buttermilk,Shortening,1
+Common buckwheat,Shortening,1
+Allium,Leavening agent,14
+Common mushroom,Leavening agent,3
+Common mushroom,Root vegetables,2
+Flour,Root vegetables,3
+Leavening agent,Potato,7
+Leavening agent,Root vegetables,3
+Root vegetables,Sugar,3
+Root vegetables,Water,2
+Cooking oil,Garden tomato (var.),23
+Garden tomato (var.),Rice,18
+Corn,Red raspberry,1
+Milk (Cow),Red raspberry,1
+Red raspberry,Sugar,2
+Red raspberry,Water,2
+Brussel sprouts,Caraway,2
+Brussel sprouts,Olive,2
+Allium,Mentha,4
+Allium,Wonton wrapper,2
+"Cattle (Beef, Veal)",Mentha,1
+"Cattle (Beef, Veal)",Wonton wrapper,1
+Common beet,Common mushroom,4
+Common beet,Mentha,1
+Common beet,White bread,1
+Common beet,Wonton wrapper,1
+Common mushroom,Mentha,1
+Common mushroom,White bread,2
+Common mushroom,Wonton wrapper,1
+Cream,Mentha,1
+Cream,White bread,6
+Cream,Wonton wrapper,1
+Dill,Mentha,1
+Dill,Wonton wrapper,1
+Eggs,Mentha,2
+Eggs,Wonton wrapper,2
+Mentha,Pepper (Spice),2
+Mentha,Salt,3
+Mentha,Soup,3
+Mentha,White bread,3
+Mentha,Wonton wrapper,1
+Pepper (Spice),Wonton wrapper,1
+Salt,Wonton wrapper,1
+Soup,Wonton wrapper,1
+White bread,Wonton wrapper,1
+Cocoa powder,Condensed milk,1
+Cocoa powder,Opium poppy,1
+Cocoa powder,Sour cream,1
+Cocoa powder,Walnut,1
+Condensed milk,Vinegar,2
+Opium poppy,Sour cream,4
+Opium poppy,Vinegar,2
+Vinegar,Walnut,1
+Allium,Opium poppy,2
+Allium,Rosemary,4
+Apple,Common mushroom,1
+Apple,Common wheat,13
+Apple,Opium poppy,1
+Apple,Rosemary,1
+Cabbage,Common wheat,9
+Cabbage,Leavening agent,7
+Cabbage,Milk (Cow),6
+Cabbage,Opium poppy,1
+Cabbage,Rosemary,1
+Canola oil,Common mushroom,4
+Canola oil,Common wheat,1
+Canola oil,Wild celery,3
+Common mushroom,Common wheat,14
+Common mushroom,Opium poppy,1
+Common mushroom,Rosemary,2
+Common wheat,Opium poppy,2
+Common wheat,Rosemary,3
+Dill,Opium poppy,1
+Dill,Rosemary,1
+Eggs,Rosemary,3
+Leavening agent,Red bell pepper,8
+Leavening agent,Rosemary,1
+Leavening agent,Wild celery,1
+Milk (Cow),Wild celery,5
+Opium poppy,Red bell pepper,1
+Opium poppy,Rosemary,1
+Opium poppy,Wild celery,1
+Rosemary,Salted butter,2
+Rosemary,Sugar,1
+Rosemary,Water,1
+Rosemary,Wheat,1
+Rosemary,Wild celery,2
+Wheat,Wild celery,2
+Allium,Cauliflower,1
+Cabbage,Cauliflower,1
+Cabbage,Pepper (Capsicum),2
+Carrot,Cauliflower,1
+Cauliflower,Common beet,1
+Cauliflower,Cream,1
+Cauliflower,Dill,1
+Cauliflower,Garden tomato,1
+Cauliflower,Lemon,1
+Cauliflower,Pepper,1
+Cauliflower,Pepper (Capsicum),1
+Cauliflower,Pepper (Spice),1
+Cauliflower,Potato,1
+Cauliflower,Salt,1
+Cauliflower,Salted butter,1
+Cauliflower,Water,1
+Cauliflower,Wild celery,1
+Cream,Pepper (Capsicum),5
+Pepper (Capsicum),Potato,3
+Pepper (Capsicum),Wild celery,5
+Almond,Egg yolk,6
+Cardamom,Other alcoholic beverage,1
+Cardamom,Water,3
+Egg yolk,Other alcoholic beverage,2
+Lemon,Other alcoholic beverage,5
+Milk (Cow),Other alcoholic beverage,4
+Other alcoholic beverage,Sweet orange,2
+Other alcoholic beverage,Water,2
+Common cabbage,Mustard,3
+Common cabbage,Other bread product,1
+Common cabbage,Sausage,8
+Mustard,Other bread product,1
+Other bread product,Sausage,1
+Red bell pepper,Sausage,15
+"Cattle (Beef, Veal)",Yogurt,5
+Cumin,Pepper (Capsicum),3
+Ginger,Olive,1
+Herbs and Spices,Yogurt,2
+Lemon,Yogurt,2
+Olive,Yogurt,4
+Pepper (Capsicum),Yogurt,1
+Salt,Whey,1
+Leavening agent,Pepper (Spice),6
+Ketchup,Sweet bay,2
+Agave,Leavening agent,1
+Agave,Margarine-like spread,1
+Agave,Sour cream,1
+Agave,Sugar,1
+Agave,Tofu,1
+Agave,Wheat,1
+Leavening agent,Tofu,1
+Margarine-like spread,Tofu,1
+Sour cream,Tofu,1
+Sugar,Tofu,1
+Tofu,Wheat,1
+Cooking oil,Sunflower,2
+Eggs,Sunflower,2
+Flour,Sunflower,1
+Leavening agent,Sunflower,1
+Milk (Cow),Sunflower,2
+Salt,Sunflower,3
+Sugar,Sunflower,1
+Butter,Canola oil,1
+Butter,Egg yolk,2
+Butter,Icing,1
+Butter,Mentha,1
+Butter,Vanilla,3
+Canola oil,Icing,1
+Canola oil,Mentha,1
+Common grape,Icing,1
+Egg yolk,Icing,1
+Egg yolk,Mentha,1
+Flour,Icing,1
+Flour,Mentha,1
+Icing,Leavening agent,1
+Icing,Mentha,1
+Icing,Milk (Cow),1
+Icing,Salt,1
+Icing,Sugar,1
+Icing,Vanilla,1
+Mentha,Milk (Cow),1
+Mentha,Vanilla,1
+Cheese,Other fruit product,2
+Common grape,Other fruit product,2
+Cream,Other fruit product,2
+Egg yolk,Other fruit product,3
+Lemon,Other fruit product,2
+Other fruit product,Vanilla,3
+Almond,Butter,1
+Almond,Flour,4
+Almond,Fruit salad,3
+Butter,Cardamom,1
+Butter,Fruit salad,1
+Cardamom,Flour,2
+Cardamom,Fruit salad,1
+Fruit salad,Leavening agent,5
+Fruit salad,Lemon,3
+Fruit salad,Milk (Cow),5
+Fruit salad,Salt,2
+Fruit salad,Vanilla,2
+Chives,"Salmonidae (Salmon, Trout)",2
+Common buckwheat,"Salmonidae (Salmon, Trout)",1
+Leavening agent,"Salmonidae (Salmon, Trout)",1
+Pink salmon,"Salmonidae (Salmon, Trout)",2
+Cheese,"Rubus (Blackberry, Raspberry)",1
+Cream,"Rubus (Blackberry, Raspberry)",1
+Eggs,"Rubus (Blackberry, Raspberry)",5
+Leavening agent,"Rubus (Blackberry, Raspberry)",4
+"Rubus (Blackberry, Raspberry)",Sour cream,1
+"Rubus (Blackberry, Raspberry)",Sugar,5
+"Rubus (Blackberry, Raspberry)",Vanilla,4
+"Rubus (Blackberry, Raspberry)",Wheat,2
+Allium,Chickpea,1
+Allium,Common sage,4
+Allium,Kale,3
+Cheese,Chickpea,1
+Cheese,Common sage,1
+Cheese,Garden tomato,2
+Cheese,Herbs and Spices,1
+Cheese,Kale,1
+Cheese,Ketchup,1
+Cheese,Rosemary,1
+Cheese,Sausage,2
+Chickpea,Common sage,1
+Chickpea,Garden tomato,1
+Chickpea,Herbs and Spices,1
+Chickpea,Kale,1
+Chickpea,Ketchup,1
+Chickpea,Olive,2
+Chickpea,Pepper (Spice),1
+Chickpea,Rosemary,1
+Chickpea,Sausage,1
+Chickpea,Soft-necked garlic,2
+Chickpea,Soup,1
+Common sage,Garden tomato,1
+Common sage,Herbs and Spices,1
+Common sage,Kale,2
+Common sage,Ketchup,1
+Common sage,Olive,2
+Common sage,Pepper (Spice),2
+Common sage,Rosemary,2
+Common sage,Sausage,3
+Common sage,Soft-necked garlic,3
+Common sage,Soup,3
+Garden tomato,Herbs and Spices,3
+Garden tomato,Kale,1
+Garden tomato,Rosemary,1
+Garden tomato,Sausage,5
+Herbs and Spices,Kale,1
+Herbs and Spices,Ketchup,2
+Herbs and Spices,Rosemary,1
+Herbs and Spices,Sausage,2
+Kale,Ketchup,1
+Kale,Olive,3
+Kale,Pepper (Spice),1
+Kale,Rosemary,1
+Kale,Sausage,2
+Kale,Soft-necked garlic,3
+Kale,Soup,3
+Ketchup,Rosemary,1
+Ketchup,Sausage,2
+Olive,Rosemary,3
+Rosemary,Sausage,1
+Rosemary,Soup,2
+Sausage,Soft-necked garlic,14
+Hazelnut,Liquor,2
+Allium,Liquor,2
+Canola oil,Liquor,2
+Canola oil,Mustard,2
+Canola oil,Parsley,1
+Liquor,Parsley,1
+Liquor,Red bell pepper,1
+Liquor,Sweet bay,1
+Allium,Sorrel,3
+Daikon radish,Sorrel,1
+Sorrel,Sour cream,3
+Sorrel,Water,1
+Allium,Avocado,1
+Allium,Crayfish,1
+Allium,Shallot,8
+Avocado,Coriander,1
+Avocado,Crayfish,1
+Avocado,Honey,1
+Avocado,Lemon,1
+Avocado,Mustard,1
+Avocado,Pepper (Spice),1
+Avocado,Pink salmon,1
+Avocado,Potato,1
+Avocado,Salt,1
+Avocado,Shallot,1
+Avocado,Soft-necked garlic,1
+Avocado,Vinegar,1
+Coriander,Crayfish,1
+Coriander,Honey,1
+Coriander,Mustard,1
+Coriander,Pink salmon,1
+Coriander,Shallot,2
+Coriander,Vinegar,4
+Crayfish,Honey,1
+Crayfish,Lemon,1
+Crayfish,Mustard,1
+Crayfish,Pepper (Spice),1
+Crayfish,Pink salmon,1
+Crayfish,Potato,1
+Crayfish,Salt,1
+Crayfish,Shallot,1
+Crayfish,Soft-necked garlic,1
+Crayfish,Vinegar,1
+Honey,Mustard,1
+Honey,Pink salmon,1
+Honey,Shallot,1
+Honey,Soft-necked garlic,2
+Lemon,Vinegar,9
+Mustard,Pink salmon,1
+Mustard,Vinegar,10
+Pink salmon,Shallot,1
+Pink salmon,Soft-necked garlic,1
+Pink salmon,Vinegar,1
+"Cattle (Beef, Veal)",Cucumber,4
+"Cattle (Beef, Veal)",Daikon radish,1
+Cucumber,Milk (Cow),2
+Daikon radish,Eggs,1
+Daikon radish,Milk (Cow),2
+Daikon radish,Red bell pepper,1
+Almond,Fruit preserve,2
+Almond,Peach,1
+Almond,"Rubus (Blackberry, Raspberry)",1
+Cardamom,Ceylon cinnamon,1
+Cardamom,Fruit preserve,1
+Cardamom,Peach,1
+Cardamom,"Rubus (Blackberry, Raspberry)",1
+Ceylon cinnamon,Fruit preserve,2
+Ceylon cinnamon,Peach,1
+Ceylon cinnamon,"Rubus (Blackberry, Raspberry)",1
+Eggs,Fruit preserve,4
+Eggs,Peach,1
+Flour,Fruit preserve,2
+Flour,Ginger,1
+Flour,Nutmeg,2
+Flour,Peach,1
+Flour,"Rubus (Blackberry, Raspberry)",1
+Fruit preserve,Ginger,1
+Fruit preserve,Honey,1
+Fruit preserve,Lemon,3
+Fruit preserve,Nutmeg,1
+Fruit preserve,Peach,1
+Fruit preserve,"Rubus (Blackberry, Raspberry)",2
+Fruit preserve,Sugar,6
+Ginger,Peach,1
+Honey,Nutmeg,5
+Honey,Peach,1
+Honey,"Rubus (Blackberry, Raspberry)",2
+Leavening agent,Peach,1
+Lemon,Peach,1
+Lemon,"Rubus (Blackberry, Raspberry)",2
+Nutmeg,Peach,1
+Nutmeg,"Rubus (Blackberry, Raspberry)",1
+Peach,"Rubus (Blackberry, Raspberry)",1
+Peach,Salted butter,1
+Peach,Sugar,1
+"Rubus (Blackberry, Raspberry)",Salted butter,2
+Apple,Caraway,2
+Apple,Cocoa powder,2
+Apple,Molasses,5
+Apple,Robusta coffee,1
+Apple,Rye,1
+Caraway,Common wheat,10
+Caraway,Fennel,4
+Caraway,Rye,7
+Cocoa powder,Common wheat,17
+Cocoa powder,Fennel,4
+Cocoa powder,Rye,5
+Common wheat,Fennel,2
+Common wheat,Molasses,16
+Common wheat,Robusta coffee,5
+Common wheat,Rye,4
+Fennel,Leavening agent,4
+Fennel,Molasses,2
+Fennel,Robusta coffee,4
+Fennel,Rye,4
+Fennel,Sugar,4
+Fennel,Water,3
+Fennel,Wheat,3
+Molasses,Rye,3
+Robusta coffee,Rye,5
+Robusta coffee,Wheat,3
+Rye,Salted butter,5
+Rye,Wheat,3
+Cabbage,Common cabbage,7
+Common cabbage,Flour,1
+Common cabbage,Garden tomato (var.),7
+Domestic pig,Garden tomato (var.),21
+Flour,Sweet bay,1
+Cheese,Other bread product,3
+Cheese,Pastry,1
+Cheese,Sauce,3
+Common grape,Other bread product,1
+Common grape,Sauce,1
+Milk (Cow),Pastry,1
+Milk (Cow),Sauce,1
+Other bread product,Pastry,1
+Other bread product,Sugar,6
+Other bread product,Vanilla,1
+Pastry,Sauce,1
+Pastry,Sour cream,2
+Pastry,Vanilla,1
+Sauce,Vanilla,1
+Common grape,"Prunus (Cherry, Plum)",1
+Buttermilk,Chicken,1
+Buttermilk,Parsley,1
+Buttermilk,Pepper (Spice),2
+Chicken,Vinegar,6
+Cooking oil,Ketchup,3
+Dill,Sweet basil,7
+Pepper,Sweet basil,1
+Red bell pepper,Sweet basil,7
+Soft-necked garlic,Sweet basil,5
+Almond,Apple,1
+Cucumber,Sorrel,1
+Cucumber,Spinach,1
+Dill,Sorrel,2
+Eggs,Sorrel,2
+Eggs,Spinach,4
+Potato,Spinach,2
+Sorrel,Spinach,1
+Sorrel,Sugar,1
+Sorrel,Vinegar,1
+Spinach,Vinegar,1
+Condensed milk,Hazelnut,1
+Condensed milk,Salt,1
+Flour,Hazelnut,1
+Hazelnut,Opium poppy,1
+Hazelnut,Sour cream,1
+Hazelnut,Vinegar,1
+Kale,Pepper,3
+Kale,Potato,2
+Kale,Red bell pepper,1
+Kale,Salt,2
+Canola oil,Sour cherry,1
+Cheese,Sour cherry,2
+Eggs,Sour cherry,3
+Leavening agent,Sour cherry,1
+Lemon,Sour cherry,1
+Potato,Sour cherry,1
+Potato,Vanilla,1
+Salt,Sour cherry,2
+Sour cherry,Vanilla,2
+Sour cherry,Water,1
+Sour cherry,Wheat,2
+Coriander,Summer savory,2
+Coriander,Turmeric,1
+Coriander,Water,3
+Domestic pig,Summer savory,2
+Domestic pig,Turmeric,1
+Olive,Summer savory,3
+Olive,Turmeric,1
+Salt,Summer savory,1
+Salt,Turmeric,1
+Shallot,Summer savory,1
+Shallot,Turmeric,1
+Shallot,Water,2
+Soft-necked garlic,Summer savory,3
+Soft-necked garlic,Turmeric,1
+Summer savory,Turmeric,1
+Summer savory,Water,1
+Turmeric,Water,1
+Boysenberry,Cheese,1
+Boysenberry,Cooking oil,1
+Boysenberry,Corn,1
+Boysenberry,Eggs,1
+Boysenberry,Lemon,1
+Boysenberry,Salt,1
+Boysenberry,Sour cream,1
+Boysenberry,Strawberry,1
+Boysenberry,Sugar,1
+Boysenberry,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Boysenberry,Water,1
+Boysenberry,Wheat,1
+Cheese,Corn,4
+Cheese,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Cooking oil,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Corn,Lemon,4
+Corn,Strawberry,1
+Corn,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Lemon,Strawberry,2
+Salt,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Sour cream,Strawberry,2
+Strawberry,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Strawberry,Water,2
+Cooking oil,Eggplant,2
+Eggplant,Grape wine,2
+Eggplant,Red bell pepper,6
+Eggplant,Sugar,2
+Cabbage,Cheese,11
+Carrot,Corn,5
+Common pea,Fats and oils,1
+Corn,Fats and oils,1
+Corn,Mustard,6
+Corn,Olive,2
+Corn,Potato,5
+Corn,Red bell pepper,7
+Cucumber,Fats and oils,1
+Fats and oils,Lemon,1
+Fats and oils,Mustard,1
+Fats and oils,Olive,1
+Fats and oils,Red bell pepper,2
+Fats and oils,Salad dressing,1
+Common beet,Milk (Cow),1
+Common beet,Shallot,2
+Common beet,Yogurt,3
+Dill,Yogurt,6
+Grape wine,Shallot,4
+Grape wine,Yogurt,4
+Milk (Cow),Shallot,2
+Milk (Cow),Yogurt,3
+Shallot,Yogurt,3
+Cabbage,Liquor,1
+Cabbage,Yogurt,3
+Canola oil,Horseradish,1
+Canola oil,Yogurt,1
+Carrot,Liquor,1
+Carrot,Yogurt,3
+Common beet,Liquor,1
+Grape wine,Liquor,1
+Horseradish,Liquor,1
+Horseradish,Yogurt,2
+Liquor,Potato,2
+Liquor,Soft-necked garlic,1
+Liquor,Yogurt,1
+Soup,Yogurt,4
+Allium,Sturgeon,3
+Biscuit,Cheese,2
+Biscuit,Cooking oil,1
+Biscuit,Olive,1
+Biscuit,Sturgeon,1
+Cooking oil,Olive,7
+Cooking oil,Sturgeon,4
+Allspice,Ketchup,1
+Allspice,Olive,2
+Allspice,Pepper,1
+Allspice,Red bell pepper,1
+Allspice,Rice,1
+Olive,Rice,6
+Butter,Cream,1
+Butter,Pepper (Spice),1
+Opium poppy,Pasta,1
+Almond,Common walnut,1
+Cloves,Common walnut,1
+Cloves,Cooking oil,3
+Common walnut,Cooking oil,1
+Common walnut,Leavening agent,1
+Common walnut,Salted butter,2
+Common walnut,Wheat,1
+Buttermilk,Fruit preserve,1
+Buttermilk,Syrup,1
+Cooking oil,Fruit preserve,1
+Cooking oil,Syrup,1
+Eggs,Syrup,1
+Fruit preserve,Salt,3
+Fruit preserve,Syrup,1
+Leavening agent,Syrup,1
+Salt,Syrup,1
+Salted butter,Syrup,1
+Syrup,Wheat,1
+Cucumber,Egg yolk,2
+Cucumber,Pepper (Spice),6
+Cucumber,Yogurt,2
+Daikon radish,Domestic pig,1
+Daikon radish,Egg yolk,1
+Daikon radish,Mustard,2
+Daikon radish,Sugar,2
+Daikon radish,Yogurt,1
+Domestic pig,Egg yolk,2
+Domestic pig,Yogurt,1
+Egg yolk,Mustard,1
+Egg yolk,Pepper (Spice),3
+Egg yolk,Potato,6
+Milk (Cow),Mustard,3
+Mustard,Yogurt,1
+Cabbage,Root vegetables,4
+Garden tomato (var.),Root vegetables,6
+Cream,Root vegetables,5
+Eggs,Root vegetables,5
+Root vegetables,Salted butter,8
+Common buckwheat,Common mushroom,2
+Common buckwheat,Root vegetables,1
+Rice,Winter squash,2
+Salt,Winter squash,2
+Salted butter,Winter squash,3
+Sugar,Winter squash,1
+Water,Winter squash,2
+Milk (Cow),Root vegetables,3
+Capers,Garden tomato (var.),6
+Capers,Root vegetables,1
+Capers,Sausage,5
+Domestic pig,Root vegetables,2
+Garden tomato (var.),Sausage,13
+Lemon,Root vegetables,3
+Lemon,Sausage,4
+Olive,Root vegetables,2
+Root vegetables,Sausage,2
+Root vegetables,Sweet bay,2
+Sausage,Sweet bay,8
+Carrot,Root vegetables,4
+"Cattle (Beef, Veal)",Root vegetables,4
+Common beet,Root vegetables,1
+Root vegetables,Soft-necked garlic,4
+Red raspberry,Rice,1
+Allium,Sweet potato,2
+Cooking oil,Sweet potato,2
+Eggs,Sweet potato,2
+Pepper (Spice),Sweet potato,2
+Salt,Sweet potato,1
+Sweet potato,Wheat,1
+Beer,Cabbage,3
+Beer,Canola oil,1
+Beer,Carrot,1
+Beer,Common beet,1
+Beer,Common mushroom,1
+Beer,Dill,1
+Beer,Parsnip,1
+Beer,Potato,3
+Beer,Soft-necked garlic,2
+Beer,Vinegar,2
+Canola oil,Garden tomato (var.),3
+Canola oil,Parsnip,1
+Common mushroom,Garden tomato (var.),10
+Common mushroom,Vinegar,6
+Garden tomato (var.),Sugar,4
+Parsnip,Sugar,2
+Parsnip,Vinegar,2
+"Cattle (Beef, Veal)",Grape,2
+"Cattle (Beef, Veal)",Sherry,2
+Common mushroom,Grape,1
+Common mushroom,Sherry,2
+Common thyme,Grape,1
+Common thyme,Shallot,4
+Common thyme,Sherry,1
+Dill,Grape,2
+Dill,Sherry,1
+Eggs,Grape,1
+Eggs,Sherry,1
+Grape,Olive,2
+Grape,Pepper (Spice),1
+Grape,Salt,2
+Grape,Salted butter,3
+Grape,Shallot,1
+Grape,Sherry,2
+Grape,Soft-necked garlic,2
+Grape,Soup,2
+Grape,Sour cream,1
+Grape,Sugar,1
+Grape,Wheat,1
+Olive,Sherry,1
+Pepper (Spice),Sherry,1
+Salt,Sherry,3
+Salted butter,Sherry,3
+Shallot,Sherry,1
+Shallot,Sugar,3
+Shallot,Wheat,2
+Sherry,Soft-necked garlic,3
+Sherry,Soup,2
+Sherry,Sour cream,2
+Sherry,Sugar,1
+Sherry,Wheat,2
+Cabbage,Sweet basil,5
+Carrot,Sweet basil,2
+Common beet,Sweet basil,1
+Garden tomato,Sweet basil,1
+Parsley,Sweet basil,2
+Potato,Sweet basil,1
+Salted butter,Sweet basil,4
+Soup,Sweet basil,2
+Sour cream,Sweet basil,1
+Sweet basil,Sweet bay,2
+Butter,Cooking oil,1
+Common grape,Corn,1
+Common grape,"Rubus (Blackberry, Raspberry)",1
+Common grape,Sweet basil,1
+Corn,"Rubus (Blackberry, Raspberry)",1
+Corn,Sweet basil,1
+"Rubus (Blackberry, Raspberry)",Salt,2
+"Rubus (Blackberry, Raspberry)",Sweet basil,1
+Sugar,Sweet basil,3
+Sweet basil,Vanilla,1
+Allium,Lentils,3
+Cabbage,Lentils,2
+Canola oil,Lentils,1
+Carrot,Lentils,3
+Common beet,Lentils,1
+Dill,Lentils,2
+Garden tomato,Lentils,1
+Lentils,Potato,2
+Lentils,Salt,2
+Lentils,Vinegar,2
+Lentils,Water,3
+Cheese,Parsley,6
+Allspice,Almond,1
+Allspice,Chocolate,1
+Allspice,Cloves,2
+Allspice,Egg yolk,1
+Almond,Chocolate,1
+Chocolate,Lemon,2
+Allspice,Anise,1
+Allspice,Flour,1
+Allspice,Honey,1
+Allspice,Leavening agent,1
+Allspice,Milk (Cow),1
+Allspice,Nutmeg,1
+Allspice,Robusta coffee,1
+Allspice,Vanilla,1
+Allspice,Vinegar,1
+Anise,Eggs,2
+Anise,Flour,1
+Anise,Honey,1
+Anise,Leavening agent,1
+Anise,Milk (Cow),1
+Anise,Nutmeg,1
+Anise,Robusta coffee,1
+Anise,Salted butter,3
+Anise,Sugar,1
+Anise,Vanilla,1
+Anise,Vinegar,2
+Anise,Water,1
+Honey,Robusta coffee,2
+Milk (Cow),Robusta coffee,2
+Nutmeg,Robusta coffee,1
+Nutmeg,Vinegar,2
+Nutmeg,Water,2
+Robusta coffee,Vanilla,2
+Allium,Wild leek,1
+Cheese,Mentha,1
+Cheese,Wild leek,1
+Coriander,Mentha,1
+Coriander,Wheat,1
+Coriander,Wild leek,1
+Eggs,Wild leek,1
+Leavening agent,Olive,4
+Leavening agent,Pepper (Capsicum),1
+Leavening agent,Soft-necked garlic,2
+Leavening agent,Wild leek,1
+Lemon,Wild leek,1
+Mentha,Olive,2
+Mentha,Pepper (Capsicum),2
+Mentha,Salted butter,1
+Mentha,Soft-necked garlic,2
+Mentha,Water,1
+Mentha,Wheat,1
+Mentha,Wild leek,1
+Olive,Wild leek,1
+Pepper (Capsicum),Wild leek,1
+Pepper (Spice),Wild leek,1
+Salt,Wild leek,1
+Salted butter,Wild leek,1
+Soft-necked garlic,Wild leek,1
+Sugar,Wild leek,1
+Water,Wild leek,1
+Wheat,Wild leek,1
+Bamboo shoots,Canola oil,1
+Bamboo shoots,Cumin,1
+Bamboo shoots,Garden tomato,1
+Bamboo shoots,Herbs and Spices,1
+Bamboo shoots,Ketchup,1
+Bamboo shoots,Other bread product,1
+Bamboo shoots,Pepper,1
+Bamboo shoots,Pepper (Capsicum),1
+Bamboo shoots,Potato,1
+Bamboo shoots,Sauce,1
+Bamboo shoots,Soy sauce,1
+Bamboo shoots,Vinegar,1
+Canola oil,Ketchup,2
+Canola oil,Pepper (Capsicum),2
+Canola oil,Soy sauce,1
+Cumin,Ketchup,1
+Cumin,Other bread product,1
+Cumin,Soy sauce,1
+Cumin,Vinegar,1
+Garden tomato,Soy sauce,1
+Herbs and Spices,Other bread product,1
+Herbs and Spices,Vinegar,2
+Ketchup,Other bread product,1
+Ketchup,Potato,2
+Ketchup,Soy sauce,1
+Other bread product,Pepper (Capsicum),1
+Other bread product,Soy sauce,1
+Pepper (Capsicum),Soy sauce,1
+Pepper (Capsicum),Vinegar,9
+Sauce,Soy sauce,1
+Common cabbage,Sauce,2
+Allium,Deer,2
+Cabbage,Deer,2
+"Cattle (Beef, Veal)",Deer,2
+Deer,Dill,2
+Deer,Garden tomato,1
+Deer,Ketchup,2
+Deer,Pepper,1
+Deer,Red bell pepper,1
+Deer,Rice,2
+Deer,Salt,1
+Deer,Sausage,1
+Deer,Soft-necked garlic,2
+Deer,Soup,2
+Rice,Sausage,2
+Cabbage,Cucumber,2
+Daikon radish,Olive,1
+Daikon radish,Vinegar,1
+Allium,Swiss chard,2
+Allium,Tofu,2
+Carrot,Swiss chard,2
+Carrot,Tofu,2
+Common beet,Swiss chard,1
+Common beet,Tofu,1
+Dill,Swiss chard,2
+Dill,Tofu,2
+Garden tomato,Swiss chard,1
+Garden tomato,Tofu,1
+Olive,Swiss chard,2
+Olive,Tofu,2
+Pepper (Spice),Swiss chard,1
+Pepper (Spice),Tofu,1
+Potato,Swiss chard,2
+Potato,Tofu,2
+Red bell pepper,Swiss chard,2
+Red bell pepper,Tofu,2
+Salt,Swiss chard,1
+Salt,Tofu,1
+Soft-necked garlic,Swiss chard,2
+Soft-necked garlic,Tofu,2
+Soup,Swiss chard,2
+Soup,Tofu,2
+Swiss chard,Tofu,2
+Swiss chard,Water,2
+Swiss chard,Wild celery,2
+Tofu,Water,2
+Tofu,Wild celery,2
+Cucumber,Herbs and Spices,1
+Capers,"Cattle (Beef, Veal)",4
+Capers,Common mushroom,3
+Capers,Flour,1
+Common mushroom,Cucumber,6
+Common mushroom,Sausage,7
+Cucumber,Flour,2
+Cucumber,Garden tomato (var.),8
+Flour,Olive,3
+Flour,Sausage,1
+Chives,Rice,2
+Apple,"Cattle (Beef, Veal)",4
+Apple,Garden onion,1
+Apple,Other alcoholic beverage,2
+Carrot,Other alcoholic beverage,1
+"Cattle (Beef, Veal)",Other alcoholic beverage,1
+Common beet,Other alcoholic beverage,1
+Dill,Other alcoholic beverage,1
+Garden onion,Other alcoholic beverage,1
+Other alcoholic beverage,Pepper (Spice),1
+Other alcoholic beverage,Potato,2
+Other alcoholic beverage,Salad dressing,1
+Other alcoholic beverage,Sour cream,2
+Cheese,Nutmeg,5
+Cooking oil,Nutmeg,4
+Nutmeg,Pepper (Spice),7
+Nutmeg,Potato,3
+Allium,Garden onion,1
+"Cattle (Beef, Veal)",Egg yolk,1
+Cheese,Garden onion,1
+Corn,Flour,2
+Corn,Garden onion,1
+Corn,Parsley,3
+Corn,Soft-necked garlic,10
+Egg yolk,Garden onion,1
+Egg yolk,Parsley,1
+Chicken,Common mushroom,8
+Chicken,Flour,1
+Chocolate,Fruit preserve,1
+Fruit preserve,Walnut,1
+Common beet,Pasta,1
+Lemon,Pasta,4
+Apricot,Biscuit,1
+Apricot,Dumpling,1
+Apricot,Other bread product,3
+Apricot,Walnut,3
+Biscuit,Ceylon cinnamon,1
+Biscuit,Other bread product,1
+Ceylon cinnamon,Dumpling,1
+Ceylon cinnamon,Other bread product,2
+Ceylon cinnamon,Walnut,3
+Dumpling,Other bread product,1
+Dumpling,Walnut,1
+Other bread product,Walnut,4
+Allium,Spelt,1
+Beer,Buttermilk,1
+Beer,Cooking oil,1
+Beer,Egg yolk,1
+Beer,Spelt,1
+Beer,Wheat,1
+Buttermilk,Egg yolk,1
+Buttermilk,Spelt,1
+Cooking oil,Spelt,1
+Domestic pig,Spelt,1
+Egg yolk,Spelt,1
+Pepper (Spice),Spelt,1
+Salt,Spelt,1
+Soft-necked garlic,Spelt,1
+Spelt,Wheat,1
+Black walnut,Honey,8
+Black walnut,Leavening agent,8
+Black walnut,Lemon,5
+Black walnut,Other alcoholic beverage,1
+Black walnut,Sour cream,4
+Black walnut,Vanilla,8
+Honey,Other alcoholic beverage,1
+Buttermilk,Pink salmon,1
+Allium,Grape,2
+Allium,Sherry,3
+Apple,Grape,1
+Apple,Sherry,1
+Cabbage,Grape,2
+Cabbage,Sherry,1
+Grape,Pepper,1
+Pepper,Sherry,1
+Beer,Salted butter,2
+Beer,Sausage,2
+Coriander,Cucumber,1
+Coriander,Wild celery,1
+Cucumber,Salted butter,9
+Cucumber,Soup,8
+Apple,Mixed nuts,1
+Ceylon cinnamon,Mixed nuts,1
+Ceylon cinnamon,Other alcoholic beverage,1
+Cocoa powder,Mixed nuts,2
+Cocoa powder,Other alcoholic beverage,5
+Eggs,Mixed nuts,4
+Leavening agent,Mixed nuts,1
+Mixed nuts,Other alcoholic beverage,2
+Mixed nuts,Salted butter,5
+Mixed nuts,Sugar,1
+Mixed nuts,Vanilla,3
+Mixed nuts,Wheat,1
+Domestic pig,Other bread product,3
+Other bread product,Turkey,1
+Cooking oil,Horseradish,5
+Horseradish,Sturgeon,1
+Horseradish,Wheat,1
+Mustard,Wheat,4
+Sour cream,Sugar substitute,2
+Strawberry,Sugar substitute,1
+Sugar,Sugar substitute,1
+Fats and oils,Leavening agent,1
+Fats and oils,Other bread product,1
+Leavening agent,Other bread product,3
+Butter,"Cattle (Beef, Veal)",1
+Butter,Common mushroom,1
+Cabbage,Shallot,1
+Common bean,Garden tomato,2
+Common bean,Meat bouillon,1
+Common bean,Shallot,2
+Garden tomato,Shallot,4
+Lemon,Meat bouillon,1
+Meat bouillon,Red bell pepper,3
+Meat bouillon,Shallot,2
+Shallot,Wild celery,3
+Apple,Cooking oil,11
+Apple,Honey,4
+Apple,Oat,1
+Apple,Sweet orange,2
+Cloves,Common grape,2
+Cloves,Common wheat,2
+Cloves,Nutmeg,2
+Cloves,Oat,1
+Cloves,Walnut,3
+Common grape,Common wheat,25
+Common grape,Oat,1
+Common wheat,Honey,13
+Common wheat,Nutmeg,16
+Common wheat,Oat,1
+Common wheat,Sweet orange,15
+Common wheat,Walnut,3
+Cooking oil,Oat,1
+Honey,Oat,1
+Nutmeg,Oat,1
+Nutmeg,Sweet orange,4
+Nutmeg,Walnut,2
+Oat,Salt,1
+Oat,Sweet orange,1
+Oat,Walnut,1
+Biscuit,Lemon,1
+Biscuit,Peppermint,1
+Biscuit,Salt,1
+Biscuit,Vanilla,1
+Biscuit,Vinegar,1
+Biscuit,Wheat,1
+Egg yolk,Peppermint,1
+Egg yolk,Vinegar,2
+Eggs,Peppermint,1
+Leavening agent,Peppermint,1
+Lemon,Peppermint,1
+Peppermint,Salt,1
+Peppermint,Sour cream,1
+Peppermint,Sugar,1
+Peppermint,Vanilla,1
+Peppermint,Vinegar,1
+Peppermint,Wheat,1
+Liquor,Sour cherry,1
+Carrot,Dandelion,1
+Carrot,Fennel,1
+Carrot,Kale,1
+Carrot,Spelt,1
+Common pea,Dandelion,1
+Common pea,Fennel,1
+Common pea,Kale,1
+Common pea,Spelt,1
+Common pea,Sweet marjoram,1
+Common thyme,Dandelion,1
+Common thyme,Fennel,1
+Common thyme,Kale,1
+Common thyme,Spelt,1
+Common thyme,Sweet marjoram,2
+Dandelion,Fennel,1
+Dandelion,Kale,1
+Dandelion,Lemon,1
+Dandelion,Olive,1
+Dandelion,Shallot,1
+Dandelion,Spelt,1
+Dandelion,Sweet marjoram,1
+Dandelion,Wild celery,1
+Fennel,Kale,1
+Fennel,Lemon,2
+Fennel,Shallot,2
+Fennel,Spelt,1
+Fennel,Sweet marjoram,1
+Fennel,Wild celery,1
+Kale,Lemon,1
+Kale,Shallot,1
+Kale,Spelt,1
+Kale,Sweet marjoram,1
+Kale,Wild celery,2
+Lemon,Spelt,1
+Lemon,Sweet marjoram,1
+Olive,Spelt,1
+Shallot,Spelt,1
+Shallot,Sweet marjoram,3
+Spelt,Sweet marjoram,1
+Spelt,Wild celery,1
+Ceylon cinnamon,Coconut,1
+Coconut,Common grape,2
+Coconut,Flour,1
+Coconut,Leavening agent,1
+Coconut,Molasses,1
+Coconut,Salt,1
+Coconut,Sugar,1
+Coconut,Vanilla,1
+Coconut,Water,1
+Coconut,Wheat,1
+Common grape,Molasses,4
+Apple,Parsnip,2
+Cabbage,Common thyme,1
+Common thyme,Grape wine,4
+Common thyme,Honey,2
+Common thyme,Parsnip,1
+Domestic pig,Honey,2
+Domestic pig,Parsnip,1
+Grape wine,Honey,1
+Honey,Olive,2
+Honey,Parsnip,1
+Cooking oil,Coriander,2
+Cooking oil,Pepper (Capsicum),6
+Almond,Barley,2
+Almond,Opium poppy,2
+Apricot,Barley,2
+Apricot,Opium poppy,1
+Barley,Ceylon cinnamon,2
+Barley,Common grape,2
+Barley,Honey,2
+Barley,Opium poppy,1
+Barley,Salt,2
+Barley,Sugar,1
+Ceylon cinnamon,Opium poppy,1
+Honey,Opium poppy,3
+Chicken,Soup,6
+Atlantic herring,Canola oil,1
+Atlantic herring,Carrot,3
+Atlantic herring,Common beet,1
+Atlantic herring,Garden onion,1
+Atlantic herring,Pepper (Spice),2
+Atlantic herring,Potato,2
+Atlantic herring,Salad dressing,2
+Canola oil,Garden onion,1
+Daikon radish,Grape wine,1
+Daikon radish,Pepper,2
+Other alcoholic beverage,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Sweet orange,"Vaccinium (Blueberry, Cranberry, Huckleberry)",1
+Chicken,Sweet marjoram,4
+Chicken,Tarragon,1
+Eggs,Sweet marjoram,8
+Eggs,Tarragon,4
+Parsley,Tarragon,1
+Sweet marjoram,Tarragon,4
+Anchovy,Biscuit,1
+Anchovy,Capers,1
+Anchovy,Caraway,1
+Anchovy,Cheese,1
+Anchovy,Pepper,1
+Anchovy,Salted butter,1
+Anchovy,Shallot,1
+Biscuit,Capers,1
+Biscuit,Caraway,1
+Biscuit,Pepper,1
+Biscuit,Shallot,1
+Capers,Caraway,1
+Capers,Cheese,1
+Capers,Pepper,3
+Capers,Shallot,1
+Caraway,Cheese,5
+Caraway,Shallot,2
+Cheese,Pepper,2
+Cheese,Shallot,3
+Common buckwheat,Soft-necked garlic,2
+Common buckwheat,Soup,2
+Apricot,Liquor,3
+Allium,Evaporated milk,1
+Cabbage,Evaporated milk,1
+Cheese,Common cabbage,5
+Cheese,Meat bouillon,1
+Common cabbage,Evaporated milk,1
+Evaporated milk,Meat bouillon,1
+Evaporated milk,Potato,1
+Evaporated milk,Red bell pepper,2
+Evaporated milk,Salted butter,1
+Evaporated milk,Water,1
+Evaporated milk,Wheat,1
+Meat bouillon,Wheat,1
+Capers,"Salmonidae (Salmon, Trout)",1
+Capers,Soup,3
+Capers,Sturgeon,1
+Cucumber,"Salmonidae (Salmon, Trout)",1
+Cucumber,Sturgeon,1
+Garden tomato,"Salmonidae (Salmon, Trout)",1
+Garden tomato,Sturgeon,1
+Garden tomato (var.),"Salmonidae (Salmon, Trout)",1
+Garden tomato (var.),Sturgeon,1
+Olive,"Salmonidae (Salmon, Trout)",2
+"Salmonidae (Salmon, Trout)",Soup,2
+"Salmonidae (Salmon, Trout)",Sturgeon,1
+"Salmonidae (Salmon, Trout)",Sweet bay,1
+Soup,Sturgeon,1
+Sturgeon,Sweet bay,1
+Cheese,Fruit salad,2
+Common grape,Fruit salad,2
+Common grape,Olive,2
+Common grape,Vinegar,2
+Fruit salad,Olive,1
+Fruit salad,Vinegar,1
+Fruit salad,Wheat,1
+Agar,Chocolate,1
+Agar,Condensed milk,1
+Agar,Salted butter,1
+Agar,Vanilla,1
+Agar,Wheat,1
+Condensed milk,Lemon,2
+Condensed milk,Wheat,3
+Almond,Common wheat,12
+Almond,Walnut,1
+Common wheat,Cream,65
+Common wheat,Vanilla,49
+Cream,Honey,4
+Cooking oil,Cream,35
+Red bell pepper,Sturgeon,1
+Cooking oil,Peanut oil,1
+Eggs,Peanut oil,1
+Flour,Peanut oil,1
+Leavening agent,Peanut oil,1
+Milk (Cow),Peanut oil,1
+Peanut oil,Robusta coffee,1
+Peanut oil,Salt,1
+Peanut oil,Sugar,1
+Apple,Cheese,8
+Apple,Egg yolk,2
+Chives,Lemon,8
+Chives,Parsnip,2
+Eggs,Parsnip,3
+Parsnip,Wheat,1
+Cloves,Fruit preserve,1
+Egg yolk,Fruit preserve,1
+Allium,Tarragon,3
+Cabbage,Tarragon,3
+Cheese,Sweet basil,3
+Cheese,Sweet marjoram,3
+Cheese,Tarragon,3
+Common mushroom,Sweet basil,4
+Common mushroom,Tarragon,3
+Dill,Tarragon,3
+Eggs,Sweet basil,4
+Red bell pepper,Sweet marjoram,10
+Red bell pepper,Tarragon,2
+Salted butter,Sweet marjoram,9
+Salted butter,Tarragon,3
+Sugar,Tarragon,2
+Sweet basil,Sweet marjoram,5
+Sweet basil,Tarragon,3
+Sweet basil,Wheat,2
+Tarragon,Wheat,2
+Apricot,Common wheat,16
+Apricot,Date,1
+Ceylon cinnamon,Common wheat,27
+Ceylon cinnamon,Date,1
+Cloves,Date,1
+Common grape,Date,1
+Common grape,Yogurt,2
+Common wheat,Date,1
+Common wheat,Yogurt,1
+Date,Eggs,1
+Date,Honey,1
+Date,Leavening agent,1
+Date,Nutmeg,1
+Date,Salt,1
+Date,Walnut,1
+Date,Yogurt,1
+Honey,Yogurt,1
+Leavening agent,Yogurt,2
+Nutmeg,Yogurt,1
+Walnut,Yogurt,1
+Flour,Other alcoholic beverage,1
+Flour,Other fruit product,1
+Milk (Cow),Other fruit product,1
+Other alcoholic beverage,Other fruit product,1
+Allium,Processed cheese,1
+"Cattle (Beef, Veal)",Processed cheese,1
+Olive,Processed cheese,1
+Processed cheese,Red bell pepper,1
+Processed cheese,Salt,1
+Processed cheese,Sour cream,1
+Apple,Corn,1
+Common pea,Cooking oil,4
+Cooking oil,Cucumber,9
+Cooking oil,Salad dressing,4
+Cloves,Liquor,1
+Liquor,Walnut,1
+Cabbage,Egg yolk,1
+Fruit preserve,Salad dressing,1
+Leavening agent,Salad dressing,3
+Salad dressing,Sugar,2
+Salad dressing,Wheat,4
+Allium,Rabbit,1
+Carrot,Cheese,4
+Carrot,Rabbit,1
+Cheese,Common pea,1
+Cheese,Cucumber,5
+Cheese,Rabbit,1
+Cheese,Salad dressing,8
+Common pea,Rabbit,1
+Cucumber,Rabbit,1
+Cucumber,Sauce,1
+Eggs,Rabbit,1
+Potato,Rabbit,1
+Rabbit,Salad dressing,1
+Rabbit,Salt,1
+Rabbit,Sauce,1
+Cream,Parsley,18
+Garden onion,Mustard,1
+Garden onion,Olive,1
+Garden onion,Sausage,1
+Sausage,Vinegar,7
+Allium,Sunflower,3
+Carrot,Sunflower,2
+"Cattle (Beef, Veal)",Sunflower,1
+Common cabbage,Cream,10
+Common cabbage,Sunflower,1
+Common mushroom,Sunflower,2
+Cream,Sunflower,1
+Cream,Sweet marjoram,3
+Dill,Sunflower,2
+Pepper (Spice),Sunflower,1
+Potato,Sunflower,3
+Potato,Sweet marjoram,2
+Soft-necked garlic,Sunflower,1
+Sour cream,Sunflower,1
+Sunflower,Sweet bay,1
+Sunflower,Sweet marjoram,1
+Sunflower,Wild celery,1
+Cheese,Opium poppy,1
+Cooking oil,Opium poppy,1
+Chocolate,Soft drink,1
+Chocolate,Sour cream,1
+Cream,Soft drink,1
+Flour,Gelatin,1
+Flour,Soft drink,1
+Gelatin,Milk (Cow),3
+Gelatin,Soft drink,1
+Gelatin,Sour cream,2
+Milk (Cow),Soft drink,1
+Soft drink,Sour cream,1
+Soft drink,Vanilla,1
+Barley,Cabbage,1
+Barley,Common cabbage,1
+Barley,Domestic pig,1
+Barley,Garden tomato,1
+Common bean,Cooking oil,3
+Common bean,Cucumber,4
+Apple,Black walnut,3
+Apple,Sour cherry,1
+Black walnut,Cooking oil,5
+Black walnut,Sour cherry,1
+Cooking oil,Sour cherry,1
+Salted butter,Sour cherry,1
+Agave,Allium,1
+Agave,Cabbage,1
+Agave,Kale,1
+Agave,Pepper,1
+Agave,Salad dressing,1
+Agave,Salt,1
+Agave,Vinegar,1
+Agave,Wild celery,1
+Cabbage,Kale,1
+Kale,Salad dressing,1
+Kale,Vinegar,1
+Clam,Dill,3
+Clam,Eggs,2
+Clam,Grape wine,3
+Clam,Leek,2
+Clam,Pastry,1
+Clam,Rice,2
+Clam,"Salmonidae (Salmon, Trout)",1
+Clam,Salted butter,2
+Clam,Shiitake,2
+Clam,Sour cream,1
+Clam,Water,1
+Dill,Shiitake,2
+Grape wine,Pastry,1
+Grape wine,Shiitake,2
+Shiitake,Sour cream,1
+Pasta,Red bell pepper,19
+Apple,Cinnamon,1
+Cinnamon,Common grape,1
+Cinnamon,Leavening agent,1
+Common mushroom,Wheat bread,2
+Domestic pig,Wheat bread,1
+Milk (Cow),Pasta,4
+Milk (Cow),Wheat bread,1
+Pasta,Wheat bread,1
+Pepper (Spice),Wheat bread,2
+Salt,Wheat bread,3
+Salted butter,Wheat bread,2
+Sour cream,Wheat bread,1
+Wheat,Wheat bread,1
+Capers,Soft-necked garlic,2
+Capers,Sweet marjoram,2
+Capers,Vinegar,2
+Garden tomato,Sweet marjoram,2
+Sausage,Wheat,2
+Sweet marjoram,Vinegar,5
+Common bean,Fennel,1
+Common bean,Red beetroot,3
+Common bean,Rocket salad (ssp.),1
+Common bean,Salad dressing,1
+Common bean,Yogurt,1
+Cucumber,Fennel,1
+Cucumber,Red beetroot,9
+Cucumber,Rocket salad (ssp.),1
+Cucumber,Shallot,2
+Fennel,Garden tomato,1
+Fennel,Horseradish,1
+Fennel,Potato,1
+Fennel,Red beetroot,1
+Fennel,Rocket salad (ssp.),1
+Fennel,Salad dressing,1
+Fennel,Sour cream,1
+Fennel,Yogurt,1
+Garden tomato,Horseradish,1
+Garden tomato,Red beetroot,1
+Garden tomato,Rocket salad (ssp.),1
+Horseradish,Red beetroot,7
+Horseradish,Rocket salad (ssp.),1
+Horseradish,Shallot,2
+Potato,Red beetroot,23
+Potato,Rocket salad (ssp.),1
+Red beetroot,Rocket salad (ssp.),1
+Red beetroot,Salad dressing,5
+Red beetroot,Salt,17
+Red beetroot,Shallot,1
+Red beetroot,Sour cream,11
+Red beetroot,Sugar,5
+Red beetroot,Yogurt,2
+Rocket salad (ssp.),Salad dressing,1
+Rocket salad (ssp.),Salt,1
+Rocket salad (ssp.),Shallot,1
+Rocket salad (ssp.),Sour cream,1
+Rocket salad (ssp.),Sugar,1
+Rocket salad (ssp.),Yogurt,1
+Salad dressing,Yogurt,1
+Sour cream,Yogurt,1
+Almond milk,Butter,1
+Almond milk,Capers,1
+Almond milk,Chives,1
+Almond milk,Common buckwheat,1
+Almond milk,Leavening agent,1
+Almond milk,Lentils,1
+Almond milk,Salad dressing,1
+Almond milk,Salt,1
+Almond milk,Water,1
+Almond milk,Wheat,1
+Butter,Capers,1
+Butter,Chives,1
+Butter,Lentils,1
+Butter,Salad dressing,1
+Capers,Chives,1
+Capers,Common buckwheat,1
+Capers,Leavening agent,1
+Capers,Lentils,1
+Chives,Lentils,1
+Chives,Salad dressing,1
+Common buckwheat,Lentils,1
+Common buckwheat,Salad dressing,1
+Leavening agent,Lentils,1
+Lentils,Salad dressing,1
+Lentils,Wheat,1
+Cheese,Chives,4
+Cheese,Fennel,1
+Chives,Fennel,1
+Chives,Rye bread,1
+Fennel,Pink salmon,1
+Fennel,Rye bread,1
+Fennel,"Salmonidae (Salmon, Trout)",1
+Lemon,Rye bread,1
+Olive,Rye bread,1
+Pink salmon,Rye bread,1
+Rye bread,"Salmonidae (Salmon, Trout)",1
+Cabbage,Pastry,3
+Cabbage,"Salmonidae (Salmon, Trout)",1
+Garden onion,Pastry,1
+Pastry,Red bell pepper,1
+Pastry,Soup,2
+Pastry,Wheat,2
+Pepper (Spice),"Salmonidae (Salmon, Trout)",1
+Chicken,Chives,3
+Chives,Red bell pepper,8
+Cheese,Sugar substitute,1
+Common grape,Semolina,1
+Common grape,Sugar substitute,1
+Eggs,Sugar substitute,1
+Flour,Semolina,1
+Flour,Sugar substitute,1
+Salted butter,Sugar substitute,1
+Semolina,Sour cream,1
+Semolina,Sugar substitute,1
+Semolina,Vanilla,1
+Sugar substitute,Vanilla,1
+Egg yolk,Pepper,1
+"Cattle (Beef, Veal)",Chives,5
+"Cattle (Beef, Veal)",Wheat bread,1
+Chives,Common mushroom,3
+Chives,Cream,9
+Chives,Wheat bread,1
+Cooking oil,Wheat bread,1
+Cream,Other bread product,1
+Cream,Wheat bread,1
+Eggs,Wheat bread,1
+Other bread product,Wheat bread,1
+Arrowroot,Blackcurrant,1
+Arrowroot,Fruit preserve,1
+Arrowroot,"Rubus (Blackberry, Raspberry)",1
+Arrowroot,Strawberry,1
+Arrowroot,Sugar,1
+Arrowroot,Vanilla,1
+Arrowroot,Water,1
+Blackcurrant,Fruit preserve,1
+Blackcurrant,"Rubus (Blackberry, Raspberry)",2
+Blackcurrant,Strawberry,2
+Blackcurrant,Water,1
+Fruit preserve,Strawberry,1
+Fruit preserve,Vanilla,1
+Fruit preserve,Water,1
+"Rubus (Blackberry, Raspberry)",Strawberry,3
+Common beet,Wheat,1
+Honey,Other bread product,2
+Allium,Herbal tea,1
+Allium,Tamarind,11
+Canola oil,Chicken,2
+Canola oil,Herbal tea,1
+Canola oil,Tamarind,1
+Chicken,Herbal tea,1
+Chicken,Tamarind,2
+Herbal tea,Ketchup,1
+Herbal tea,Pepper (Capsicum),1
+Herbal tea,Salt,1
+Herbal tea,Tamarind,1
+Ketchup,Tamarind,1
+Pepper (Capsicum),Tamarind,5
+Salt,Tamarind,1
+Cheese,Gelatin,1
+Allium,Pacific cod,3
+Lemon,Pacific cod,3
+Pacific cod,Parsley,3
+Pacific cod,Potato,3
+Pacific cod,Red bell pepper,2
+Pacific cod,Salt,1
+Pacific cod,Water,2
+Common grape,Potato,3
+Parsley,Sorrel,1
+Parsnip,Sorrel,1
+Pepper (Spice),Sorrel,1
+Allium,Watercress,1
+Common mushroom,Watercress,1
+Corn,Meat bouillon,1
+Corn,Pepper,1
+Corn,Rice,2
+Corn,"Salmonidae (Salmon, Trout)",1
+Corn,Shallot,1
+Eggs,Watercress,1
+Flour,"Salmonidae (Salmon, Trout)",1
+Flour,Shallot,1
+Flour,Watercress,1
+Meat bouillon,Rice,1
+Meat bouillon,"Salmonidae (Salmon, Trout)",1
+Meat bouillon,Watercress,1
+Pepper,Watercress,1
+Red bell pepper,Watercress,1
+Rice,Shallot,2
+Rice,Watercress,1
+"Salmonidae (Salmon, Trout)",Sauce,1
+"Salmonidae (Salmon, Trout)",Shallot,1
+"Salmonidae (Salmon, Trout)",Watercress,1
+Salt,Watercress,1
+Salted butter,Watercress,1
+Sauce,Shallot,1
+Sauce,Watercress,1
+Shallot,Watercress,1
+Allium,Green zucchini,2
+Common buckwheat,Green zucchini,1
+Common buckwheat,Red bell pepper,1
+Common buckwheat,Yogurt,1
+Eggs,Green zucchini,3
+Green zucchini,Olive,2
+Green zucchini,Red bell pepper,1
+Green zucchini,Soft-necked garlic,3
+Green zucchini,Soup,1
+Green zucchini,Yogurt,1
+Red bell pepper,Yogurt,3
+Allspice,Canola oil,1
+Allspice,Capers,1
+Allspice,Chicken,1
+Allspice,Garden tomato,1
+Allspice,Herbs and Spices,1
+Allspice,Sausage,1
+Cabbage,Capers,1
+Cabbage,Chicken,4
+Canola oil,Capers,1
+Canola oil,Olive,1
+Canola oil,Sausage,1
+Capers,Grape wine,1
+Capers,Herbs and Spices,1
+Chicken,Grape wine,4
+Chicken,Herbs and Spices,1
+Chicken,Sausage,1
+Garden tomato (var.),Herbs and Spices,2
+Grape wine,Herbs and Spices,1
+Sausage,Wild celery,2
+Garden tomato,Milk (Cow),1
+Chocolate,Common walnut,1
+Chocolate,Other bread product,1
+Common walnut,Other bread product,1
+Common walnut,Walnut,1
+Herbs and Spices,Shallot,1
+Herbs and Spices,"Sheep (Mutton, Lamb)",1
+Herbs and Spices,Wheat bread,1
+Parsley,Shallot,1
+Parsley,Wheat bread,1
+Parsley,Yogurt,2
+Pepper,"Sheep (Mutton, Lamb)",1
+Pepper,Wheat bread,1
+Shallot,"Sheep (Mutton, Lamb)",2
+Shallot,Wheat bread,1
+"Sheep (Mutton, Lamb)",Wheat bread,1
+"Sheep (Mutton, Lamb)",Yogurt,2
+Soft-necked garlic,Wheat bread,1
+Wheat bread,Yogurt,1
+Domestic pig,Lard,5
+Garden tomato,Lard,1
+Lard,Olive,2
+Lard,Pepper,1
+Lard,Shallot,2
+Lard,Sour cream,1
+Lard,Sweet marjoram,2
+Cucumber,Grape wine,5
+Chives,Dill,3
+Chives,Spinach,1
+Cinnamon,Pepper (Spice),1
+Cinnamon,Salt,1
+Cinnamon,Shallot,1
+Cinnamon,Vinegar,1
+Caraway,Corn,4
+Caraway,Margarine-like spread,2
+Cocoa powder,Corn,4
+Cocoa powder,Margarine-like spread,2
+Corn,Fennel,3
+Corn,Margarine-like spread,2
+Corn,Robusta coffee,3
+Fennel,Margarine-like spread,2
+Margarine-like spread,Robusta coffee,2
+Margarine-like spread,Rye,2
+Margarine-like spread,Vinegar,2
+Rye,Vinegar,4
+Ceylon cinnamon,Green plum,1
+Egg yolk,Green plum,1
+Egg yolk,Other bread product,1
+Green plum,Other bread product,1
+Green plum,Potato,1
+Green plum,Wheat,1
+Potato,Walnut,1
+Common bean,Ketchup,1
+Common thyme,Egg yolk,1
+Common thyme,Pastry,1
+Common thyme,Pink salmon,1
+Common thyme,Spinach,1
+Egg yolk,Pastry,1
+Egg yolk,Pink salmon,1
+Pastry,Spinach,1
+Pepper (Spice),Spinach,1
+Pink salmon,Spinach,1
+Ice cream,Liquor,1
+Ice cream,Other alcoholic beverage,1
+Liquor,Other alcoholic beverage,1
+"Cattle (Beef, Veal)",Cloves,1
+"Cattle (Beef, Veal)",Lettuce,1
+Cloves,Gelatin,1
+Cloves,Horseradish,1
+Cloves,Lettuce,1
+Cloves,Pepper,1
+Cloves,Soft-necked garlic,1
+Cooking oil,Gelatin,2
+Cooking oil,Lettuce,4
+Cucumber,Gelatin,2
+Cucumber,Lettuce,3
+Gelatin,Horseradish,1
+Gelatin,Lettuce,1
+Gelatin,Pepper,1
+Horseradish,Lettuce,2
+Horseradish,Sweet bay,2
+Lemon,Lettuce,3
+Lettuce,Pepper,1
+Lettuce,Soft-necked garlic,4
+Lettuce,Soup,1
+Lettuce,Sour cream,2
+Lettuce,Sweet bay,1
+Lettuce,Water,1
+Apple,"Prunus (Cherry, Plum)",3
+Egg yolk,"Prunus (Cherry, Plum)",1
+"Prunus (Cherry, Plum)",Salt,1
+Broad bean,Capers,1
+Broad bean,Carrot,1
+Broad bean,Common bean,1
+Broad bean,Cucumber,1
+Broad bean,Egg yolk,1
+Broad bean,Lemon,1
+Broad bean,Potato,1
+Broad bean,Salted butter,1
+Broad bean,Vinegar,1
+Broad bean,Wild celery,1
+Capers,Common bean,1
+Capers,Egg yolk,1
+Carrot,Egg yolk,1
+Common bean,Egg yolk,1
+Egg yolk,Wild celery,1
+Blackcurrant,Cheese,3
+Blackcurrant,Sour cream,2
+Common cabbage,Dumpling,1
+Chives,Yogurt,1
+Water,Yogurt,1
+Allium,Rye bread,1
+Caraway,Cucumber,2
+Caraway,Mustard,2
+Caraway,Rye bread,1
+Cheese,Daikon radish,1
+Cheese,Mustard,6
+Cucumber,Rye bread,1
+Daikon radish,Rye bread,1
+Mustard,Rye bread,1
+Pepper,Rye bread,1
+Rye bread,Salted butter,1
+Barley,Carrot,1
+Barley,Cucumber,1
+Barley,Potato,1
+Barley,Red bell pepper,1
+Barley,Soup,1
+Barley,Wild celery,1
+"Cattle (Beef, Veal)",Leavening agent,4
+Milk (Cow),Olive,6
+Allium,Red beetroot,30
+Cabbage,Red beetroot,15
+Carrot,Red beetroot,22
+"Cattle (Beef, Veal)",Red beetroot,9
+Dill,Red beetroot,21
+Red beetroot,Sweet bay,5
+Red beetroot,Vinegar,21
+Red beetroot,Water,10
+Red beetroot,Wild celery,9
+Black walnut,European plum,3
+Black walnut,Red beetroot,4
+Black walnut,Salad dressing,4
+Black walnut,Soft-necked garlic,6
+European plum,Red beetroot,4
+Red beetroot,Soft-necked garlic,13
+Garden tomato (var.),Sherry,2
+Red bell pepper,Sherry,2
+Citrus,Cooking oil,1
+Citrus,Water,1
+Cream,Red beetroot,13
+Garden tomato (var.),Red beetroot,11
+Red beetroot,Red bell pepper,14
+Red beetroot,Salted butter,7
+Domestic pig,Red beetroot,5
+Grape wine,Red beetroot,11
+Leek,Red beetroot,2
+Leek,Red bell pepper,2
+Parsley,Red beetroot,7
+Red beetroot,Sausage,4
+Red beetroot,Sweet marjoram,2
+Cucurbita,Millet,1
+Cucurbita,Salt,1
+Cucurbita,Water,1
+Millet,Salt,2
+Millet,Water,2
+Dill,Eggplant,1
+Eggplant,Garden tomato (var.),4
+Eggplant,Parsley,1
+Eggplant,Potato,1
+Eggplant,"Sheep (Mutton, Lamb)",1
+Garden tomato (var.),"Sheep (Mutton, Lamb)",5
+Potato,"Sheep (Mutton, Lamb)",3
+Red bell pepper,"Sheep (Mutton, Lamb)",5
+Cheese,Wonton wrapper,1
+Chives,Domestic pig,3
+Chives,Pepper (Capsicum),2
+Chives,Wonton wrapper,1
+Domestic pig,Pepper (Capsicum),3
+Domestic pig,Wonton wrapper,1
+Pepper (Capsicum),Wonton wrapper,1
+Potato,Wonton wrapper,1
+Salted butter,Wonton wrapper,1
+Sour cream,Wonton wrapper,1
+Water,Wonton wrapper,1
+Cheese,Chicken,7
+Common mushroom,Salad dressing,4
+Cucumber,Wheat,2
+Horseradish,Ketchup,1
+Red beetroot,Soup,10
+Cooking oil,Green zucchini,1
+Dill,Green zucchini,1
+Green zucchini,Wheat,2
+Common mushroom,Ketchup,1
+Grape wine,Ketchup,1
+Ketchup,Pasta,2
+"Cattle (Beef, Veal)",Common sage,2
+"Cattle (Beef, Veal)",Kale,1
+Common mushroom,Common sage,1
+Common mushroom,Kale,1
+Common mushroom,Red beetroot,2
+Common sage,Dill,2
+Common sage,Garden onion,1
+Common sage,Pepper,1
+Common sage,Potato,1
+Common sage,Red beetroot,1
+Common sage,Sour cream,1
+Common sage,Sweet bay,1
+Dill,Kale,1
+Garden onion,Kale,1
+Garden onion,Red beetroot,1
+Kale,Red beetroot,1
+Kale,Sour cream,1
+Kale,Sweet bay,1
+Pepper,Red beetroot,1
+Allium,Anise,1
+Allium,Mixed nuts,1
+Anise,"Cattle (Beef, Veal)",1
+Anise,Common wheat,2
+Anise,Ginger,1
+Anise,Grape wine,1
+Anise,Lard,2
+Anise,Mixed nuts,1
+Anise,Pepper (Spice),1
+Anise,Sweet bay,1
+"Cattle (Beef, Veal)",Mixed nuts,1
+Common wheat,Ginger,6
+Common wheat,Grape wine,10
+Common wheat,Lard,20
+Common wheat,Mixed nuts,3
+Ginger,Grape wine,1
+Ginger,Lard,1
+Ginger,Mixed nuts,1
+Ginger,Sweet bay,1
+Ginger,Vinegar,1
+Grape wine,Lard,2
+Grape wine,Mixed nuts,1
+Grape wine,Vinegar,18
+Lard,Mixed nuts,2
+Lard,Sweet bay,1
+Lard,Vinegar,1
+Mixed nuts,Pepper (Spice),1
+Mixed nuts,Sweet bay,1
+Mixed nuts,Vinegar,1
+Allium,Apple cider,4
+Allium,Common grape,3
+Allium,Molasses,13
+Apple,Apple cider,1
+Apple cider,Cabbage,3
+Apple cider,Common grape,1
+Apple cider,Dill,4
+Apple cider,Molasses,3
+Apple cider,Salted butter,5
+Apple cider,Soup,2
+Apple cider,Vinegar,7
+Cabbage,Common grape,1
+Cabbage,Molasses,2
+Common grape,Dill,4
+Common grape,Pepper (Spice),2
+Common grape,Soup,1
+Dill,Molasses,5
+Molasses,Pepper (Spice),4
+Molasses,Soup,3
+Allium,Ceylon cinnamon,3
+Allium,Juniperus communis,3
+Allium,Kohlrabi,1
+Allium,Lovage,1
+Apple,Atlantic herring,1
+Apple,Chives,2
+Apple,Cream,7
+Apple,Horseradish,2
+Apple,Juniperus communis,2
+Apple,Kohlrabi,1
+Apple,Lovage,1
+Apple,Pepper (Capsicum),1
+Apple,Root vegetables,1
+Apple,Shallot,2
+Atlantic herring,"Cattle (Beef, Veal)",1
+Atlantic herring,Ceylon cinnamon,1
+Atlantic herring,Chives,1
+Atlantic herring,Common thyme,1
+Atlantic herring,Cream,1
+Atlantic herring,Juniperus communis,1
+Atlantic herring,Kohlrabi,1
+Atlantic herring,Lovage,1
+Atlantic herring,Milk (Cow),1
+Atlantic herring,Nutmeg,1
+Atlantic herring,Root vegetables,1
+Atlantic herring,Shallot,1
+Atlantic herring,Turnip,1
+Atlantic herring,White bread,1
+Atlantic herring,Wild celery,1
+Carrot,Ceylon cinnamon,2
+Carrot,Chives,2
+Carrot,Juniperus communis,2
+Carrot,Kohlrabi,1
+Carrot,Lovage,1
+Carrot,Milk (Cow),4
+Carrot,Nutmeg,2
+"Cattle (Beef, Veal)",Ceylon cinnamon,2
+"Cattle (Beef, Veal)",Juniperus communis,2
+"Cattle (Beef, Veal)",Kohlrabi,1
+"Cattle (Beef, Veal)",Lovage,1
+Ceylon cinnamon,Chives,1
+Ceylon cinnamon,Common thyme,1
+Ceylon cinnamon,Grape wine,3
+Ceylon cinnamon,Horseradish,1
+Ceylon cinnamon,Juniperus communis,1
+Ceylon cinnamon,Kohlrabi,1
+Ceylon cinnamon,Lovage,1
+Ceylon cinnamon,Pepper (Capsicum),1
+Ceylon cinnamon,Pepper (Spice),2
+Ceylon cinnamon,Red bell pepper,2
+Ceylon cinnamon,Root vegetables,1
+Ceylon cinnamon,Shallot,1
+Ceylon cinnamon,Soft-necked garlic,1
+Ceylon cinnamon,Sweet bay,1
+Ceylon cinnamon,Turnip,1
+Ceylon cinnamon,Vinegar,1
+Ceylon cinnamon,Wild celery,2
+Chives,Common thyme,2
+Chives,Horseradish,1
+Chives,Juniperus communis,1
+Chives,Kohlrabi,1
+Chives,Lovage,1
+Chives,Nutmeg,3
+Chives,Root vegetables,1
+Chives,Shallot,2
+Chives,Sweet bay,1
+Chives,Turnip,1
+Chives,White bread,6
+Chives,Wild celery,2
+Common thyme,Cooking oil,1
+Common thyme,Horseradish,1
+Common thyme,Juniperus communis,2
+Common thyme,Kohlrabi,1
+Common thyme,Lovage,1
+Common thyme,Root vegetables,1
+Common thyme,Turnip,2
+Common thyme,White bread,1
+Cooking oil,Juniperus communis,2
+Cooking oil,Kohlrabi,1
+Cooking oil,Lovage,1
+Cooking oil,Turnip,2
+Cream,Horseradish,4
+Cream,Juniperus communis,2
+Cream,Kohlrabi,1
+Cream,Lovage,1
+Cream,Shallot,3
+Cream,Turnip,3
+Cream,Vinegar,15
+Eggs,Juniperus communis,1
+Eggs,Kohlrabi,1
+Eggs,Lovage,1
+Eggs,Turnip,1
+Grape wine,Juniperus communis,3
+Grape wine,Kohlrabi,1
+Grape wine,Lovage,1
+Grape wine,Nutmeg,1
+Grape wine,Root vegetables,1
+Grape wine,Turnip,2
+Grape wine,White bread,3
+Horseradish,Juniperus communis,1
+Horseradish,Kohlrabi,1
+Horseradish,Lovage,1
+Horseradish,Milk (Cow),1
+Horseradish,Nutmeg,1
+Horseradish,Root vegetables,1
+Horseradish,Turnip,1
+Horseradish,White bread,1
+Horseradish,Wild celery,2
+Juniperus communis,Kohlrabi,1
+Juniperus communis,Lemon,1
+Juniperus communis,Lovage,1
+Juniperus communis,Milk (Cow),1
+Juniperus communis,Nutmeg,1
+Juniperus communis,Pepper (Capsicum),1
+Juniperus communis,Pepper (Spice),2
+Juniperus communis,Red bell pepper,2
+Juniperus communis,Root vegetables,1
+Juniperus communis,Salted butter,2
+Juniperus communis,Shallot,2
+Juniperus communis,Soft-necked garlic,2
+Juniperus communis,Sweet bay,1
+Juniperus communis,Turnip,1
+Juniperus communis,Vinegar,1
+Juniperus communis,White bread,1
+Juniperus communis,Wild celery,1
+Kohlrabi,Lemon,1
+Kohlrabi,Lovage,1
+Kohlrabi,Milk (Cow),1
+Kohlrabi,Nutmeg,1
+Kohlrabi,Pepper (Capsicum),1
+Kohlrabi,Pepper (Spice),1
+Kohlrabi,Red bell pepper,1
+Kohlrabi,Root vegetables,1
+Kohlrabi,Salted butter,1
+Kohlrabi,Shallot,1
+Kohlrabi,Soft-necked garlic,1
+Kohlrabi,Sweet bay,1
+Kohlrabi,Turnip,1
+Kohlrabi,Vinegar,1
+Kohlrabi,White bread,1
+Kohlrabi,Wild celery,1
+Lemon,Lovage,1
+Lovage,Milk (Cow),1
+Lovage,Nutmeg,1
+Lovage,Pepper (Capsicum),1
+Lovage,Pepper (Spice),1
+Lovage,Red bell pepper,1
+Lovage,Root vegetables,1
+Lovage,Salted butter,1
+Lovage,Shallot,1
+Lovage,Soft-necked garlic,1
+Lovage,Sweet bay,1
+Lovage,Turnip,1
+Lovage,Vinegar,1
+Lovage,White bread,1
+Lovage,Wild celery,1
+Milk (Cow),Pepper (Capsicum),1
+Milk (Cow),Turnip,2
+Nutmeg,Pepper (Capsicum),1
+Nutmeg,Root vegetables,2
+Nutmeg,Shallot,2
+Nutmeg,Soft-necked garlic,3
+Nutmeg,Sweet bay,1
+Nutmeg,Turnip,1
+Nutmeg,White bread,2
+Nutmeg,Wild celery,2
+Pepper (Capsicum),Root vegetables,1
+Pepper (Capsicum),Shallot,1
+Pepper (Capsicum),Sweet bay,3
+Pepper (Capsicum),Turnip,1
+Pepper (Capsicum),White bread,3
+Pepper (Spice),Root vegetables,6
+Root vegetables,Shallot,1
+Root vegetables,Turnip,1
+Root vegetables,Vinegar,3
+Root vegetables,White bread,1
+Root vegetables,Wild celery,2
+Shallot,Turnip,1
+Shallot,White bread,2
+Vinegar,White bread,4
+Apple,Common cabbage,3
+Common wheat,Domestic pig,18
+Common wheat,Sausage,6
+Cooking oil,Sausage,4
+Common cabbage,Juniperus communis,2
+Common cabbage,Shallot,1
+Domestic pig,Juniperus communis,2
+Juniperus communis,Soup,3
+Common thyme,Sausage,1
+Allium,Okra,1
+Apple,Garden tomato (var.),1
+Apple,Green zucchini,1
+Apple,Okra,1
+Apple,Rice,1
+Garden tomato (var.),Green zucchini,1
+Garden tomato (var.),Okra,1
+Green zucchini,Lemon,1
+Green zucchini,Okra,1
+Green zucchini,Parsley,1
+Green zucchini,Pepper (Spice),1
+Green zucchini,Rice,1
+Lemon,Okra,1
+Okra,Olive,1
+Okra,Parsley,1
+Okra,Pepper (Spice),1
+Okra,Rice,1
+Okra,Soft-necked garlic,1
+Apple cider,Caraway,2
+Apple cider,Carrot,1
+Apple cider,Cream,1
+Apple cider,Garden tomato (var.),3
+Apple cider,Honey,1
+Apple cider,Potato,2
+Apple cider,Red beetroot,3
+Apple cider,Root vegetables,1
+Apple cider,Wild celery,2
+Caraway,Red beetroot,3
+Caraway,Root vegetables,1
+Garden tomato (var.),Honey,2
+Honey,Red beetroot,2
+Honey,Root vegetables,1
+Pepper (Spice),Red beetroot,8
+Red beetroot,Root vegetables,1
+Apple cider,"Cattle (Beef, Veal)",2
+Apple cider,Chives,1
+Apple cider,Cooking oil,1
+Apple cider,Eggs,2
+Apple cider,White bread,1
+Chives,Red beetroot,1
+Cooking oil,Red beetroot,13
+Eggs,Red beetroot,5
+Potato,White bread,6
+Red beetroot,White bread,1
+Allium,Pepper (C. frutescens),5
+Apple cider,Corn,2
+Apple cider,Pepper (C. frutescens),1
+Apple cider,Sausage,1
+Apple cider,Soft-necked garlic,1
+Apple cider,Tamarind,1
+Corn,Garden tomato (var.),8
+Corn,Pepper (C. frutescens),1
+Corn,Sausage,2
+Corn,Tamarind,6
+Garden tomato (var.),Molasses,8
+Garden tomato (var.),Mustard,5
+Garden tomato (var.),Pepper (C. frutescens),2
+Garden tomato (var.),Tamarind,7
+Molasses,Mustard,3
+Molasses,Pepper (C. frutescens),4
+Molasses,Sausage,3
+Molasses,Soft-necked garlic,10
+Molasses,Tamarind,10
+Molasses,Wild celery,7
+Mustard,Pepper (C. frutescens),1
+Mustard,Tamarind,3
+Pepper (C. frutescens),Salted butter,1
+Pepper (C. frutescens),Sausage,3
+Pepper (C. frutescens),Soft-necked garlic,3
+Pepper (C. frutescens),Tamarind,4
+Pepper (C. frutescens),Vinegar,4
+Pepper (C. frutescens),Wild celery,1
+Salted butter,Tamarind,2
+Sausage,Tamarind,3
+Soft-necked garlic,Tamarind,8
+Tamarind,Vinegar,10
+Tamarind,Wild celery,7
+Apricot,Carrot,1
+Apricot,"Cattle (Beef, Veal)",1
+Apricot,Domestic pig,1
+Apricot,European plum,1
+Apricot,Grape wine,1
+Apricot,Mustard,2
+Apricot,Soft-necked garlic,1
+Apricot,Soup,1
+Apricot,Sweet marjoram,1
+Carrot,European plum,1
+"Cattle (Beef, Veal)",European plum,3
+Common wheat,Corn,8
+Common wheat,European plum,7
+Common wheat,Mustard,6
+Common wheat,Soup,15
+Common wheat,Sweet marjoram,7
+Corn,European plum,1
+Corn,Sweet marjoram,2
+Domestic pig,European plum,3
+European plum,Mustard,1
+European plum,Soup,2
+European plum,Sweet marjoram,1
+Mustard,Sweet marjoram,1
+Allium,Cocoa powder,3
+Allium,Vanilla,2
+Apricot,Chives,1
+Apricot,Cucumber,1
+Apricot,Parsley,1
+Chives,Cocoa powder,2
+Chives,Cucumber,2
+Chives,Gelatin,1
+Chives,Vanilla,2
+Cocoa powder,Cucumber,2
+Cocoa powder,Mustard,2
+Cocoa powder,Parsley,2
+Common wheat,Cucumber,3
+Common wheat,Gelatin,3
+Cream,Cucumber,5
+Cream,Mustard,4
+Cucumber,Vanilla,2
+Gelatin,Mustard,1
+Gelatin,Parsley,1
+Mustard,Vanilla,2
+Parsley,Vanilla,2
+Allium,Cashew nut,1
+Asparagus,Cashew nut,1
+Asparagus,Pasta,1
+Asparagus,Red bell pepper,1
+Asparagus,Rice,1
+Asparagus,Root vegetables,1
+Asparagus,Salted butter,1
+Cashew nut,Pasta,1
+Cashew nut,Red bell pepper,1
+Cashew nut,Rice,1
+Cashew nut,Root vegetables,1
+Cashew nut,Salted butter,1
+Cashew nut,Soft-necked garlic,1
+Pasta,Rice,2
+Pasta,Root vegetables,1
+Rice,Root vegetables,1
+Allium,Black walnut,3
+Black walnut,Carrot,3
+Black walnut,Chicken,3
+Black walnut,Potato,3
+Black walnut,Red bell pepper,1
+Black walnut,White bread,3
+Black walnut,Common buckwheat,1
+Black walnut,Common thyme,1
+Black walnut,Olive,1
+Black walnut,Parsley,1
+Black walnut,Pepper (Spice),1
+Allium,Burdock,1
+Burdock,Cabbage,1
+Burdock,Carrot,1
+Burdock,Dill,1
+Burdock,Domestic pig,1
+Burdock,Garden tomato (var.),1
+Burdock,Parsley,1
+Burdock,Rice,1
+Cabbage,Pepper (C. frutescens),1
+Cabbage,Tamarind,1
+Caraway,Domestic pig,5
+Caraway,Pepper (C. frutescens),1
+Caraway,Sausage,3
+Caraway,Sweet basil,1
+Caraway,Tamarind,2
+Carrot,Molasses,1
+Carrot,Pepper (C. frutescens),1
+Carrot,Tamarind,1
+"Cattle (Beef, Veal)",Molasses,5
+"Cattle (Beef, Veal)",Pepper (C. frutescens),2
+"Cattle (Beef, Veal)",Tamarind,4
+Common cabbage,Molasses,2
+Common cabbage,Pepper (C. frutescens),2
+Common cabbage,Pepper (Capsicum),1
+Common cabbage,Sweet basil,1
+Common cabbage,Tamarind,1
+Common mushroom,Molasses,3
+Common mushroom,Pepper (C. frutescens),2
+Common mushroom,Tamarind,3
+Common wheat,Garden tomato (var.),16
+Common wheat,Pepper (C. frutescens),1
+Common wheat,Pepper (Capsicum),5
+Common wheat,Sweet basil,3
+Common wheat,Tamarind,4
+Dill,Pepper (C. frutescens),2
+Dill,Tamarind,3
+Domestic pig,Molasses,4
+Domestic pig,Pepper (C. frutescens),1
+Domestic pig,Sweet basil,1
+Domestic pig,Tamarind,3
+Garden tomato (var.),Sweet basil,2
+Grape wine,Molasses,2
+Grape wine,Pepper (C. frutescens),1
+Grape wine,Tamarind,1
+Molasses,Pepper (Capsicum),4
+Molasses,Red bell pepper,5
+Molasses,Sweet basil,1
+Molasses,Sweet bay,2
+Molasses,Sweet marjoram,3
+Pepper (C. frutescens),Pepper (Capsicum),1
+Pepper (C. frutescens),Pepper (Spice),1
+Pepper (C. frutescens),Red bell pepper,2
+Pepper (C. frutescens),Soup,1
+Pepper (C. frutescens),Sweet basil,1
+Pepper (C. frutescens),Sweet bay,1
+Pepper (C. frutescens),Sweet marjoram,1
+Pepper (C. frutescens),Water,1
+Pepper (Capsicum),Sausage,2
+Pepper (Capsicum),Sweet basil,3
+Pepper (Spice),Tamarind,1
+Red bell pepper,Tamarind,5
+Sausage,Sweet basil,1
+Soup,Tamarind,2
+Sweet basil,Tamarind,1
+Sweet basil,Vinegar,2
+Sweet basil,Water,1
+Sweet bay,Tamarind,2
+Sweet marjoram,Tamarind,2
+Tamarind,Water,1
+Allium,Scarlet bean,2
+Cabbage,Common pea,1
+Cabbage,Corn,1
+Cabbage,Scarlet bean,1
+Carrot,Scarlet bean,1
+"Cattle (Beef, Veal)",Common pea,3
+"Cattle (Beef, Veal)",Scarlet bean,1
+Chicken,Corn,1
+Chicken,Scarlet bean,2
+Chicken,Turnip,1
+Common pea,Garden tomato (var.),2
+Common pea,Scarlet bean,1
+Common pea,Turnip,1
+Cooking oil,Scarlet bean,2
+Corn,Pepper (Spice),2
+Corn,Scarlet bean,1
+Corn,Turnip,1
+Domestic pig,Scarlet bean,1
+Domestic pig,Turnip,1
+Garden tomato (var.),Scarlet bean,1
+Pepper (Spice),Scarlet bean,1
+Potato,Scarlet bean,2
+Red bell pepper,Scarlet bean,2
+Scarlet bean,Turnip,1
+Scarlet bean,Wild celery,1
+Vinegar,Yogurt,1
+Cream,Sausage,4
+Common cabbage,Rice,4
+Cabbage,Common sage,2
+Common sage,Garden tomato (var.),1
+Common sage,Red bell pepper,2
+Common sage,Rice,1
+Common wheat,White bread,15
+"Cattle (Beef, Veal)","Sheep (Mutton, Lamb)",3
+Cooking oil,"Sheep (Mutton, Lamb)",1
+Cream,"Sheep (Mutton, Lamb)",2
+Lemon,Red beetroot,6
+Red beetroot,"Sheep (Mutton, Lamb)",2
+"Sheep (Mutton, Lamb)",Vinegar,2
+Cheese,Common wheat,39
+Chicken,Common cabbage,3
+Chicken,Common wheat,12
+Common cabbage,Milk (Cow),5
+Common wheat,Tarragon,1
+Cabbage,Pasta,8
+Cheese,Garden tomato (var.),7
+Cheese,Pasta,12
+Garden tomato (var.),Pasta,6
+Pasta,Potato,10
+Cheese,Grape,1
+Domestic pig,Grape,1
+Grape,Parsley,1
+Grape,Pasta,1
+Grape,Potato,1
+Rice,Sweet marjoram,2
+Common sage,Cream,1
+Domestic pig,White bread,3
+Cream,Parsnip,3
+Caraway,Juniperus communis,2
+Dill,Juniperus communis,2
+Juniperus communis,Sausage,1
+Juniperus communis,Water,1
+Caraway,Common thyme,2
+"Cattle (Beef, Veal)",Honey,2
+Common thyme,Leavening agent,1
+Domestic pig,Leavening agent,1
+Allium,Winter squash,1
+Caraway,Turkey,1
+Caraway,Winter squash,1
+"Cattle (Beef, Veal)",Winter squash,1
+Common thyme,Turkey,1
+Common thyme,Winter squash,1
+Cream,Turkey,1
+Cream,Winter squash,1
+Dill,Winter squash,1
+Olive,Winter squash,1
+Pasta,Sweet bay,3
+Pasta,Turkey,1
+Pasta,Winter squash,1
+Pepper (Spice),Winter squash,1
+Potato,Winter squash,1
+Red bell pepper,Winter squash,1
+Salted butter,Turkey,1
+Soft-necked garlic,Winter squash,1
+Soup,Winter squash,1
+Sweet bay,Winter squash,1
+Turkey,Winter squash,1
+Caraway,White bread,3
+Common wheat,Olive,11
+Corn,Dill,5
+Corn,Pepper (Capsicum),4
+Corn,White bread,1
+Garden tomato (var.),White bread,5
+Molasses,Olive,2
+Molasses,White bread,2
+Olive,Tamarind,1
+Olive,White bread,3
+Sweet marjoram,White bread,2
+Tamarind,White bread,1
+Caraway,Lemon,3
+Cheese,Sweet bay,2
+Allium,Radish,2
+Allium,Rye,5
+Caraway,Radish,1
+Cheese,Radish,1
+Cheese,Rye,1
+Dill,Radish,3
+Dill,Rye,4
+Mustard,Radish,1
+Mustard,Rye,2
+Mustard,White bread,2
+Radish,Red bell pepper,1
+Radish,Rye,1
+Radish,Salted butter,1
+Radish,White bread,1
+Red bell pepper,Rye,2
+Rye,White bread,1
+Ceylon cinnamon,Olive,2
+Chicken,Nutmeg,1
+Garden tomato (var.),Nutmeg,1
+Nutmeg,Parsley,2
+Nutmeg,Sweet marjoram,1
+Parsley,White bread,9
+Parsnip,Red beetroot,2
+Red beetroot,Turnip,2
+Cheese,Lentils,1
+Cheese,Wild celery,1
+Garden tomato (var.),Lentils,2
+Grape wine,Lentils,1
+Lentils,Olive,1
+Lentils,Parsley,1
+Lentils,Pepper (Spice),1
+Lentils,Red bell pepper,1
+Lentils,Soft-necked garlic,1
+Lentils,Soup,1
+Lentils,Sweet bay,1
+Lentils,Wild celery,1
+Chicken,Common bean,1
+Chicken,Red beetroot,2
+Chicken,Soy sauce,1
+Red beetroot,Soy sauce,1
+Common pea,Cumin,1
+Common pea,Grape wine,1
+Common pea,Soft-necked garlic,2
+Common pea,Soup,2
+Cumin,Grape wine,1
+Carrot,"Sheep (Mutton, Lamb)",1
+Common thyme,Garden tomato (var.),2
+Common thyme,"Sheep (Mutton, Lamb)",1
+Common wheat,"Sheep (Mutton, Lamb)",1
+Common wheat,Turnip,1
+Garden tomato (var.),Leek,1
+Garden tomato (var.),Milk (Cow),3
+Leek,"Sheep (Mutton, Lamb)",1
+Leek,Turnip,1
+Milk (Cow),"Sheep (Mutton, Lamb)",3
+Salted butter,"Sheep (Mutton, Lamb)",2
+"Sheep (Mutton, Lamb)",Turnip,1
+Parsley,Root vegetables,1
+Allium,Swiss cheese,4
+"Cattle (Beef, Veal)",Rye,2
+"Cattle (Beef, Veal)",Swiss cheese,2
+Common cabbage,Pasta,6
+Common cabbage,Rye,2
+Common cabbage,Swiss cheese,4
+Common mushroom,Rye,1
+Common mushroom,Swiss cheese,2
+Milk (Cow),Rye,2
+Milk (Cow),Swiss cheese,2
+Mustard,Swiss cheese,2
+Pasta,Rye,1
+Pasta,Swiss cheese,2
+Rye,Swiss cheese,2
+Salted butter,Swiss cheese,4
+Cream,Pepper (C. frutescens),2
+Olive,Pepper (C. frutescens),1
+Pepper (C. frutescens),Potato,1
+Common mushroom,Common pea,2
+Common mushroom,"Sheep (Mutton, Lamb)",1
+Common pea,Milk (Cow),1
+Common pea,Rice,1
+Common pea,Salted butter,2
+Common pea,"Sheep (Mutton, Lamb)",1
+Rice,"Sheep (Mutton, Lamb)",2
+Common wheat,Pasta,6
+Cooking oil,Tamarind,3
+Cream,Tamarind,4
+Molasses,Pasta,2
+Pasta,Tamarind,2
+Pasta,Vinegar,3
+Rice,Tamarind,1
+"Cattle (Beef, Veal)",Common oregano,1
+Common oregano,Cooking oil,3
+Common oregano,Cream,1
+Common oregano,Garden tomato (var.),2
+Common oregano,Parsley,1
+Common oregano,Rice,2
+Common oregano,Sweet marjoram,1
+Cooking oil,Turkey,1
+Allium,Summer savory,2
+"Cattle (Beef, Veal)",Summer savory,2
+Common wheat,Lemon,32
+Common wheat,Summer savory,1
+Cooking oil,Summer savory,1
+Grape wine,Summer savory,1
+Lemon,Summer savory,1
+Parsley,Summer savory,1
+Pasta,Summer savory,1
+Pepper (Capsicum),Summer savory,1
+Red bell pepper,Summer savory,2
+Salted butter,Summer savory,1
+Soup,Summer savory,1
+Summer savory,Sweet bay,1
+Allium,Shiitake,1
+"Cattle (Beef, Veal)",Shiitake,1
+Cooking oil,European plum,4
+Cooking oil,Shiitake,1
+European plum,Honey,1
+European plum,Pepper (Spice),2
+European plum,Shiitake,1
+European plum,Sweet bay,2
+Honey,Red bell pepper,2
+Honey,Shiitake,1
+Honey,Sweet bay,1
+Pepper (Spice),Shiitake,1
+Red bell pepper,Shiitake,1
+Shiitake,Soft-necked garlic,1
+Shiitake,Sweet bay,1
+Allium,Scallop,1
+"Cattle (Beef, Veal)",Scallop,1
+Cream,Lard,7
+Cream,Scallop,1
+Garden tomato (var.),Lard,2
+Garden tomato (var.),Scallop,1
+Garden tomato (var.),Shallot,1
+Lard,Red bell pepper,3
+Lard,Scallop,1
+Red bell pepper,Scallop,1
+Scallop,Shallot,1
+Scallop,Sweet marjoram,1
+Allium,Pistachio,1
+Ceylon cinnamon,Dill,2
+Ceylon cinnamon,Garden tomato (var.),1
+Ceylon cinnamon,Pistachio,1
+Common grape,Garden tomato (var.),1
+Common grape,Pistachio,1
+Dill,Pistachio,1
+Garden tomato (var.),Pistachio,1
+Olive,Pistachio,1
+Pistachio,Rice,1
+Cheese,Molasses,3
+Cheese,Pepper (C. frutescens),1
+Cheese,Tamarind,1
+Chicken,Cream,5
+Chicken,Molasses,1
+Chicken,Pasta,2
+Chicken,Pepper (C. frutescens),1
+Pasta,Pepper (C. frutescens),1
+Chicken,Leavening agent,1
+Garden tomato (var.),Leavening agent,1
+Leavening agent,Mustard,1
+Chives,Soup,2
+Common wheat,Shallot,2
+Chives,Pasta,1
+Cheese,Lard,2
+Cheese,Root vegetables,2
+Domestic pig,Nutmeg,1
+Lard,Nutmeg,3
+Lard,Root vegetables,1
+Cheese,Swiss cheese,2
+Cream,Swiss cheese,2
+Eggs,Swiss cheese,2
+Potato,Swiss cheese,2
+Chicken,Root vegetables,1
+Common cabbage,Scarlet bean,1
+Common wheat,Scarlet bean,2
+Cream,Scarlet bean,2
+Dill,Scarlet bean,1
+Root vegetables,Scarlet bean,1
+Chicken,Common sage,1
+Chicken,Rosemary,1
+Chicken,Sweet basil,1
+Common sage,Common thyme,1
+Common sage,Common wheat,1
+Common sage,Eggs,1
+Common sage,Sweet basil,1
+Common sage,Sweet marjoram,1
+Common sage,Wild celery,1
+Common thyme,Sweet basil,1
+Olive,Sweet basil,1
+Rosemary,Sweet basil,1
+Rosemary,Sweet marjoram,1
+Sweet basil,Wild celery,1
+Chicken,Lard,2
+Common thyme,Lard,1
+Lard,Milk (Cow),9
+Lard,Soft-necked garlic,3
+Allium,Lettuce,3
+Chicken,Lettuce,1
+Eggs,Lettuce,1
+Lettuce,Parsley,4
+Chicken,Rye,1
+Domestic pig,Rye,1
+Eggs,Rye,3
+Olive,Rye,3
+Pepper (Spice),Rye,1
+Rye,Soft-necked garlic,1
+Rye,Soup,1
+Rye,Wild celery,1
+Allium,Other alcoholic beverage,1
+Allium,Robusta coffee,3
+Chives,Other alcoholic beverage,1
+Chives,Robusta coffee,1
+Common wheat,Other alcoholic beverage,3
+Cream,Other alcoholic beverage,4
+Cream,Robusta coffee,2
+Cucumber,Other alcoholic beverage,1
+Cucumber,Robusta coffee,1
+Mustard,Other alcoholic beverage,1
+Mustard,Robusta coffee,1
+Other alcoholic beverage,Parsley,1
+Other alcoholic beverage,Robusta coffee,1
+Parsley,Robusta coffee,1
+Chives,Fishes,2
+Common buckwheat,Fishes,1
+Common wheat,Fishes,3
+Common wheat,Sturgeon,2
+Cream,Fishes,2
+Cream,Pink salmon,3
+Eggs,Fishes,3
+Fishes,Milk (Cow),1
+Fishes,Pink salmon,1
+Fishes,Salted butter,3
+Fishes,Sturgeon,1
+Chives,Rosemary,1
+Common mushroom,Nutmeg,1
+Nutmeg,Olive,1
+Nutmeg,Rosemary,1
+Parsley,Rosemary,1
+Chives,Garden tomato (var.),1
+Common cabbage,European plum,1
+European plum,Sausage,1
+European plum,Water,1
+Common wheat,Swiss cheese,1
+Milk (Cow),Sausage,1
+Pasta,Sausage,1
+Sausage,Swiss cheese,1
+Common cabbage,Lard,1
+Common cabbage,Cumin,1
+Cooking oil,Cumin,3
+Cumin,Molasses,1
+Common grape,Common oregano,1
+Common grape,Cumin,1
+Common grape,Robusta coffee,1
+Common oregano,Cumin,1
+Common oregano,Lemon,2
+Common oregano,Robusta coffee,1
+Common oregano,Yogurt,1
+Cooking oil,Yogurt,1
+Cumin,Rice,1
+Cumin,Robusta coffee,1
+Lemon,Robusta coffee,1
+Pepper (Spice),Robusta coffee,1
+Rice,Yogurt,1
+Robusta coffee,Yogurt,1
+Common mushroom,Soy sauce,1
+Common wheat,Soy sauce,1
+Lemon,Soy sauce,1
+Milk (Cow),Soy sauce,1
+Parsley,Soy sauce,1
+Common wheat,Red beetroot,2
+Common wheat,Cumin,1
+Cumin,Red beetroot,1
+Common wheat,Sweet potato,1
+Allium,Lime,1
+Common wheat,Coriander,1
+Common wheat,Lime,2
+Coriander,Corn,1
+Coriander,Cream,1
+Coriander,Lime,1
+Corn,Lime,1
+Cream,Lime,1
+Garden tomato (var.),Lime,1
+Lime,Pepper (Capsicum),1
+Lime,Salted butter,2
+Lime,Sausage,1
+Common wheat,Sherry,1
+Corn,Sherry,1
+Corn,Sweet bay,2
+Cream,Sherry,1
+Domestic pig,Sherry,1
+Molasses,Sherry,1
+Sherry,Sweet bay,1
+Sherry,Tamarind,1
+Sherry,Vinegar,1
+Sherry,Wild celery,1
+Common wheat,Mentha,1
+Cucumber,Mentha,1
+Garden tomato (var.),Mentha,2
+Mentha,Parsley,2
+Fishes,Soft-necked garlic,3
+Fishes,White bread,2
+Eggs,Tamarind,2
+Molasses,Parsley,2
+Mustard,Pepper (Capsicum),1
+Parsley,Tamarind,2
+Garden tomato (var.),Horseradish,1
+Horseradish,Molasses,1
+Horseradish,Tamarind,1
+Allium,Fenugreek,1
+Coriander,Fenugreek,2
+Dill,Fenugreek,2
+Dill,Summer savory,1
+Domestic pig,Fenugreek,1
+Fenugreek,Olive,1
+Fenugreek,Potato,1
+Fenugreek,Soft-necked garlic,2
+Fenugreek,Summer savory,1
+Potato,Summer savory,2
+Allium,Haddock,1
+Cream,Haddock,1
+Haddock,Milk (Cow),1
+Haddock,Parsley,1
+Haddock,Pepper (Spice),1
+Haddock,Potato,1
+Haddock,Salted butter,1
+Haddock,Water,1
+Haddock,Wild celery,1
+Cumin,Mentha,1
+Cumin,"Sheep (Mutton, Lamb)",1
+Cumin,Sweet basil,1
+Cumin,White bread,2
+Mentha,Red bell pepper,1
+Mentha,"Sheep (Mutton, Lamb)",2
+Mentha,Sweet basil,1
+Pepper (Capsicum),"Sheep (Mutton, Lamb)",2
+"Sheep (Mutton, Lamb)",Sweet basil,1
+"Sheep (Mutton, Lamb)",White bread,3
+Sweet basil,White bread,1
+Garden tomato (var.),Rye,1
+Lemon,Molasses,4
+Lemon,Pepper (C. frutescens),1
+Lemon,Tamarind,1
+Lettuce,Milk (Cow),1
+Lettuce,"Sheep (Mutton, Lamb)",1
+Lettuce,Yogurt,1
+White bread,Yogurt,1
+Almond,Dill,1
+Apricot,Dill,1
+Barley,Dill,1
+Almond,Molasses,2
+Blackcurrant,Ceylon cinnamon,2
+Blackcurrant,Common wheat,4
+Blackcurrant,Molasses,2
+Blackcurrant,Sweet orange,2
+Milk (Cow),Molasses,3
+Molasses,Sweet orange,3
+Almond,Rice,2
+Ceylon cinnamon,Citrus,1
+Ceylon cinnamon,Fruit salad,1
+Citrus,Cocoa powder,1
+Citrus,Common wheat,1
+Citrus,Fruit salad,1
+Citrus,Ginger,1
+Citrus,Hazelnut,1
+Citrus,Honey,1
+Citrus,Molasses,1
+Citrus,Rice,1
+Citrus,Sweet orange,1
+Cocoa powder,Fruit salad,1
+Cocoa powder,Lemon,3
+Common wheat,Fruit salad,7
+Common wheat,Hazelnut,8
+Common wheat,Rice,9
+Fruit salad,Ginger,2
+Fruit salad,Hazelnut,1
+Fruit salad,Molasses,1
+Fruit salad,Rice,1
+Fruit salad,Sweet orange,2
+Ginger,Rice,1
+Ginger,Sweet orange,2
+Hazelnut,Lemon,2
+Hazelnut,Molasses,2
+Hazelnut,Rice,2
+Honey,Molasses,3
+Honey,Rice,1
+Rice,Sweet orange,2
+Almond,European plum,1
+Ceylon cinnamon,European plum,2
+Almond,Robusta coffee,1
+Cocoa powder,Liquor,1
+Common wheat,Liquor,11
+Liquor,Robusta coffee,1
+Fruit salad,Nutmeg,1
+Almond,Herbs and Spices,1
+Almond,"Prunus (Cherry, Plum)",2
+Common wheat,Herbs and Spices,1
+Common wheat,"Prunus (Cherry, Plum)",6
+Cooking oil,Herbs and Spices,2
+Cooking oil,"Prunus (Cherry, Plum)",2
+Cream,"Prunus (Cherry, Plum)",2
+Eggs,Herbs and Spices,1
+Herbs and Spices,Liquor,1
+Herbs and Spices,"Prunus (Cherry, Plum)",1
+Herbs and Spices,Vanilla,1
+Liquor,"Prunus (Cherry, Plum)",2
+Corn,Liquor,1
+Corn,"Prunus (Cherry, Plum)",1
+Lemon,"Prunus (Cherry, Plum)",2
+Rice,Sour cherry,1
+American cranberry,Common wheat,2
+American cranberry,Hazelnut,1
+American cranberry,Sweet orange,1
+American cranberry,Vanilla,1
+Black walnut,Common wheat,15
+Apple,Banana,1
+Apple,Buttermilk,1
+Apple,Lard,1
+Banana,Buttermilk,1
+Banana,Ceylon cinnamon,1
+Banana,Common wheat,2
+Banana,Eggs,2
+Banana,Lard,2
+Banana,Nutmeg,1
+Banana,Vanilla,2
+Buttermilk,Ceylon cinnamon,1
+Buttermilk,Common wheat,2
+Buttermilk,Lard,1
+Buttermilk,Nutmeg,1
+Ceylon cinnamon,Lard,1
+Lard,Vanilla,6
+Black walnut,Ginger,1
+Black walnut,Milk (Cow),9
+Black walnut,Molasses,3
+Black walnut,Nutmeg,1
+Cheese,Ginger,1
+Molasses,Nutmeg,2
+Black walnut,"Prunus (Cherry, Plum)",2
+Molasses,"Prunus (Cherry, Plum)",1
+Apple,Fishes,1
+Apple,Lettuce,1
+Apple,Red beetroot,1
+Apple,Roe,1
+Caraway,Fishes,2
+Caraway,Horseradish,1
+Caraway,Lettuce,1
+Caraway,Roe,1
+Cooking oil,Fishes,1
+Cooking oil,Roe,1
+Cream,Lettuce,1
+Cream,Roe,2
+Cucumber,Fishes,1
+Cucumber,Roe,1
+Dill,Fishes,3
+Dill,Lettuce,1
+Dill,Roe,1
+Fishes,Grape wine,2
+Fishes,Horseradish,1
+Fishes,Lettuce,1
+Fishes,Pepper (Spice),2
+Fishes,Red beetroot,1
+Fishes,Roe,1
+Fishes,Vinegar,1
+Grape wine,Lettuce,2
+Grape wine,Roe,1
+Horseradish,Roe,1
+Lemon,Roe,1
+Lettuce,Olive,3
+Lettuce,Pepper (Spice),1
+Lettuce,Red beetroot,1
+Lettuce,Roe,1
+Lettuce,Vinegar,2
+Olive,Red beetroot,5
+Olive,Roe,1
+Parsley,Roe,1
+Pepper (Spice),Roe,1
+Red beetroot,Roe,1
+Roe,Soft-necked garlic,1
+Roe,Vinegar,1
+Apple,European plum,1
+"Cattle (Beef, Veal)",Common grape,1
+Common grape,European plum,1
+Common grape,Parsley,1
+Common grape,Red bell pepper,1
+Common grape,Wild celery,1
+European plum,Parsley,1
+European plum,Wild celery,1
+Common wheat,Parsnip,1
+Apple,Liquor,1
+Apple,Pecan nut,1
+Common grape,Pecan nut,1
+Common wheat,Pecan nut,3
+Cooking oil,Pecan nut,1
+Eggs,Pecan nut,3
+Lemon,Pecan nut,1
+Liquor,Pecan nut,1
+Milk (Cow),Pecan nut,1
+Pecan nut,Sweet orange,1
+Apple cider,Brussel sprouts,1
+Apple cider,Rice,1
+Brussel sprouts,Dill,1
+Brussel sprouts,Garden tomato (var.),2
+Brussel sprouts,Rice,1
+Brussel sprouts,Salted butter,2
+Brussel sprouts,Soup,1
+Brussel sprouts,Vinegar,1
+Apple cider,Cocoa powder,1
+Apple cider,Common wheat,1
+Apple cider,Fennel,1
+Apple cider,Leavening agent,1
+Apple cider,Robusta coffee,1
+Apple cider,Rye,1
+Cocoa powder,Dill,1
+Dill,Fennel,1
+Dill,Robusta coffee,1
+Apple cider,Horseradish,1
+Apricot,Black walnut,5
+Apricot,Pasta,1
+Apricot,Potato,1
+Black walnut,Liquor,2
+Black walnut,Pasta,1
+Ceylon cinnamon,Pasta,1
+Cheese,Liquor,2
+Liquor,White bread,1
+Pasta,White bread,1
+Black walnut,Cream,3
+Honey,White bread,1
+Apricot,Fruit salad,1
+Cocoa powder,Milk (Cow),5
+Apricot,Mixed nuts,1
+Apricot,Rice,1
+Hazelnut,Mixed nuts,1
+Milk (Cow),Mixed nuts,2
+Mixed nuts,Rice,1
+Banana,Cocoa powder,1
+Banana,Cream,1
+Banana,Milk (Cow),1
+Banana,Salted butter,1
+Cocoa powder,Lard,2
+Black walnut,Common grape,5
+Black walnut,Grape wine,1
+Black walnut,Lard,1
+Black walnut,Mixed nuts,1
+Lard,"Prunus (Cherry, Plum)",1
+Mixed nuts,"Prunus (Cherry, Plum)",1
+Blackcurrant,Lard,1
+Common grape,Lard,2
+Lard,Lemon,3
+Lard,Molasses,2
+Lard,Sweet orange,2
+Blackcurrant,Gelatin,2
+Blackcurrant,Liquor,1
+Blackcurrant,Rice,1
+Gelatin,Liquor,1
+Gelatin,Rice,1
+Liquor,Rice,1
+Gelatin,"Rubus (Blackberry, Raspberry)",1
+Gelatin,Strawberry,2
+Milk (Cow),"Rubus (Blackberry, Raspberry)",3
+Brussel sprouts,Common oregano,1
+Brussel sprouts,Pepper (Spice),1
+Brussel sprouts,Root vegetables,1
+Brussel sprouts,Sausage,1
+Brussel sprouts,Soft-necked garlic,1
+Common oregano,Root vegetables,1
+Common oregano,Soft-necked garlic,2
+Buttermilk,Caraway,1
+Buttermilk,Rye,1
+Buttermilk,Cream,1
+Buttermilk,Radish,2
+Buttermilk,Red beetroot,2
+Cream,Radish,1
+Cucumber,Radish,2
+Radish,Red beetroot,1
+Radish,Vinegar,1
+Cheese,Lettuce,1
+Lettuce,Mustard,1
+Caraway,Grape,1
+Garden tomato (var.),Grape,1
+Grape,Red bell pepper,1
+Cheese,Fishes,1
+Fishes,Leavening agent,1
+Fishes,Shallot,1
+Leavening agent,Shallot,1
+Caraway,Milk (Cow),1
+Common cabbage,White bread,1
+Cardamom,Common wheat,1
+Cardamom,Pecan nut,1
+Common wheat,Strawberry,4
+Pecan nut,Salted butter,2
+Pecan nut,Strawberry,1
+Pecan nut,Vanilla,2
+Cumin,Summer savory,1
+Eggs,Summer savory,1
+Garden tomato (var.),Summer savory,1
+Pepper (Spice),Summer savory,1
+Summer savory,Yogurt,1
+Domestic pig,"Sheep (Mutton, Lamb)",1
+Eggs,"Sheep (Mutton, Lamb)",1
+"Cattle (Beef, Veal)",Robusta coffee,1
+"Cattle (Beef, Veal)",Sweet potato,1
+Domestic pig,Horseradish,1
+Domestic pig,Robusta coffee,1
+Domestic pig,Sweet potato,1
+Horseradish,Lard,1
+Horseradish,Robusta coffee,1
+Horseradish,Sweet potato,1
+Lard,Robusta coffee,1
+Lard,Sweet potato,1
+Olive,Robusta coffee,2
+Olive,Sweet potato,1
+Robusta coffee,Soft-necked garlic,1
+Robusta coffee,Sweet potato,1
+Salted butter,Sweet potato,1
+Soft-necked garlic,Sweet potato,1
+Ceylon cinnamon,Pecan nut,1
+Cocoa powder,Pecan nut,1
+Cream,Pecan nut,1
+Ceylon cinnamon,Lime,1
+Eggs,Lime,1
+European plum,Leavening agent,1
+European plum,Lime,1
+European plum,White bread,2
+Leavening agent,Lime,1
+Lime,White bread,1
+Ceylon cinnamon,"Prunus (Cherry, Plum)",1
+Hazelnut,Nutmeg,1
+Hazelnut,"Prunus (Cherry, Plum)",1
+Nutmeg,"Prunus (Cherry, Plum)",1
+Lard,Leavening agent,4
+Cheese,Common thyme,1
+Cheese,Hazelnut,1
+Common thyme,Hazelnut,1
+Hazelnut,Olive,1
+Hazelnut,Pepper (Spice),1
+Cucumber,White bread,1
+Sausage,White bread,1
+Chicken,Fishes,1
+Chicken,Swiss cheese,1
+Parsley,Swiss cheese,1
+Pepper (Spice),Swiss cheese,1
+Chicken,Common oregano,1
+Common oregano,Vinegar,1
+Chickpea,Cumin,1
+Chickpea,Lemon,1
+Chickpea,Mixed nuts,1
+Chickpea,Parsley,1
+Chickpea,Sesame,1
+Chickpea,White bread,1
+Cumin,Mixed nuts,1
+Cumin,Sesame,1
+Lemon,Mixed nuts,1
+Lemon,Sesame,1
+Mixed nuts,Olive,1
+Mixed nuts,Parsley,1
+Mixed nuts,Sesame,1
+Mixed nuts,Soft-necked garlic,1
+Mixed nuts,White bread,1
+Olive,Sesame,1
+Parsley,Sesame,1
+Sesame,Soft-necked garlic,1
+Sesame,White bread,1
+Clam,Common wheat,1
+Clam,Cream,2
+Clam,Lard,1
+Clam,Pink salmon,1
+Common wheat,Shiitake,1
+Cream,Shiitake,1
+Grape wine,Pink salmon,1
+Lard,Leek,1
+Lard,Pink salmon,1
+Lard,Rice,1
+Lard,Shiitake,1
+Leek,Pink salmon,1
+Pink salmon,Shiitake,1
+Cocoa powder,Coconut,1
+Cocoa powder,Common grape,1
+Cocoa powder,Potato,1
+Coconut,Lemon,1
+Coconut,Other alcoholic beverage,1
+Coconut,Potato,1
+Cocoa powder,Herbal tea,2
+Cocoa powder,White bread,1
+Common wheat,Herbal tea,2
+Eggs,Herbal tea,2
+Hazelnut,Herbal tea,1
+Hazelnut,White bread,1
+Herbal tea,Salted butter,2
+Herbal tea,White bread,1
+Herbal tea,Leavening agent,1
+Herbal tea,Milk (Cow),1
+Cream,Mixed nuts,1
+Common buckwheat,Roe,1
+Common wheat,Roe,1
+Eggs,Roe,1
+Leavening agent,Roe,1
+Milk (Cow),Roe,1
+Roe,Salted butter,1
+Roe,Sturgeon,1
+Dill,Vanilla,5
+Cooking oil,Fruit salad,1
+Cream,Fruit salad,2
+Common wheat,"Rubus (Blackberry, Raspberry)",1
+Cooking oil,"Rubus (Blackberry, Raspberry)",1
+Leavening agent,Strawberry,1
+Dill,Sweet orange,1
+Common wheat,Pear,1
+Cream,Pear,1
+Eggs,Pear,1
+Grape wine,Pear,1
+Grape wine,Vanilla,1
+Milk (Cow),Pear,1
+Pear,Salted butter,1
+Pear,Vanilla,1
+Other alcoholic beverage,Vinegar,1
+Cream,Strawberry,1
+Gelatin,Sweet orange,1
+Grape wine,Scarlet bean,1
+Milk (Cow),Scarlet bean,1
+Scarlet bean,Vinegar,1
+European plum,Lard,1
+European plum,Molasses,1
+European plum,Potato,1
+Lard,Potato,1
+Lard,White bread,1
+Molasses,Potato,1
+Fruit salad,Lard,2
+Lard,Liquor,1
+Common wheat,Saffron,1
+Common wheat,Sesame,1
+Eggs,Sesame,1
+Leavening agent,Sesame,1
+Milk (Cow),Sesame,1
+Salted butter,Sesame,1
+Fenugreek,Grape wine,1
+Fenugreek,Pepper (Capsicum),1
+Fenugreek,Red bell pepper,1
+Fenugreek,Sweet basil,1
+Fenugreek,Vinegar,1
+Corn,Red beetroot,2
+Cream,Watercress,1
+Grape wine,Watercress,1
+Red beetroot,Watercress,1
+Corn,Fishes,1
+Cream,Sour cherry,1
+Eggs,Pistachio,1
+Pistachio,Sour cherry,1
+Pasta,Red beetroot,1
+Pepper (Capsicum),Red beetroot,1
+Grape wine,Mentha,1
+Mentha,Mustard,1
+Mentha,Rice,1
+Mentha,Shallot,1
+Mentha,Vinegar,1
+Mustard,Rice,1
+Mustard,"Sheep (Mutton, Lamb)",1
+Red beetroot,Sweet orange,1
+Sweet orange,Vinegar,1
+Black walnut,Other bread product,1
+Parsley,Spinach,1
+Canola oil,Pasta,2
+Allium,Chili,1
+Cabbage,Chili,1
+"Cattle (Beef, Veal)",Chili,1
+Chili,Deer,1
+Chili,Dill,1
+Chili,Domestic pig,1
+Chili,Garden tomato (var.),1
+Chili,Ketchup,1
+Chili,Rice,1
+Chili,Soft-necked garlic,1
+Chili,Soup,1
+Deer,Domestic pig,1
+Deer,Garden tomato (var.),1
+Canola oil,Red beetroot,1
+Leavening agent,Swiss cheese,1
+Salt,Swiss cheese,1
+Sour cream,Swiss cheese,1
+Buttermilk,Potato,2
+Cabbage,Pink salmon,1
+Pink salmon,Soup,1
+Cardamom,Liquor,1
+Honey,Liquor,1
+Honey,Saffron,1
+Citrus,Other alcoholic beverage,1
+Carrot,Eggplant,1
+Eggplant,Olive,2
+Carrot,Pink salmon,1
+Common cabbage,Cucumber,1
+Common cabbage,Red beetroot,1
+Beer,Caraway,1
+Beer,Cocoa powder,1
+Beer,Common wheat,1
+Beer,Eggs,1
+Beer,Honey,1
+Beer,Leavening agent,1
+Beer,Molasses,1
+Beer,Robusta coffee,1
+Beer,Rye,1
+Cocoa powder,Olive,1
+Honey,Rye,1
+Buttermilk,Sausage,1
+Eggs,Radish,1
+Potato,Radish,1
+Radish,Sausage,1
+Garden tomato (var.),Salad dressing,1
+Common pea,Red beetroot,2
+Common pea,Sunflower,1
+Red beetroot,Sunflower,1
+Red bell pepper,Sunflower,1
+Sunflower,Vinegar,1
+Shortening,Sweet orange,1
+Allspice,Pineapple,1
+Allspice,Sweet orange,1
+Cloves,Pineapple,1
+Lemon,Pineapple,1
+Pineapple,Sugar,1
+Pineapple,Sweet orange,1
+Pineapple,Water,1
+Dulce de leche,Leavening agent,1
+Dulce de leche,Opium poppy,1
+Dulce de leche,Salted butter,1
+Dulce de leche,Sour cream,1
+Dulce de leche,Sugar,1
+Dulce de leche,Wheat,1
+Milk (Cow),Salad dressing,1
+Atlantic herring,Red beetroot,1
+Cheese,Red beetroot,1
+Herbs and Spices,Rice,1
+Black walnut,Pomegranate,1
+Carrot,Pomegranate,1
+Chicken,Pomegranate,1
+Cooking oil,Pomegranate,1
+Eggs,Pomegranate,1
+Pomegranate,Potato,1
+Pomegranate,Red beetroot,1
+Black walnut,Pineapple,1
+Cheese,Pineapple,2
+Chicken,Pineapple,1
+Pineapple,Salad dressing,2
+Pineapple,Salt,2
+Pineapple,Soft-necked garlic,1
+Pineapple,Sour cream,1
+Eggplant,Ketchup,1
+Garden tomato (var.),Lettuce,1
+Green bean,Soup,1
+Black walnut,Condensed milk,2
+Black walnut,Opium poppy,2
+Common grape,Condensed milk,1
+Black walnut,Margarine-like spread,1
+Black walnut,Water,2
+Condensed milk,Margarine-like spread,1
+Lemon,Margarine-like spread,1
+Common pea,Sugar,1
+Common pea,Wheat,1
+Cucumber,Turkey,1
+Crab,Cucumber,1
+Crab,Dill,1
+Crab,Rice,1
+Crab,Soft-necked garlic,1
+Crab,Water,1
+Cucumber,Rice,1
+Rice,Salad dressing,1
+Cheese,Shrimp,1
+Eggs,Pineapple,1
+Pineapple,Shrimp,1
+Cream,Ketchup,1
+Green zucchini,Salted butter,1
+Green zucchini,Sugar,1
+Allium,Bean,1
+Bean,Carrot,1
+Bean,Common bean,1
+Bean,Common mushroom,1
+Bean,Common pea,1
+Bean,Cooking oil,1
+Bean,Corn,1
+Bean,Cucumber,1
+Bean,Dill,1
+Bean,Potato,1
+Bean,Red beetroot,1
+Common bean,Common pea,1
+Common bean,Corn,1
+Olive,Turnip,1
+Sugar,Turnip,1
+Cucumber,Sweet marjoram,1
+Millet,Rice,1
+Millet,Salted butter,1
+Millet,Winter squash,1
+Sunflower,Water,1
+Sunflower,Wheat,1
+Garden tomato (var.),Swiss chard,1
+Garden tomato (var.),Tofu,1
+Red beetroot,Swiss chard,1
+Red beetroot,Tofu,1
+Cooking oil,Lentils,1
+Lentils,Red beetroot,1
+Lentils,Sour cream,1
+Evaporated milk,Pasta,1

@@ -1,0 +1,133 @@
+Beverages,Milk and milk products,30
+Beverages,Baking goods,62
+Milk and milk products,Baking goods,86
+Baking goods,Gourds,8
+Milk and milk products,Gourds,2
+Beverages,Gourds,4
+Baking goods,Baking goods,106
+Gourds,Baking goods,5
+Herbs and Spices,Gourds,3
+Baking goods,Milk and milk products,105
+Herbs and Spices,Baking goods,64
+Herbs and Spices,Milk and milk products,54
+Beverages,Herbs and Spices,33
+Baking goods,Vegetables,52
+Vegetables,Milk and milk products,42
+Baking goods,Eggs,49
+Baking goods,Herbs and Spices,68
+Vegetables,Baking goods,62
+Vegetables,Herbs and Spices,33
+Milk and milk products,Herbs and Spices,37
+Herbs and Spices,Herbs and Spices,26
+Eggs,Herbs and Spices,21
+Eggs,Cereals and cereal products,36
+Herbs and Spices,Cereals and cereal products,12
+Cereals and cereal products,Baking goods,27
+Milk and milk products,Milk and milk products,44
+Eggs,Baking goods,57
+Eggs,Milk and milk products,39
+Milk and milk products,Cereals and cereal products,30
+Milk and milk products,Eggs,34
+Baking goods,Beverages,47
+Beverages,Beverages,3
+Vegetables,Beverages,27
+Fruits,Herbs and Spices,5
+Fruits,Milk and milk products,9
+Milk and milk products,Beverages,24
+Herbs and Spices,Beverages,17
+Baking goods,Cereals and cereal products,50
+Herbs and Spices,Vegetables,31
+Vegetables,Cereals and cereal products,12
+Cereals and cereal products,Herbs and Spices,13
+Eggs,Fruits,4
+Cereals and cereal products,Fruits,5
+Baking goods,Fruits,15
+Milk and milk products,Fruits,8
+Milk and milk products,Confectioneries,5
+Baking goods,Confectioneries,9
+Milk and milk products,Vegetables,33
+Vegetables,Confectioneries,1
+Eggs,Vegetables,14
+Beverages,Vegetables,26
+Beverages,Eggs,8
+Cereals and cereal products,Cereals and cereal products,2
+Cereals and cereal products,Eggs,8
+Cereals and cereal products,Milk and milk products,18
+Fats and oils,Milk and milk products,2
+Confectioneries,Milk and milk products,6
+Eggs,Fats and oils,2
+Baking goods,Fats and oils,4
+Eggs,Confectioneries,4
+Fats and oils,Confectioneries,1
+Vegetables,Vegetables,27
+Beverages,Cereals and cereal products,13
+Cereals and cereal products,Vegetables,7
+Fats and oils,Baking goods,2
+Fats and oils,Herbs and Spices,2
+Fats and oils,Beverages,1
+Herbs and Spices,Eggs,14
+Fats and oils,Eggs,1
+Fats and oils,Vegetables,1
+Fruits,Beverages,3
+Vegetables,Fruits,11
+Fruits,Baking goods,10
+Eggs,Beverages,13
+Confectioneries,Vegetables,1
+Confectioneries,Fruits,4
+Fruits,Vegetables,5
+Vegetables,Eggs,14
+Aquatic foods,Beverages,1
+Confectioneries,Baking goods,8
+Confectioneries,Beverages,3
+Aquatic foods,Fruits,1
+Aquatic foods,Baking goods,1
+Confectioneries,Aquatic foods,1
+Beverages,Fruits,10
+Baking goods,Cocoa and cocoa products,4
+Milk and milk products,Cocoa and cocoa products,3
+Cereals and cereal products,Cocoa and cocoa products,2
+Gourds,Milk and milk products,5
+Gourds,Herbs and Spices,4
+Eggs,Gourds,2
+Baking goods,Soy,2
+Soy,Baking goods,1
+Soy,Vegetables,2
+Vegetables,Gourds,2
+Confectioneries,Cereals and cereal products,4
+Herbs and Spices,Fruits,7
+Herbs and Spices,Animal foods,1
+Eggs,Cocoa and cocoa products,1
+Confectioneries,Herbs and Spices,4
+Coffee and coffee products,Baking goods,1
+Baking goods,Coffee and coffee products,1
+Coffee and coffee products,Cereals and cereal products,1
+Coffee and coffee products,Eggs,1
+Cereals and cereal products,Beverages,3
+Confectioneries,Eggs,1
+Herbs and Spices,Confectioneries,2
+Gourds,Eggs,1
+Beverages,Aquatic foods,1
+Aquatic foods,Herbs and Spices,1
+Aquatic foods,Vegetables,1
+Soy,Beverages,2
+Soy,Herbs and Spices,1
+Animal foods,Baking goods,2
+Milk and milk products,Aquatic foods,1
+Baking goods,Aquatic foods,1
+Aquatic foods,Milk and milk products,1
+Eggs,Aquatic foods,1
+Milk and milk products,Fats and oils,3
+Cocoa and cocoa products,Baking goods,1
+Animal foods,Eggs,1
+Vegetables,Fats and oils,1
+Fats and oils,Cereals and cereal products,1
+Beverages,Confectioneries,2
+Herbs and Spices,Soy,1
+Vegetables,Soy,1
+Soy,Milk and milk products,1
+Gourds,Beverages,1
+Gourds,Vegetables,1
+Animal foods,Milk and milk products,1
+Beverages,Animal foods,1
+Baking goods,Animal foods,1
+Beverages,Fats and oils,1

@@ -1,0 +1,130 @@
+Milk and milk products,Fruits,12
+Baking goods,Beverages,27
+Beverages,Vegetables,19
+Beverages,Beverages,5
+Baking goods,Baking goods,27
+Baking goods,Vegetables,40
+Beverages,Baking goods,34
+Vegetables,Vegetables,41
+Vegetables,Baking goods,49
+Milk and milk products,Baking goods,46
+Beverages,Milk and milk products,26
+Vegetables,Beverages,29
+Milk and milk products,Beverages,18
+Baking goods,Milk and milk products,46
+Milk and milk products,Milk and milk products,37
+Vegetables,Milk and milk products,37
+Animal foods,Herbs and Spices,5
+Herbs and Spices,Vegetables,28
+Animal foods,Baking goods,7
+Baking goods,Herbs and Spices,36
+Animal foods,Vegetables,5
+Vegetables,Herbs and Spices,45
+Milk and milk products,Herbs and Spices,41
+Milk and milk products,Vegetables,22
+Herbs and Spices,Baking goods,42
+Confectioneries,Nuts,4
+Baking goods,Nuts,6
+Fruits,Baking goods,9
+Milk and milk products,Nuts,12
+Confectioneries,Beverages,4
+Fruits,Beverages,4
+Baking goods,Confectioneries,3
+Fruits,Confectioneries,3
+Nuts,Beverages,2
+Milk and milk products,Confectioneries,7
+Fruits,Milk and milk products,10
+Fruits,Nuts,7
+Herbs and Spices,Nuts,7
+Cereals and cereal products,Baking goods,8
+Beverages,Cereals and cereal products,6
+Cereals and cereal products,Vegetables,5
+Herbs and Spices,Herbs and Spices,27
+Beverages,Herbs and Spices,23
+Vegetables,Confectioneries,1
+Herbs and Spices,Milk and milk products,24
+Confectioneries,Milk and milk products,3
+Beverages,Confectioneries,4
+Herbs and Spices,Confectioneries,3
+Baking goods,Coffee and coffee products,1
+Baking goods,Cocoa and cocoa products,1
+Beverages,Fats and oils,1
+Fats and oils,Cocoa and cocoa products,1
+Beverages,Coffee and coffee products,2
+Fats and oils,Coffee and coffee products,1
+Beverages,Cocoa and cocoa products,1
+Cocoa and cocoa products,Coffee and coffee products,2
+Baking goods,Fats and oils,1
+Vegetables,Cereals and cereal products,6
+Cereals and cereal products,Herbs and Spices,7
+Baking goods,Cereals and cereal products,2
+Herbs and Spices,Beverages,12
+Animal foods,Beverages,2
+Milk and milk products,Animal foods,3
+Beverages,Fruits,6
+Fruits,Herbs and Spices,10
+Vegetables,Animal foods,7
+Animal foods,Fruits,2
+Herbs and Spices,Fruits,9
+Vegetables,Fruits,5
+Pulses,Herbs and Spices,1
+Vegetables,Pulses,1
+Pulses,Vegetables,1
+Pulses,Milk and milk products,1
+Baking goods,Fruits,7
+Herbs and Spices,Dishes,1
+Dishes,Baking goods,1
+Fruits,Vegetables,3
+Nuts,Herbs and Spices,2
+Nuts,Baking goods,3
+Herbs and Spices,Cereals and cereal products,1
+Vegetables,Nuts,2
+Gourds,Milk and milk products,3
+Baking goods,Gourds,2
+Vegetables,Gourds,4
+Cereals and cereal products,Milk and milk products,4
+Gourds,Fruits,1
+Gourds,Baking goods,3
+Gourds,Herbs and Spices,3
+Milk and milk products,Cereals and cereal products,3
+Confectioneries,Confectioneries,1
+Confectioneries,Herbs and Spices,2
+Confectioneries,Baking goods,3
+Beverages,Nuts,4
+Milk and milk products,Gourds,1
+Cereals and cereal products,Fruits,1
+Cereals and cereal products,Beverages,1
+Fats and oils,Beverages,1
+Fats and oils,Fruits,1
+Fats and oils,Nuts,1
+Fats and oils,Fats and oils,1
+Fats and oils,Milk and milk products,1
+Nuts,Nuts,1
+Fruits,Fruits,2
+Nuts,Fruits,3
+Confectioneries,Fruits,1
+Coffee and coffee products,Beverages,1
+Cocoa and cocoa products,Confectioneries,1
+Coffee and coffee products,Baking goods,1
+Coffee and coffee products,Confectioneries,1
+Cocoa and cocoa products,Beverages,1
+Cocoa and cocoa products,Herbs and Spices,1
+Coffee and coffee products,Herbs and Spices,1
+Cocoa and cocoa products,Baking goods,1
+Beverages,Gourds,1
+Cereals and cereal products,Gourds,1
+Beverages,Aquatic foods,1
+Cereals and cereal products,Aquatic foods,1
+Cereals and cereal products,Cereals and cereal products,1
+Aquatic foods,Herbs and Spices,1
+Nuts,Milk and milk products,3
+Fruits,Animal foods,1
+Animal foods,Milk and milk products,2
+Animal foods,Nuts,1
+Baking goods,Animal foods,3
+Nuts,Animal foods,1
+Gourds,Vegetables,1
+Herbs and Spices,Gourds,1
+Animal foods,Gourds,1
+Herbs and Spices,Animal foods,2
+Beverages,Animal foods,1

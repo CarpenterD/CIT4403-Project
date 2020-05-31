@@ -1,0 +1,151 @@
+Onion-family vegetables,Herbs,18
+Pomes,Pomes,1
+Onion-family vegetables,Pomes,10
+Onion-family vegetables,Cabbages,32
+Cabbages,Berries,1
+Onion-family vegetables,Berries,1
+Pomes,Berries,1
+Pomes,Cabbages,1
+Onion-family vegetables,Drupes,2
+Onion-family vegetables,Root vegetables,24
+Drupes,Root vegetables,1
+Drupes,Herbs,1
+Onion-family vegetables,Shoot vegetables,1
+Cabbages,Condiments,1
+Fermented beverages,Tubers,1
+Fermented beverages,Condiments,1
+Onion-family vegetables,Condiments,2
+Fermented beverages,Cabbages,1
+Cabbages,Tubers,1
+Onion-family vegetables,Tubers,3
+Condiments,Tubers,1
+Onion-family vegetables,Fermented beverages,1
+Cabbages,Root vegetables,8
+Root vegetables,Herbs,2
+Root vegetables,Root vegetables,1
+Root vegetables,Cabbages,1
+Cabbages,Herbs,4
+Spices,Root vegetables,4
+Cabbages,Spices,3
+Onion-family vegetables,Spices,14
+Spices,Herbs,2
+Cabbages,Other milk products,2
+Onion-family vegetables,Other milk products,9
+Root vegetables,Other milk products,2
+Other milk products,Herbs,6
+Onion-family vegetables,Fermented milk products,23
+Cabbages,Poultry,2
+Cabbages,Fermented milk products,6
+Onion-family vegetables,Poultry,16
+Fermented milk products,Poultry,3
+Fermented milk products,Other milk products,5
+Fermented milk products,Herbs,5
+Poultry,Eggs,2
+Onion-family vegetables,Eggs,4
+Cabbages,Eggs,1
+Onion-family vegetables,Fruit vegetables,3
+Cabbages,Cereal products,2
+Cabbages,Fruit vegetables,1
+Onion-family vegetables,Cereal products,3
+Cereal products,Fruit vegetables,2
+Spices,Fermented milk products,3
+Spices,Condiments,1
+Fermented milk products,Condiments,1
+Condiments,Root vegetables,1
+Fermented milk products,Root vegetables,1
+Herbs,Condiments,1
+Herbs,Root vegetables,2
+Root vegetables,Fermented milk products,1
+Root vegetables,Poultry,2
+Herbs,Other milk products,1
+Other milk products,Tubers,2
+Fermented milk products,Eggs,4
+Other milk products,Eggs,4
+Fermented milk products,Tubers,3
+Eggs,Tubers,2
+Fermented milk products,Fruit vegetables,2
+Herbs,Eggs,2
+Herbs,Fruit vegetables,4
+Eggs,Fruit vegetables,2
+Cereal products,Tubers,1
+Fermented milk products,Cereal products,1
+Poultry,Herbs,3
+Herbs,Herbs,3
+Onion-family vegetables,Fishes,1
+Other milk products,Fishes,1
+Onion-family vegetables,Gourds,1
+Citrus,Fruit vegetables,2
+Onion-family vegetables,Citrus,2
+Citrus,Baking goods,1
+Baking goods,Fruit vegetables,1
+Onion-family vegetables,Baking goods,1
+Onion-family vegetables,Leaf vegetables,1
+Drupes,Cereals,1
+Nuts,Cereals,1
+Nuts,Drupes,1
+Nuts,Berries,4
+Berries,Citrus,1
+Berries,Fermented milk products,1
+Nuts,Fermented milk products,1
+Other milk products,Citrus,2
+Nuts,Citrus,1
+Nuts,Other milk products,1
+Fermented milk products,Citrus,1
+Berries,Other milk products,1
+Pomes,Fermented milks,1
+Pomes,Tropical fruits,1
+Tropical fruits,Fermented milks,1
+Pomes,Spices,1
+Pomes,Fermented milk products,1
+Pomes,Herbs,1
+Drupes,Fermented milk products,2
+Eggs,Baking goods,2
+Berries,Baking goods,1
+Berries,Eggs,1
+Fermented milks,Spices,1
+Fermented milks,Herbs,1
+Gourds,Root vegetables,1
+Other milk products,Root vegetables,1
+Gourds,Herbs,2
+Fermented milks,Other milk products,1
+Other milk products,Gourds,2
+Fermented milks,Root vegetables,1
+Fermented milks,Gourds,1
+Fermented milk products,Cereals,1
+Fermented milk products,Gourds,1
+Gourds,Eggs,1
+Fishes,Berries,1
+Herbs,Berries,4
+Herbs,Fishes,2
+Eggs,Berries,1
+Eggs,Fishes,1
+Poultry,Berries,1
+Poultry,Fishes,1
+Peas,Citrus,1
+Spices,Citrus,1
+Peas,Spices,1
+Fruit vegetables,Herbs,2
+Fruit vegetables,Fruit vegetables,2
+Other milk products,Berries,2
+Bivalvia,Other milk products,1
+Bivalvia,Herbs,1
+Bivalvia,Berries,1
+Gourds,Berries,2
+Cereals,Other milk products,1
+Cereals,Gourds,1
+Cereals,Berries,1
+Cereals,Herbs,1
+Cereals,Fruit vegetables,1
+Fishes,Fruit vegetables,1
+Cereals,Fishes,1
+Other milk products,Nuts,2
+Eggs,Nuts,3
+Other milk products,Fruit vegetables,2
+Other milk products,Spices,2
+Spices,Fruit vegetables,1
+Citrus,Herbs,1
+Fruit vegetables,Cereal products,1
+Citrus,Cereal products,1
+Herbs,Cereal products,1
+Other milk products,Cereal products,1
+Nuts,Baking goods,1
